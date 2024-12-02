@@ -1,6 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>学习谷歌搜索检索规则助力精准检索</title>
+    <url>/2024/12/01/GoogleSearch/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'G-GZERXT2J5M');
+</script>
+
+<title>学习谷歌搜索检索规则助力精准检索</title>
+</head>
+
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">语法</th>
+      <th style="text-align: left">语法说明</th>
+      <th style="text-align: left">示例</th>
+      <th style="text-align: left">示例解释</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left"><strong>+</strong></td>
+      <td style="text-align: left">也可以用AND，搜索包含多个关键词的结果</td>
+      <td style="text-align: left">生物信息学 + R语言<br>生物信息学 AND R语言</td>
+      <td style="text-align: left">搜索包含【生物信息学】和【R语言】两个词的页面</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">2</td>
+      <td style="text-align: left"><strong>OR</strong></td>
+      <td style="text-align: left">或者</td>
+      <td style="text-align: left">生物信息学 OR R语言</td>
+      <td style="text-align: left">搜索包含【生物信息学】或【R语言】两个词的页面</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">3</td>
+      <td style="text-align: left"><strong>-</strong></td>
+      <td style="text-align: left">不包含减号后面词的页面</td>
+      <td style="text-align: left">生物信息学 -进化树</td>
+      <td style="text-align: left">搜索不包括【进化树】的【生物信息学】的页面</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left"><strong>“”</strong></td>
+      <td style="text-align: left">双引号，精确匹配</td>
+      <td style="text-align: left">“生物信息学”</td>
+      <td style="text-align: left">精确匹配【生物信息学】这个关键词的页面</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">5</td>
+      <td style="text-align: left"><strong>*</strong></td>
+      <td style="text-align: left">星号，通配符，模糊搜索，星号代替某个字</td>
+      <td style="text-align: left">**搜索</td>
+      <td style="text-align: left">星号可以为任何字</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">6</td>
+      <td style="text-align: left"><strong>@</strong></td>
+      <td style="text-align: left">在用于搜索社交媒体的字词前加上@</td>
+      <td style="text-align: left">Taylor Swift @Instagram</td>
+      <td style="text-align: left">搜索ins上的霉霉</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">7</td>
+      <td style="text-align: left"><strong>$</strong></td>
+      <td style="text-align: left">在数字前加上$搜索特定价格</td>
+      <td style="text-align: left">ChatGPT $20</td>
+      <td style="text-align: left">搜索20$的ChatGPT会员</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">8</td>
+      <td style="text-align: left"><strong>#</strong></td>
+      <td style="text-align: left">搜索 # 标签</td>
+      <td style="text-align: left">#taylorswift</td>
+      <td style="text-align: left">搜索标签霉霉</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">9</td>
+      <td style="text-align: left"><strong>..</strong></td>
+      <td style="text-align: left">两个点，在两个数字之间加上.. 在数字范围内执行搜索</td>
+      <td style="text-align: left">Pixel 9 pro 1000..1500</td>
+      <td style="text-align: left">搜索1000-1500的谷歌手机</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">10</td>
+      <td style="text-align: left"><strong>filetype</strong></td>
+      <td style="text-align: left">指定某一种文件类型的资源</td>
+      <td style="text-align: left">R语言实战 filetype:pdf</td>
+      <td style="text-align: left">搜索类型为pdf的R语言实战网页</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">11</td>
+      <td style="text-align: left"><strong>site</strong></td>
+      <td style="text-align: left">在指定站点搜索</td>
+      <td style="text-align: left">生物信息学 site:https://www.zhihu.com</td>
+      <td style="text-align: left">在知乎中搜索包含生物信息学的网页</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">12</td>
+      <td style="text-align: left"><strong>cache</strong></td>
+      <td style="text-align: left">查看网站的 Google 缓存版本，会直接显示缓存页面</td>
+      <td style="text-align: left">cache:weibo.com</td>
+      <td style="text-align: left">查看微博的谷歌快照</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">13</td>
+      <td style="text-align: left"><strong>info</strong></td>
+      <td style="text-align: left">在网址前加info:，获取网站详情</td>
+      <td style="text-align: left">info:github.com</td>
+      <td style="text-align: left">搜索github网站详情</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">14</td>
+      <td style="text-align: left"><strong>related</strong></td>
+      <td style="text-align: left">搜索与某个网站有关联的页面</td>
+      <td style="text-align: left">related:sina.com</td>
+      <td style="text-align: left">和新浪网网站结构内容相似的一些其它网站</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">15</td>
+      <td style="text-align: left"><strong>link</strong></td>
+      <td style="text-align: left">返回所有链接到某个URL地址的网页</td>
+      <td style="text-align: left">link:www.csdn.net</td>
+      <td style="text-align: left">搜索所有含指向【www.csdn.net】链接的网页</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">16</td>
+      <td style="text-align: left"><strong>inurl</strong></td>
+      <td style="text-align: left">搜索查询词出现在url 中的页面</td>
+      <td style="text-align: left">inurl:生物信息学</td>
+      <td style="text-align: left">搜索链接url中有【生物信息学】的网页</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">17</td>
+      <td style="text-align: left"><strong>intitle</strong></td>
+      <td style="text-align: left">搜索查询词出现在页面标题(title)中的页面，支持中文和英文</td>
+      <td style="text-align: left">intitle:生物信息学</td>
+      <td style="text-align: left">搜索页面标题中有【生物信息学】的网页</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">18</td>
+      <td style="text-align: left"><strong>intext</strong></td>
+      <td style="text-align: left">搜索查询词出现在页面正文(title)中的页面，支持中文和英文</td>
+      <td style="text-align: left">SEO intext:GO富集分析</td>
+      <td style="text-align: left">在正文包含【GO富集分析】的网页中搜索【SEO】</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">19</td>
+      <td style="text-align: left"><strong>inanchor</strong></td>
+      <td style="text-align: left">搜索链接锚文字(即链接显示的文字)中包含搜索词的页面</td>
+      <td style="text-align: left">inanchor:前端</td>
+      <td style="text-align: left">搜索链接锚文字中包含【前端】的页面</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">20</td>
+      <td style="text-align: left"><strong>allinurl</strong></td>
+      <td style="text-align: left">即all+inurl 页面url中包含多个关键词的页面</td>
+      <td style="text-align: left">allinurl:SEO 搜索引擎优化</td>
+      <td style="text-align: left">相当于 ：inurl:SEO inurl:搜索引擎优化</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">21</td>
+      <td style="text-align: left"><strong>allintitle</strong></td>
+      <td style="text-align: left">即all+intitle 页面标题中包含多个关键词的页面</td>
+      <td style="text-align: left">allintitle:SEO 搜索引擎优化</td>
+      <td style="text-align: left">相当于：intitle:SEO intitle:搜索引擎优化</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">22</td>
+      <td style="text-align: left"><strong>allintext</strong></td>
+      <td style="text-align: left">即all+inanchor 页面正文包含多个关键词的页面</td>
+      <td style="text-align: left">allintext:SEO 搜索引擎优化</td>
+      <td style="text-align: left">相当于：intext:SEO intext:搜索引擎优化</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">23</td>
+      <td style="text-align: left"><strong>allinanchor</strong></td>
+      <td style="text-align: left">即all+inanchor 页面链接锚文字包含多个关键词的页面</td>
+      <td style="text-align: left">allinanchor:SEO 搜索引擎优化</td>
+      <td style="text-align: left">相当于：inanchor:SEO inanchor:搜索引擎优化</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">24</td>
+      <td style="text-align: left"><strong>weather</strong></td>
+      <td style="text-align: left">weather/time/sunrise/sundown+城市名，返回城市的天气/时间/日出时间/日落时间</td>
+      <td style="text-align: left">weather:beijing</td>
+      <td style="text-align: left">显示北京的天气</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">25</td>
+      <td style="text-align: left"><strong>music</strong></td>
+      <td style="text-align: left">也可以用songs，歌手名字+music/songs</td>
+      <td style="text-align: left">Taylor Swift music<br>Taylor Swift songs</td>
+      <td style="text-align: left">返回霉霉的各首歌曲</td>
+    </tr>
+  </tbody>
+</table>
+
+<pre>上述表格的符号全为英文状态下的符号，空格一定要有。</pre>
+
+<p>虽然有那么多语法，但是我们不需要全部记忆，只需要在我们需要的时候看一下在进行检索，用多了就记住了，而且不是都很常用，一般常用的是1，3，4，10，
+11，16-18。语法不是单一的，是可以一起使用的。比如：</p>
+<pre>"生物信息学" site: www.blog.csdn.net</pre>
+<p>就是搜索CSDN中包括生物信息学的文章。因为CSDN提供搜索服务，所以这只是一个举例，有些网站并不提供检索服务，才是适用场景。请注意，语法是工具，
+不是你记忆的累赘，如果没有多少使用场景可以不使用，而是依靠现有的Large Language Model(LLM)，即现有的生成式AI模型，可以提升我们的效率。</p>
+
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Online Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A plugin help you academic</title>
     <url>/2024/11/24/AexHelpAcademic/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -38,6 +267,121 @@ gtag('config', 'G-GZERXT2J5M');
 </html>]]></content>
       <tags>
         <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Guidance</title>
+    <url>/2024/10/24/Guidance/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'G-GZERXT2J5M');
+</script>
+
+<title>Guidance</title>
+</head>
+<body>
+
+<h1>AllLink-official</h1>
+<h2>Hello everyone, welcome to our website!</h2>
+
+<p>We Focus on making everyone chat online without hindrance all over the world and study free.
+You can learn topics as following.</p>
+
+<ol>
+<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
+<li>Useful learning websites</li>
+<li>Study sources (PDF)</li>
+<li>AI/Machine Learning</li>
+<li>Computer Science (CS)</li>
+<li>Data Science (DS)</li>
+<li>Biology/Bioscience/Life Science</li>
+<li>Chemistry</li>
+<li>Physics</li>
+<li>Mathematics</li>
+</ol>
+
+<blockquote>
+<p>Note:  allowed to be used for study; not allowed to be commercial</p>
+</blockquote>
+<h2>Follow us</h2>
+
+<ul>
+<li><a href="https://www.github.com/AllLink-official">Github</a></li>
+<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
+<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
+<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
+<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
+<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
+<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
+<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
+<li><a href="https://www.threads.com/">Threads</a></li>
+<li><a href="https://www.x.com/">X/Twitter</a></li>
+<li><a href="https://www.facebook.com">Facebook</a></li>
+<li><a href="https://www.vk.com/">VK</a></li>
+<li><a href="https://www.instagram/">Instagram</a></li>
+<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
+<li><a href="https://www.tumblr.com/">Tumblr</a></li>
+<li><a href="https://www.tiktok.com/">Tiktok</a></li>
+<li><a href="https://www.kwai.com/">Kwai</a></li>
+<li><a href="https://www.likee.com/">Likee</a></li>
+<li><a href="https://www.snapchat.com/">Snapchat</a></li>
+<li><a href="https://www.whee.com/">Whee</a></li>
+<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+</ul>
+
+<h2>Contact us</h2>
+
+<ul>
+<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
+<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
+<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
+<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
+<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
+<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
+<li><a href="https://www.webex.com/">Webex</a></li>
+<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
+<li><a href="https://www.message.com/">Messager</a></li>
+<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
+<li><a href="https://www.groupme.com/">Group Me</a></li>
+<li><a href="https://www.discord.com/invite/">Discord</a></li>
+<li><a href="https://join.slack.com/t/">Slack</a></li>
+<li><a href="https://line.me/">LINE</a></li>
+</ul>
+
+<h2>QR</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>QQ</th>
+      <th>WeChat</th>
+      <th>WeCom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="QQ"></td> 
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeChat"></td>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeCom"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Guidance</tag>
       </tags>
   </entry>
   <entry>
@@ -100,101 +444,6 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
       </tags>
   </entry>
   <entry>
-    <title>Guidance</title>
-    <url>/2024/10/24/Guidance/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-gtag('config', 'G-GZERXT2J5M');
-</script>
-
-<title>Guidance</title>
-</head>
-<body>
-
-<h1>AllLink-official</h1>
-<h2>Hello everyone, welcome to our website!</h2>
-
-<p>We Focus on making everyone chat online without hindrance all over the world and study free.
-You can learn topics as following.</p>
-
-<ol>
-<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
-<li>Useful learning websites</li>
-<li>Study sources (PDF)</li>
-<li>AI/Machine Learning</li>
-<li>Computer Science (CS)</li>
-<li>Data Science (DS)</li>
-<li>Biology/Bioscience/Life Science</li>
-<li>Chemistry</li>
-<li>Physics</li>
-<li>Mathematics</li>
-</ol>
-
-<blockquote>
-<p>Note:  allowed to be used for study; not allowed to be commercial</p>
-</blockquote>
-<h2>Follow us</h2>
-
-<ul>
-<li><a class="link" href="https://www.github.com/AllLink-official">GIthub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> </li>
-<li><a class="link" href="https://huggingface.co/LeeFalcon">Hugging face <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://gitlab.com/alllink-official/AllLink-official">GitLab <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://gitea.com/AllLink-official">Gitea <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Reddit: —</li>
-<li>Medium: —</li>
-<li>Quaro: —</li>
-<li>Threads: —</li>
-<li>X&#x2F;Twitter: —</li>
-<li>Facebook: —</li>
-<li>VK: —</li>
-<li><a class="link" href="https://www.youtube.com/@AllLinkofficial">Youtube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Instgram: —</li>
-<li>Tumblr: —</li>
-<li>Tiktok: —</li>
-<li>Kwai: —</li>
-<li>Likee: —</li>
-<li>Snapchat: —</li>
-<li>Whee: —</li>
-<li>LinkedIn: —</li>
-</ul>
-<h2>Contact us</h2>
-
-<ul>
-<li>Gmail: —</li>
-<li>Discord: —</li>
-<li>Slack: —</li>
-<li>LINE: —</li>
-<li>Telegram: —</li>
-<li>Webex: —</li>
-<li>WhatsApp: —</li>
-<li>Messager: —</li>
-<li>Group Me: —</li>
-<li>Outlook: —</li>
-<li>Proton mail: </li>
-<li>Foxmail:—</li>
-<li>QQmail:—</li>
-<li>Wechat: —</li>
-<li>QQ: —</li>
-<li>WeCom: —</li>
-</ul>
-</body>  
-
-</html>]]></content>
-      <tags>
-        <tag>Guidance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Online Learning Web</title>
     <url>/2024/11/14/OnlineLearning-Web/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -237,8 +486,8 @@ gtag('config', 'G-GZERXT2J5M');
       </tags>
   </entry>
   <entry>
-    <title>Python Machine Learning</title>
-    <url>/2024/11/29/PDFPyML/</url>
+    <title>Machine Learning in action</title>
+    <url>/2024/12/01/PDFML-in-action/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -253,66 +502,66 @@ gtag('config', 'G-GZERXT2J5M');
 gtag('config', 'G-GZERXT2J5M');
 </script>
 
-<title>Python Machine Learning</title>
+<title>Machine Learning in action</title>
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>Discover the Future with "Python Machine Learning" 📚🤖</h2>
+<h2>Dive into the World of Machine Learning with "Machine Learning in Action" 📘🤖</h2>
 
-<p>Unlocking the potential of machine learning has never been easier with "Python Machine Learning: Unlock deeper 
-insights into machine learning with this vital guide to cutting-edge predictive analytics," featuring a foreword by Dr. 
-Randal S. Olson, a renowned AI and machine learning researcher from the University of Pennsylvania. This book is a 
-treasure trove of knowledge that will guide you through the fascinating world of machine learning, using Python as your 
-trusty companion. 🐍✨</p>
+<p>Are you ready to unlock the incredible potential of machine learning and take your data analysis skills to the next 
+level? Look no further than "Machine Learning in Action" by Peter Harrington. This book is a comprehensive guide that 
+provides you with the knowledge and tools needed to master machine learning concepts and apply them in real-world 
+scenarios. 🌟</p>
 
-<h2>A Comprehensive Guide for All Levels</h2>
+<h2>A Perfect Blend of Theory and Practice</h2>
 
-<p>Whether you're a seasoned data scientist or just starting out on your machine learning journey, this book is designed 
-to cater to all skill levels. The authors have meticulously crafted a guide that is both accessible and thorough, 
-ensuring that readers can follow along regardless of their prior experience. The book begins with the basics, introducing 
-fundamental concepts and gradually building up to more advanced topics. 📈</p>
+<p>"Machine Learning in Action" strikes the perfect balance between theoretical foundations and practical applications. 
+The book is structured to cater to both beginners and experienced professionals, ensuring that readers can follow along 
+regardless of their prior experience. Harrington's clear and engaging writing style makes complex concepts accessible, 
+allowing you to grasp the essentials of machine learning without feeling overwhelmed. 📚✨</p>
 
 <h2>Hands-On Approach to Learning</h2>
 
-<p>One of the standout features of this book is its hands-on approach. Each chapter is packed with practical examples 
-and exercises that allow you to apply what you've learned immediately. This approach not only reinforces your 
-understanding but also provides you with valuable experience in working with real-world datasets. By the end of the book, 
-you'll have a solid foundation in machine learning and be well-equipped to tackle complex data problems. 🛠️🔍</p>
+<p>One of the standout features of this book is its hands-on approach. Each chapter is filled with practical examples 
+and exercises that allow you to apply what you've learned immediately. By working through these exercises, you'll gain 
+valuable experience in implementing machine learning algorithms and solving real-world problems. The book covers a wide 
+range of topics, from simple linear regression to more advanced techniques like support vector machines and clustering. 
+🛠️🔍</p>
 
-<h2>Cutting-Edge Techniques and Tools</h2>
+<h2>Comprehensive Coverage of Algorithms</h2>
 
-<p>"Python Machine Learning" delves into a wide range of machine learning algorithms and techniques, from basic linear 
-regression to sophisticated neural networks. The book also covers essential tools and libraries, such as Scikit-Learn, 
-Pandas, and TensorFlow, providing you with a comprehensive toolkit for your machine learning projects. Each algorithm 
-and tool is explained in detail, with clear, step-by-step instructions on how to implement them in Python. 🧠💻</p>
+<p>"Machine Learning in Action" provides an in-depth exploration of various machine learning algorithms and techniques. 
+You'll learn about decision trees, neural networks, ensemble methods, and more. Each algorithm is explained in detail, 
+with clear, step-by-step instructions on how to implement them using Python. The book also covers important topics like 
+feature selection, model evaluation, and improving model accuracy, ensuring that you have a solid understanding of the 
+entire machine learning pipeline. 🧠💻</p>
 
-<h2>Insights from a Leading Expert</h2>
+<h2>Real-World Applications</h2>
 
-<p>The foreword by Dr. Randal S. Olson adds a unique touch to the book, offering insights from a leading expert in the 
-field. Dr. Olson's perspective on the current state and future of AI and machine learning provides valuable context and 
-inspiration, encouraging readers to think critically and creatively about the impact of their work. 🌟🧠</p>
+<p>What sets this book apart is its focus on real-world applications. Harrington provides numerous examples and case 
+studies that demonstrate how machine learning can be used to solve actual problems. From predicting stock prices to 
+detecting spam emails, these examples show you how to apply machine learning techniques in practical situations. This 
+approach not only reinforces your understanding but also gives you the confidence to tackle your own data challenges. 
+🌐📊</p>
 
 <h2>Staying Ahead in a Dynamic Field</h2>
 
-<p>The field of machine learning is rapidly evolving, and this book ensures that you stay ahead of the curve. It includes 
-the latest advancements in machine learning research and practical applications, making it a must-read for anyone 
-looking to stay relevant in this dynamic field. By keeping up with the latest trends and techniques, you'll be prepared 
-to tackle the challenges and opportunities that lie ahead. 🚀📊</p>
+<p>The field of machine learning is constantly evolving, and "Machine Learning in Action" ensures that you stay ahead of 
+the curve. The book includes the latest advancements in machine learning research and practical applications, making it 
+a must-read for anyone looking to stay relevant in this dynamic field. By keeping up with the latest trends and 
+techniques, you'll be prepared to tackle the challenges and opportunities that lie ahead. 🚀📈</p>
 
 <h2>Conclusion</h2>
 
-<p>"Python Machine Learning" is an indispensable resource for anyone interested in mastering machine learning with Python. 
-With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both beginners and 
-experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full potential of your 
-data today! 🌐📘</p>
-
-<p>I hope you find this post insightful and inspiring! If you have any further questions or need more information, feel 
-free to ask. Happy learning! 📖🎓</p>
+<p>"Machine Learning in Action" by Peter Harrington is an invaluable resource for anyone interested in mastering machine 
+learning. With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both 
+beginners and experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full 
+potential of your data today! 🌟📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/clojurians-org/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
 </blockquote>
 </body>  
 
@@ -387,10 +636,90 @@ looking to delve deep into the world of data mining and machine learning. With i
 approach, and comprehensive coverage, this book is perfect for both beginners and seasoned professionals. So, why wait? 
 Grab your copy today and start unlocking the potential hidden in your data! 🌐📊</p>
 
-<p>Hope this post gives you a good start. If you need anything else, feel free to ask! 📘✨</p>
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Data Mining"></p>
+</blockquote>
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python Machine Learning</title>
+    <url>/2024/11/29/PDFPyML/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'G-GZERXT2J5M');
+</script>
+
+<title>Python Machine Learning</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>Discover the Future with "Python Machine Learning" 📚🤖</h2>
+
+<p>Unlocking the potential of machine learning has never been easier with "Python Machine Learning: Unlock deeper 
+insights into machine learning with this vital guide to cutting-edge predictive analytics," featuring a foreword by Dr. 
+Randal S. Olson, a renowned AI and machine learning researcher from the University of Pennsylvania. This book is a 
+treasure trove of knowledge that will guide you through the fascinating world of machine learning, using Python as your 
+trusty companion. 🐍✨</p>
+
+<h2>A Comprehensive Guide for All Levels</h2>
+
+<p>Whether you're a seasoned data scientist or just starting out on your machine learning journey, this book is designed 
+to cater to all skill levels. The authors have meticulously crafted a guide that is both accessible and thorough, 
+ensuring that readers can follow along regardless of their prior experience. The book begins with the basics, introducing 
+fundamental concepts and gradually building up to more advanced topics. 📈</p>
+
+<h2>Hands-On Approach to Learning</h2>
+
+<p>One of the standout features of this book is its hands-on approach. Each chapter is packed with practical examples 
+and exercises that allow you to apply what you've learned immediately. This approach not only reinforces your 
+understanding but also provides you with valuable experience in working with real-world datasets. By the end of the book, 
+you'll have a solid foundation in machine learning and be well-equipped to tackle complex data problems. 🛠️🔍</p>
+
+<h2>Cutting-Edge Techniques and Tools</h2>
+
+<p>"Python Machine Learning" delves into a wide range of machine learning algorithms and techniques, from basic linear 
+regression to sophisticated neural networks. The book also covers essential tools and libraries, such as Scikit-Learn, 
+Pandas, and TensorFlow, providing you with a comprehensive toolkit for your machine learning projects. Each algorithm 
+and tool is explained in detail, with clear, step-by-step instructions on how to implement them in Python. 🧠💻</p>
+
+<h2>Insights from a Leading Expert</h2>
+
+<p>The foreword by Dr. Randal S. Olson adds a unique touch to the book, offering insights from a leading expert in the 
+field. Dr. Olson's perspective on the current state and future of AI and machine learning provides valuable context and 
+inspiration, encouraging readers to think critically and creatively about the impact of their work. 🌟🧠</p>
+
+<h2>Staying Ahead in a Dynamic Field</h2>
+
+<p>The field of machine learning is rapidly evolving, and this book ensures that you stay ahead of the curve. It includes 
+the latest advancements in machine learning research and practical applications, making it a must-read for anyone 
+looking to stay relevant in this dynamic field. By keeping up with the latest trends and techniques, you'll be prepared 
+to tackle the challenges and opportunities that lie ahead. 🚀📊</p>
+
+<h2>Conclusion</h2>
+
+<p>"Python Machine Learning" is an indispensable resource for anyone interested in mastering machine learning with Python. 
+With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both beginners and 
+experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full potential of your 
+data today! 🌐📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/clojurians-org/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Data Mining"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
 </blockquote>
 </body>  
 
@@ -459,7 +788,10 @@ introduces you to R's powerful graphics capabilities through base graphics and t
 create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like 
 heatmaps and interactive plots.</p>
 
-<p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. The book includes numerous examples and code snippets, showing you how to customize your plots and make them publication-ready.</p>
+<p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. 
+The book includes numerous examples and code snippets, showing you how to customize your plots and make them 
+publication-ready.</p>
+
 <h2>Practical Applications and Case Studies</h2>
 
 <p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. 
@@ -492,44 +824,13 @@ navigate the ever-evolving field of data science and make data-driven decisions 
 further assistance, feel free to ask. 📘📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/clojurians-org/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/Rinaction.png" alt="R in action"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/Rinaction.png" alt="R in action"></p>
 </blockquote>
 </body>  
 
 </html>]]></content>
       <tags>
         <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Install Google Play Store On Phone</title>
-    <url>/2024/11/20/PlayStore-OnPhone/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-gtag('config', 'G-GZERXT2J5M');
-</script>
-
-<title>Install Google Play Store On Phone</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link" href="https://www.apkmirror.com/">APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkcombo.com/">APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.en.uptodown.com/">Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
-</body>
-
-</html>]]></content>
-      <tags>
-        <tag>Proxy</tag>
       </tags>
   </entry>
   <entry>
@@ -682,6 +983,80 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
       </tags>
   </entry>
   <entry>
+    <title>Reconmmended Node Shop</title>
+    <url>/2024/11/02/Recommended-NodeShop/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'G-GZERXT2J5M');
+</script>
+
+<title>Reconmmended Node Shop</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h1 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h1><p>可选择的机场很多，但也不乏有几元&#x2F;月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
+<h1 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h1><ol>
+<li><a class="link" href="https://juziyun996.xyz/auth/register?code=HmUU">桔子云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.nicecloud.ink/register?aff=uIZATVIk">NiceCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.ikuajings.com/auth/register?code=isH2">跨境Cloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://jikeq87.xyz/auth/register?code=T2o4">极客云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://portal.dc-site5.com/#/register?code=nTu25MIJ">DuangCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://shuttle.gt-all.com/aff.php?aff=10426">Gatern <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://llg01.com/#/register?code=vbCJ3mLb">流量光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>  ### 此机场似乎有问题，慎重选择</li>
+</ol>
+<blockquote>
+<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
+</blockquote>
+</body>
+
+</html>]]></content>
+      <tags>
+        <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Install Google Play Store On Phone</title>
+    <url>/2024/11/20/PlayStore-OnPhone/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'G-GZERXT2J5M');
+</script>
+
+<title>Install Google Play Store On Phone</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link" href="https://www.apkmirror.com/">APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkcombo.com/">APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.en.uptodown.com/">Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
+</body>
+
+</html>]]></content>
+      <tags>
+        <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Save and manage any website you loved</title>
     <url>/2024/11/22/SaveAnyWebsite/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -736,49 +1111,6 @@ Pocket is the app for you. Download it today and start saving smarter! 📚✨</
 ]]></content>
       <tags>
         <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Reconmmended Node Shop</title>
-    <url>/2024/11/02/Recommended-NodeShop/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZERXT2J5M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-gtag('config', 'G-GZERXT2J5M');
-</script>
-
-<title>Reconmmended Node Shop</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h1 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h1><p>可选择的机场很多，但也不乏有几元&#x2F;月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
-<h1 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h1><ol>
-<li><a class="link" href="https://juziyun996.xyz/auth/register?code=HmUU">桔子云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.nicecloud.ink/register?aff=uIZATVIk">NiceCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.ikuajings.com/auth/register?code=isH2">跨境Cloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://jikeq87.xyz/auth/register?code=T2o4">极客云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://portal.dc-site5.com/#/register?code=nTu25MIJ">DuangCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://shuttle.gt-all.com/aff.php?aff=10426">Gatern <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://llg01.com/#/register?code=vbCJ3mLb">流量光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>  ### 此机场似乎有问题，慎重选择</li>
-</ol>
-<blockquote>
-<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
-</blockquote>
-</body>
-
-</html>]]></content>
-      <tags>
-        <tag>Proxy</tag>
       </tags>
   </entry>
 </search>
