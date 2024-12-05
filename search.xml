@@ -13,7 +13,7 @@
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<img border="0" lazyload src="/images/loading.svg" data-src="/img/Jego.png" alt="Jego">
+<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/AexHelpAcademic/Jego.png" alt="Jego">
 
 <p><a class="link" href="https://jegocloud.com/">Jego <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是一款
 <a class="link" href="https://microsoftedge.microsoft.com/addons/detail/jego-free-vpn-for-copil/bkpoijbobhmbglhjjmnoedomdoabilol">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
@@ -28,55 +28,6 @@
 </html>]]></content>
       <tags>
         <tag>Proxy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Browser Extensions enhance Learning</title>
-    <url>/2024/11/21/BrowserEx-HelpLearning/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Browser Extensions enhance Learning</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>
-今天带来几款插件帮助你更好的学习，不管你有没有学习的需求，都将提升你的效率。
-</p>
-
-<ol>
-<li><p>Enhance for YouTube<sup>TM</sup></p>
-<ul style="list-style-type:circle">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不用每个视频都要选择分辨率，包括页面、小窗模式；关闭侧边相关视频，具体功能请自行安装测试。
-</li>
-<li><p>AI Subtitles &amp; Immersive Translate - Trancy</p>
-<ul style="list-style-type:square">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/ai-subtitles-immersive-/aepdhbcjfkpncgbmlllcaloniioihlma">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/trancyfordesktop/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-支持Youtube、TED、四大慕课平台和部分影视平台，比如Netflix和Disney+等，支持翻译成各种语言，提供双语字幕，翻译字幕，原始字幕（无字幕则语音识别）。
-</li>
-<li><p>SingleFile</p>
-<ul style="list-style-type:disc">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/single-file/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-我们在学习和工作中有很多浏览场景，但遇到自己喜欢的网站，右键保存则会出现一个文件夹，里面一堆文件且保持浏览完整性不行删除，此插件解决了该问题，只生成html文件，十分简洁。</li>
-</ol>
-</body>
-
-</html>]]></content>
-      <tags>
-        <tag>Online Learning</tag>
       </tags>
   </entry>
   <entry>
@@ -299,6 +250,55 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
       </tags>
   </entry>
   <entry>
+    <title>Browser Extensions enhance Learning</title>
+    <url>/2024/11/21/BrowserEx-HelpLearning/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Browser Extensions enhance Learning</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>
+今天带来几款插件帮助你更好的学习，不管你有没有学习的需求，都将提升你的效率。
+</p>
+
+<ol>
+<li><p>Enhance for YouTube<sup>TM</sup></p>
+<ul style="list-style-type:circle">
+<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不用每个视频都要选择分辨率，包括页面、小窗模式；关闭侧边相关视频，具体功能请自行安装测试。
+</li>
+<li><p>AI Subtitles &amp; Immersive Translate - Trancy</p>
+<ul style="list-style-type:square">
+<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/ai-subtitles-immersive-/aepdhbcjfkpncgbmlllcaloniioihlma">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/trancyfordesktop/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+支持Youtube、TED、四大慕课平台和部分影视平台，比如Netflix和Disney+等，支持翻译成各种语言，提供双语字幕，翻译字幕，原始字幕（无字幕则语音识别）。
+</li>
+<li><p>SingleFile</p>
+<ul style="list-style-type:disc">
+<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/single-file/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+我们在学习和工作中有很多浏览场景，但遇到自己喜欢的网站，右键保存则会出现一个文件夹，里面一堆文件且保持浏览完整性不行删除，此插件解决了该问题，只生成html文件，十分简洁。</li>
+</ol>
+</body>
+
+</html>]]></content>
+      <tags>
+        <tag>Online Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Guidance</title>
     <url>/2024/10/24/Guidance/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -436,6 +436,71 @@ You can learn topics as following.</p>
       </tags>
   </entry>
   <entry>
+    <title>Lehninger’s principles of biochemistry,7e</title>
+    <url>/2024/12/02/PDFBCL/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Lehninger’s principles of biochemistry,7e</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>📚 Introducing: Lehninger’s Principles of Biochemistry, 7th Edition! 🧬</h2>
+
+<p>Hey there, college students! 📣 If you're diving into the world of biochemistry, there's one book that you absolutely 
+cannot miss: Lehninger’s Principles of Biochemistry, 7th Edition. This book isn't just a textbook; it's a treasure trove 
+of knowledge that will guide you through the fascinating world of biochemical processes. 🌟</p>
+
+<h2>Why Lehninger's Principles? 🤔</h2>
+
+<ol>
+<li>Comprehensive Content: This edition is packed with detailed, up-to-date information that covers all the core topics 
+in biochemistry. From the basic concepts to the most advanced topics, it’s all in there. It’s like having a personal 
+biochemistry tutor right on your bookshelf! 🧪📖</li>
+
+<li>Clear Explanations: The authors, David L. Nelson and Michael M. Cox, are experts in making complex topics understandable. They use clear language, helpful diagrams, and engaging examples to ensure you grasp every concept. 🧠✨</li>
+
+<li>Engaging Learning Tools: With this book, learning is never boring. It includes various tools like end-of-chapter questions, problem-solving tips, and real-life applications that make studying interactive and fun. 📝🔬</li>
+</ol>
+
+<h2>What’s New in the 7th Edition? 🚀</h2>
+
+<p>Updated Research: Stay ahead with the latest research and discoveries in the field. The 7th edition includes updated 
+content reflecting recent advances in biochemistry. 🔍🔬</p>
+
+<p>New Illustrations and Graphics: Visual learners, rejoice! The new edition comes with enhanced illustrations and 
+graphics that make understanding the material even easier. 🎨📊</p>
+
+<p>Enhanced Learning Features: More interactive and engaging features have been added to help you connect with the 
+material on a deeper level. 📚💡</p>
+
+<h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
+
+<p>Whether you’re a biochemistry major or just taking an introductory course, this book is a perfect companion. It’s 
+designed to cater to both beginners and advanced learners, ensuring everyone can benefit from its wealth of knowledge. 
+🌐📘</p>
+
+<h2>Final Thoughts 💭</h2>
+
+<p>Lehninger’s Principles of Biochemistry(7th Edition), is more than just a textbook; it’s your guide to mastering 
+biochemistry. With its clear explanations, comprehensive coverage, and engaging tools, it's the ideal resource for any 
+college student looking to excel in this subject. So, what are you waiting for? Dive into the wonders of biochemistry 
+today! 🧬🚀📚</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81DszDGjnXL._AC_UF1000,1000_QL80_.jpg" alt="principles of biochemistry"></p>
+</blockquote>
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Data Mining 3rd</title>
     <url>/2024/11/29/PDFDataMining/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -492,7 +557,7 @@ approach, and comprehensive coverage, this book is perfect for both beginners an
 Grab your copy today and start unlocking the potential hidden in your data! 🌐📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Data Mining"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81sYy1D9n7L._SL1360_.jpg" alt="Data Mining"></p>
 </blockquote>
 </body>  
 
@@ -514,114 +579,51 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>
+<h2>📚 Introducing: Karp’s Cell and Molecular Biology, Concepts and Experiments, 9th Edition! 🧬</h2>
 
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/19DF_dhfujUfFR74C7XyD1w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Karp’s Cell and Molecular Biology Concepts and Experiments 9e"></p>
-</blockquote>
-</h2></body>  
+<p>Hey, bioscience and medical students! 📣 If you're ready to dive into the captivating world of cell and molecular 
+biology, then you absolutely need to check out Karp’s Cell and Molecular Biology, Concepts and Experiments, 9th Edition 
+by Gerald Karp, Janet Iwasa, and Wallace Marshall. This book is a treasure trove of knowledge, packed with everything 
+you need to excel in your studies. 🌟</p>
 
-</html>
-]]></content>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Lehninger’s principles of biochemistry,7e</title>
-    <url>/2024/12/02/PDFBCL/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Lehninger’s principles of biochemistry,7e</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>📚 Introducing: Lehninger’s Principles of Biochemistry, 7th Edition! 🧬</h2>
-
-<p>Hey there, college students! 📣 If you're diving into the world of biochemistry, there's one book that you absolutely 
-cannot miss: Lehninger’s Principles of Biochemistry, 7th Edition. This book isn't just a textbook; it's a treasure trove 
-of knowledge that will guide you through the fascinating world of biochemical processes. 🌟</p>
-
-<h2>Why Lehninger's Principles? 🤔</h2>
-
+<h2>Why Karp’s Cell and Molecular Biology? 🤔</h2>
 <ol>
-<li>Comprehensive Content: This edition is packed with detailed, up-to-date information that covers all the core topics in biochemistry. From the basic concepts to the most advanced topics, it’s all in there. It’s like having a personal biochemistry tutor right on your bookshelf! 🧪📖</li>
-
-<li>Clear Explanations: The authors, David L. Nelson and Michael M. Cox, are experts in making complex topics understandable. They use clear language, helpful diagrams, and engaging examples to ensure you grasp every concept. 🧠✨</li>
-
-<li>Engaging Learning Tools: With this book, learning is never boring. It includes various tools like end-of-chapter questions, problem-solving tips, and real-life applications that make studying interactive and fun. 📝🔬</li>
+<li>Comprehensive Content: This book offers an exhaustive overview of cell and molecular biology. From the basic building 
+blocks of life to complex cellular processes, it covers everything you need to know. It's perfect for both beginners and 
+advanced students. 🧬📖</li>
+<li>Clear and Engaging Explanations: The authors have a knack for making complex concepts easy to understand. They use 
+clear language, detailed diagrams, and practical examples to ensure you can grasp even the most challenging topics. 🧠✨</li>
+<li>Experimental Approach: What sets this book apart is its emphasis on experiments. It doesn't just teach you the theory 
+but also explains the experiments that led to these discoveries, helping you appreciate the scientific process. 🧪🔬</li>
 </ol>
 
-<h2>What’s New in the 7th Edition? 🚀</h2>
+<h2>What’s New in the 9th Edition? 🚀</h2>
 
-<p>Updated Research: Stay ahead with the latest research and discoveries in the field. The 7th edition includes updated 
-content reflecting recent advances in biochemistry. 🔍🔬</p>
+<p>Updated Research: The 9th edition includes the latest research and advancements in the field, keeping you up to date 
+with the most recent discoveries and trends in cell and molecular biology. 🔍🔬</p>
 
-<p>New Illustrations and Graphics: Visual learners, rejoice! The new edition comes with enhanced illustrations and 
-graphics that make understanding the material even easier. 🎨📊</p>
+<p>Enhanced Visuals: With improved illustrations and graphics, this edition makes it easier for visual learners to 
+understand and retain complex information. 🎨📊</p>
 
-<p>Enhanced Learning Features: More interactive and engaging features have been added to help you connect with the 
-material on a deeper level. 📚💡</p>
+<p>Interactive Learning Tools: This edition comes with a range of interactive features that make studying more engaging 
+and effective. 📚💡</p>
 
 <h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
 
-<p>Whether you’re a biochemistry major or just taking an introductory course, this book is a perfect companion. It’s 
-designed to cater to both beginners and advanced learners, ensuring everyone can benefit from its wealth of knowledge. 
-🌐📘</p>
+<p>Karp’s Cell and Molecular Biology is perfect for bioscience students, medical students, and anyone with a keen 
+interest in the intricacies of cellular mechanisms. Whether you're preparing for exams, conducting research, or simply 
+expanding your knowledge, this book is an essential resource. 🌐📘</p>
 
 <h2>Final Thoughts 💭</h2>
 
-<p>Lehninger’s Principles of Biochemistry(7th Edition), is more than just a textbook; it’s your guide to mastering 
-biochemistry. With its clear explanations, comprehensive coverage, and engaging tools, it's the ideal resource for any 
-college student looking to excel in this subject. So, what are you waiting for? Dive into the wonders of biochemistry 
-today! 🧬🚀📚</p>
+<p>Karp’s Cell and Molecular Biology, Concepts and Experiments, 9th Edition, is more than just a textbook—it's your guide 
+to mastering the complexities of cell and molecular biology. With its comprehensive content, clear explanations, and 
+engaging experimental approach, it’s an invaluable tool for any bioscientific or medical student. So, what are you 
+waiting for? Embark on your journey into the fascinating world of cell biology with Karp’s Cell and Molecular Biology! 
+🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="principles of biochemistry"></p>
-</blockquote>
-</body>  
-
-</html>]]></content>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Lewin&#39;s GENES XII 12th Edition</title>
-    <url>/2024/12/04/PDFLGXII/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Lewin's GENES XII 12th Edition</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>📚 Introducing: Lewin's GENES XII, 12th Edition! 🧬</h2>
-
-<p>Hey, bioscience and medical students! 📣 If you’re ready to delve deep into the fascinating world of genetics, there’s one book that stands out as a must-have: Lewin’s GENES XII, 12th Edition. This textbook is renowned for its comprehensive coverage and authoritative insights into the field of genetics, making it an indispensable resource for your studies. 🌟</p>
-<p>Why Lewin’s GENES XII? 🤔</p>
-<ol>
-<li><p>Comprehensive Content: This edition provides an exhaustive exploration of genetic principles, from fundamental concepts to advanced topics. Whether you’re just starting out or advancing in your studies, Lewin’s GENES XII has got you covered. 🧬📖</p>
-</li>
-<li><p>Expert Authorship: Written by a team of leading geneticists, this book ensures that you’re learning from the best. The authors bring their extensive knowledge and research experience to every chapter, offering you reliable and up-to-date information. 🧠✨</p>
-</li>
-<li><p>Engaging Learning Tools: The book includes a variety of tools to enhance your learning experience. From detailed diagrams and illustrations to end-of-chapter questions and case studies, you’ll find plenty of resources to help you grasp complex genetic concepts. 📝🔬</p>
-</li>
-</ol>
-<p>What’s New in the 12th Edition? 🚀<br>Updated Research: Stay on top of the latest developments in genetics. The 12th edition incorporates the most recent research findings, ensuring you’re learning the most current information available. 🔍🔬</p>
-<p>Enhanced Visuals: With improved illustrations and graphics, visual learners will find it easier to understand intricate genetic processes and mechanisms. 🎨📊</p>
-<p>Interactive Features: This edition is designed to be more interactive, with new features that encourage active learning and help you connect with the material on a deeper level. 📚💡</p>
-<p>Who Should Read This Book? 👨‍🎓👩‍🎓<br>Lewin’s GENES XII is perfect for bioscience students, medical students, and anyone with a keen interest in genetics. Whether you’re preparing for exams, conducting research, or just looking to expand your knowledge, this book is an essential companion. 🌐📘</p>
-<p>Final Thoughts 💭<br>Lewin’s GENES XII, 12th Edition, is more than just a textbook—it’s your gateway to mastering the complexities of genetics. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable resource for any bioscientific or medical student. So, why wait? Embark on your genetic journey and unlock the secrets of life with Lewin’s GENES XII! 🧬🚀📚</p>
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Lewin's GENES XII 12th Edition"></p>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/19DF_dhfujUfFR74C7XyD1w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81hjf-h4-zL.jpg" alt="Karp’s Cell and Molecular Biology Concepts and Experiments 9e"></p>
 </blockquote>
 </body>  
 
@@ -633,7 +635,7 @@ today! 🧬🚀📚</p>
   </entry>
   <entry>
     <title>Lehninger Principles of biochemistry Eighth EDITION</title>
-    <url>/2024/12/06/PDFLPB8/</url>
+    <url>/2024/12/05/PDFLPB8/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html>
 <head>
@@ -644,12 +646,49 @@ today! 🧬🚀📚</p>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>
+<h2>📚 Spotlight on: Lehninger Principles of Biochemistry, 8th Edition! 🧬</h2>
+
+<p>Hello, bioscientific and medical students! 📣 If you're on a quest to master biochemistry, then there's one book that 
+should be on your radar: Lehninger Principles of Biochemistry, 8th Edition. This textbook is a cornerstone in the field, 
+providing a wealth of knowledge that is essential for your academic journey. 🌟</p>
+
+<h2>Why Choose Lehninger Principles of Biochemistry? 🤔</h2>
+<ol>
+<li>Comprehensive Coverage: This edition is packed with an extensive range of topics, from the basic principles to 
+advanced biochemical processes. It’s designed to cater to both newcomers and seasoned students, making it an invaluable 
+resource. 🧪📖</li>
+<li>Expert Authors: Written by renowned experts David L. Nelson and Michael M. Cox, this book combines authoritative 
+insights and clear explanations, ensuring you get the most accurate and up-to-date information in biochemistry. 🧠✨</li>
+<li>Engaging Learning Experience: With its detailed diagrams, illustrative examples, and thought-provoking questions, 
+this book makes learning biochemistry engaging and enjoyable. It’s not just about memorizing facts; it’s about 
+understanding concepts and applying them in real-world scenarios. 📝🔬</li>
+</ol>
+
+<h2>What’s New in the 8th Edition? 🚀</h2>
+<ul>
+<li>Latest Research: The 8th edition incorporates the most recent research findings and scientific advancements, keeping 
+you abreast of the latest developments in biochemistry. 🔍🔬</li>
+<li>Enhanced Visuals: Featuring updated illustrations and graphics, this edition is perfect for visual learners who 
+benefit from seeing complex processes depicted clearly and accurately. 🎨📊</li>
+<li>Interactive Features: This edition includes new interactive learning tools, making it easier for you to engage with 
+the material and deepen your understanding of biochemistry. 📚💡</li>
+</ul>
+
+Who Should Read This Book? 👨‍🎓👩‍🎓
+<p>Lehninger Principles of Biochemistry is an ideal resource for bioscientific students, medical students, and anyone 
+with a strong interest in understanding the biochemical processes that underlie life. Whether you're preparing for exams, 
+conducting research, or simply expanding your knowledge, this book is a must-have. 🌐📘</p>
+
+<h2>Final Thoughts 💭</h2>
+<p>Lehninger Principles of Biochemistry, 8th Edition, is more than just a textbook—it’s your guide to mastering 
+iochemistry. With its comprehensive content, expert guidance, and engaging learning tools, it’s an invaluable companion 
+for any bioscientific or medical student. So, dive into the world of biochemistry and unlock the secrets of life with 
+this essential resource! 🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1M_X3IfhmNhTF5mkdYGhyzQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Lehninger Principles of biochemistry Eighth EDITION"></p>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1M_X3IfhmNhTF5mkdYGhyzQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/91wDPf8H8aL.jpg" alt="Lehninger Principles of biochemistry Eighth EDITION"></p>
 </blockquote>
-</h2></body>  
+</body>  
 
 </html>
 ]]></content>
@@ -711,7 +750,7 @@ of cell biology. With its comprehensive content, expert guidance, and engaging f
 college student. So, why wait? Dive into the captivating world of cell biology and discover the wonders within! 🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1a3UM-6pWr2mL7xWqdB4GTA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Molecular Biology of the Cell 7e"></p>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1a3UM-6pWr2mL7xWqdB4GTA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61U3wDYXxNL._SL1200_.jpg" alt="Molecular Biology of the Cell 7e"></p>
 </blockquote>
 </body>  
 
@@ -721,69 +760,113 @@ college student. So, why wait? Dive into the captivating world of cell biology a
       </tags>
   </entry>
   <entry>
-    <title>Python Machine Learning</title>
-    <url>/2024/11/29/PDFPyML/</url>
+    <title>Lewin&#39;s GENES XII 12th Edition</title>
+    <url>/2024/12/04/PDFLGXII/</url>
     <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 
-<title>Python Machine Learning</title>
+<title>Lewin's GENES XII 12th Edition</title>
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>Discover the Future with "Python Machine Learning" 📚🤖</h2>
+<h2>📚 Introducing: Lewin's GENES XII, 12th Edition! 🧬</h2>
 
-<p>Unlocking the potential of machine learning has never been easier with "Python Machine Learning: Unlock deeper 
-insights into machine learning with this vital guide to cutting-edge predictive analytics," featuring a foreword by Dr. 
-Randal S. Olson, a renowned AI and machine learning researcher from the University of Pennsylvania. This book is a 
-treasure trove of knowledge that will guide you through the fascinating world of machine learning, using Python as your 
-trusty companion. 🐍✨</p>
+<p>Hey, bioscience and medical students! 📣 If you’re ready to delve deep into the fascinating world of genetics, there’s one book that stands out as a must-have: Lewin’s GENES XII, 12th Edition. This textbook is renowned for its comprehensive coverage and authoritative insights into the field of genetics, making it an indispensable resource for your studies. 🌟</p>
+<p>Why Lewin’s GENES XII? 🤔</p>
+<ol>
+<li><p>Comprehensive Content: This edition provides an exhaustive exploration of genetic principles, from fundamental concepts to advanced topics. Whether you’re just starting out or advancing in your studies, Lewin’s GENES XII has got you covered. 🧬📖</p>
+</li>
+<li><p>Expert Authorship: Written by a team of leading geneticists, this book ensures that you’re learning from the best. The authors bring their extensive knowledge and research experience to every chapter, offering you reliable and up-to-date information. 🧠✨</p>
+</li>
+<li><p>Engaging Learning Tools: The book includes a variety of tools to enhance your learning experience. From detailed diagrams and illustrations to end-of-chapter questions and case studies, you’ll find plenty of resources to help you grasp complex genetic concepts. 📝🔬</p>
+</li>
+</ol>
+<p>What’s New in the 12th Edition? 🚀<br>Updated Research: Stay on top of the latest developments in genetics. The 12th edition incorporates the most recent research findings, ensuring you’re learning the most current information available. 🔍🔬</p>
+<p>Enhanced Visuals: With improved illustrations and graphics, visual learners will find it easier to understand intricate genetic processes and mechanisms. 🎨📊</p>
+<p>Interactive Features: This edition is designed to be more interactive, with new features that encourage active learning and help you connect with the material on a deeper level. 📚💡</p>
+<p>Who Should Read This Book? 👨‍🎓👩‍🎓<br>Lewin’s GENES XII is perfect for bioscience students, medical students, and anyone with a keen interest in genetics. Whether you’re preparing for exams, conducting research, or just looking to expand your knowledge, this book is an essential companion. 🌐📘</p>
+<p>Final Thoughts 💭<br>Lewin’s GENES XII, 12th Edition, is more than just a textbook—it’s your gateway to mastering the complexities of genetics. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable resource for any bioscientific or medical student. So, why wait? Embark on your genetic journey and unlock the secrets of life with Lewin’s GENES XII! 🧬🚀📚</p>
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg" alt="Lewin's GENES XII 12th Edition"></p>
+</blockquote>
+</body>  
 
-<h2>A Comprehensive Guide for All Levels</h2>
+</html>
+]]></content>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine Learning in action</title>
+    <url>/2024/12/01/PDFML-in-action/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
 
-<p>Whether you're a seasoned data scientist or just starting out on your machine learning journey, this book is designed 
-to cater to all skill levels. The authors have meticulously crafted a guide that is both accessible and thorough, 
-ensuring that readers can follow along regardless of their prior experience. The book begins with the basics, introducing 
-fundamental concepts and gradually building up to more advanced topics. 📈</p>
+<title>Machine Learning in action</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>Dive into the World of Machine Learning with "Machine Learning in Action" 📘🤖</h2>
+
+<p>Are you ready to unlock the incredible potential of machine learning and take your data analysis skills to the next 
+level? Look no further than "Machine Learning in Action" by Peter Harrington. This book is a comprehensive guide that 
+provides you with the knowledge and tools needed to master machine learning concepts and apply them in real-world 
+scenarios. 🌟</p>
+
+<h2>A Perfect Blend of Theory and Practice</h2>
+
+<p>"Machine Learning in Action" strikes the perfect balance between theoretical foundations and practical applications. 
+The book is structured to cater to both beginners and experienced professionals, ensuring that readers can follow along 
+regardless of their prior experience. Harrington's clear and engaging writing style makes complex concepts accessible, 
+allowing you to grasp the essentials of machine learning without feeling overwhelmed. 📚✨</p>
 
 <h2>Hands-On Approach to Learning</h2>
 
-<p>One of the standout features of this book is its hands-on approach. Each chapter is packed with practical examples 
-and exercises that allow you to apply what you've learned immediately. This approach not only reinforces your 
-understanding but also provides you with valuable experience in working with real-world datasets. By the end of the book, 
-you'll have a solid foundation in machine learning and be well-equipped to tackle complex data problems. 🛠️🔍</p>
+<p>One of the standout features of this book is its hands-on approach. Each chapter is filled with practical examples 
+and exercises that allow you to apply what you've learned immediately. By working through these exercises, you'll gain 
+valuable experience in implementing machine learning algorithms and solving real-world problems. The book covers a wide 
+range of topics, from simple linear regression to more advanced techniques like support vector machines and clustering. 
+🛠️🔍</p>
 
-<h2>Cutting-Edge Techniques and Tools</h2>
+<h2>Comprehensive Coverage of Algorithms</h2>
 
-<p>"Python Machine Learning" delves into a wide range of machine learning algorithms and techniques, from basic linear 
-regression to sophisticated neural networks. The book also covers essential tools and libraries, such as Scikit-Learn, 
-Pandas, and TensorFlow, providing you with a comprehensive toolkit for your machine learning projects. Each algorithm 
-and tool is explained in detail, with clear, step-by-step instructions on how to implement them in Python. 🧠💻</p>
+<p>"Machine Learning in Action" provides an in-depth exploration of various machine learning algorithms and techniques. 
+You'll learn about decision trees, neural networks, ensemble methods, and more. Each algorithm is explained in detail, 
+with clear, step-by-step instructions on how to implement them using Python. The book also covers important topics like 
+feature selection, model evaluation, and improving model accuracy, ensuring that you have a solid understanding of the 
+entire machine learning pipeline. 🧠💻</p>
 
-<h2>Insights from a Leading Expert</h2>
+<h2>Real-World Applications</h2>
 
-<p>The foreword by Dr. Randal S. Olson adds a unique touch to the book, offering insights from a leading expert in the 
-field. Dr. Olson's perspective on the current state and future of AI and machine learning provides valuable context and 
-inspiration, encouraging readers to think critically and creatively about the impact of their work. 🌟🧠</p>
+<p>What sets this book apart is its focus on real-world applications. Harrington provides numerous examples and case 
+studies that demonstrate how machine learning can be used to solve actual problems. From predicting stock prices to 
+detecting spam emails, these examples show you how to apply machine learning techniques in practical situations. This 
+approach not only reinforces your understanding but also gives you the confidence to tackle your own data challenges. 
+🌐📊</p>
 
 <h2>Staying Ahead in a Dynamic Field</h2>
 
-<p>The field of machine learning is rapidly evolving, and this book ensures that you stay ahead of the curve. It includes 
-the latest advancements in machine learning research and practical applications, making it a must-read for anyone 
-looking to stay relevant in this dynamic field. By keeping up with the latest trends and techniques, you'll be prepared 
-to tackle the challenges and opportunities that lie ahead. 🚀📊</p>
+<p>The field of machine learning is constantly evolving, and "Machine Learning in Action" ensures that you stay ahead of 
+the curve. The book includes the latest advancements in machine learning research and practical applications, making it 
+a must-read for anyone looking to stay relevant in this dynamic field. By keeping up with the latest trends and 
+techniques, you'll be prepared to tackle the challenges and opportunities that lie ahead. 🚀📈</p>
 
 <h2>Conclusion</h2>
 
-<p>"Python Machine Learning" is an indispensable resource for anyone interested in mastering machine learning with Python. 
-With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both beginners and 
-experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full potential of your 
-data today! 🌐📘</p>
+<p>"Machine Learning in Action" by Peter Harrington is an invaluable resource for anyone interested in mastering machine 
+learning. With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both 
+beginners and experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full 
+potential of your data today! 🌟📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61d2dEqXcvL._AC_UF1000,1000_QL80_.jpg" alt="Machine Learning in action"></p>
 </blockquote>
 </body>  
 
@@ -878,7 +961,7 @@ navigate the ever-evolving field of data science and make data-driven decisions 
 further assistance, feel free to ask. 📘📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/Rinaction.png" alt="R in action"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
 </blockquote>
 </body>  
 
@@ -888,72 +971,69 @@ further assistance, feel free to ask. 📘📊</p>
       </tags>
   </entry>
   <entry>
-    <title>Machine Learning in action</title>
-    <url>/2024/12/01/PDFML-in-action/</url>
+    <title>Python Machine Learning</title>
+    <url>/2024/11/29/PDFPyML/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
 
-<title>Machine Learning in action</title>
+<title>Python Machine Learning</title>
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>Dive into the World of Machine Learning with "Machine Learning in Action" 📘🤖</h2>
+<h2>Discover the Future with "Python Machine Learning" 📚🤖</h2>
 
-<p>Are you ready to unlock the incredible potential of machine learning and take your data analysis skills to the next 
-level? Look no further than "Machine Learning in Action" by Peter Harrington. This book is a comprehensive guide that 
-provides you with the knowledge and tools needed to master machine learning concepts and apply them in real-world 
-scenarios. 🌟</p>
+<p>Unlocking the potential of machine learning has never been easier with "Python Machine Learning: Unlock deeper 
+insights into machine learning with this vital guide to cutting-edge predictive analytics," featuring a foreword by Dr. 
+Randal S. Olson, a renowned AI and machine learning researcher from the University of Pennsylvania. This book is a 
+treasure trove of knowledge that will guide you through the fascinating world of machine learning, using Python as your 
+trusty companion. 🐍✨</p>
 
-<h2>A Perfect Blend of Theory and Practice</h2>
+<h2>A Comprehensive Guide for All Levels</h2>
 
-<p>"Machine Learning in Action" strikes the perfect balance between theoretical foundations and practical applications. 
-The book is structured to cater to both beginners and experienced professionals, ensuring that readers can follow along 
-regardless of their prior experience. Harrington's clear and engaging writing style makes complex concepts accessible, 
-allowing you to grasp the essentials of machine learning without feeling overwhelmed. 📚✨</p>
+<p>Whether you're a seasoned data scientist or just starting out on your machine learning journey, this book is designed 
+to cater to all skill levels. The authors have meticulously crafted a guide that is both accessible and thorough, 
+ensuring that readers can follow along regardless of their prior experience. The book begins with the basics, introducing 
+fundamental concepts and gradually building up to more advanced topics. 📈</p>
 
 <h2>Hands-On Approach to Learning</h2>
 
-<p>One of the standout features of this book is its hands-on approach. Each chapter is filled with practical examples 
-and exercises that allow you to apply what you've learned immediately. By working through these exercises, you'll gain 
-valuable experience in implementing machine learning algorithms and solving real-world problems. The book covers a wide 
-range of topics, from simple linear regression to more advanced techniques like support vector machines and clustering. 
-🛠️🔍</p>
+<p>One of the standout features of this book is its hands-on approach. Each chapter is packed with practical examples 
+and exercises that allow you to apply what you've learned immediately. This approach not only reinforces your 
+understanding but also provides you with valuable experience in working with real-world datasets. By the end of the book, 
+you'll have a solid foundation in machine learning and be well-equipped to tackle complex data problems. 🛠️🔍</p>
 
-<h2>Comprehensive Coverage of Algorithms</h2>
+<h2>Cutting-Edge Techniques and Tools</h2>
 
-<p>"Machine Learning in Action" provides an in-depth exploration of various machine learning algorithms and techniques. 
-You'll learn about decision trees, neural networks, ensemble methods, and more. Each algorithm is explained in detail, 
-with clear, step-by-step instructions on how to implement them using Python. The book also covers important topics like 
-feature selection, model evaluation, and improving model accuracy, ensuring that you have a solid understanding of the 
-entire machine learning pipeline. 🧠💻</p>
+<p>"Python Machine Learning" delves into a wide range of machine learning algorithms and techniques, from basic linear 
+regression to sophisticated neural networks. The book also covers essential tools and libraries, such as Scikit-Learn, 
+Pandas, and TensorFlow, providing you with a comprehensive toolkit for your machine learning projects. Each algorithm 
+and tool is explained in detail, with clear, step-by-step instructions on how to implement them in Python. 🧠💻</p>
 
-<h2>Real-World Applications</h2>
+<h2>Insights from a Leading Expert</h2>
 
-<p>What sets this book apart is its focus on real-world applications. Harrington provides numerous examples and case 
-studies that demonstrate how machine learning can be used to solve actual problems. From predicting stock prices to 
-detecting spam emails, these examples show you how to apply machine learning techniques in practical situations. This 
-approach not only reinforces your understanding but also gives you the confidence to tackle your own data challenges. 
-🌐📊</p>
+<p>The foreword by Dr. Randal S. Olson adds a unique touch to the book, offering insights from a leading expert in the 
+field. Dr. Olson's perspective on the current state and future of AI and machine learning provides valuable context and 
+inspiration, encouraging readers to think critically and creatively about the impact of their work. 🌟🧠</p>
 
 <h2>Staying Ahead in a Dynamic Field</h2>
 
-<p>The field of machine learning is constantly evolving, and "Machine Learning in Action" ensures that you stay ahead of 
-the curve. The book includes the latest advancements in machine learning research and practical applications, making it 
-a must-read for anyone looking to stay relevant in this dynamic field. By keeping up with the latest trends and 
-techniques, you'll be prepared to tackle the challenges and opportunities that lie ahead. 🚀📈</p>
+<p>The field of machine learning is rapidly evolving, and this book ensures that you stay ahead of the curve. It includes 
+the latest advancements in machine learning research and practical applications, making it a must-read for anyone 
+looking to stay relevant in this dynamic field. By keeping up with the latest trends and techniques, you'll be prepared 
+to tackle the challenges and opportunities that lie ahead. 🚀📊</p>
 
 <h2>Conclusion</h2>
 
-<p>"Machine Learning in Action" by Peter Harrington is an invaluable resource for anyone interested in mastering machine 
-learning. With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both 
-beginners and experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full 
-potential of your data today! 🌟📘</p>
+<p>"Python Machine Learning" is an indispensable resource for anyone interested in mastering machine learning with Python. 
+With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both beginners and 
+experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full potential of your 
+data today! 🌐📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/PDFML-in-action" alt="Machine Learning in action"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437797728l/25545994.jpg" alt="Python Machine Learning"></p>
 </blockquote>
 </body>  
 
@@ -1175,7 +1255,7 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
 articles, videos, and web content are stored, easily accessible whenever you need them. That’s exactly what the 
 <font color="red"><b>Pocket</b></font> app offers!</p>
 
-<img border="0" lazyload src="/images/loading.svg" data-src="/img/pocket.png" alt="pocket">
+<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/SaveAnyWebsite/pocket.png" alt="pocket">
 
 <p>Pocket is a fantastic tool that lets you save all sorts of content for later reading or viewing. Whether you come 
 across an insightful article during a busy workday, or a thought-provoking video that you just don’t have the time to 
