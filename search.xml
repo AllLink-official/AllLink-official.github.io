@@ -31,160 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Browser Extensions enhance Learning</title>
-    <url>/2024/11/21/BrowserEx-HelpLearning/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Browser Extensions enhance Learning</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>
-今天带来几款插件帮助你更好的学习，不管你有没有学习的需求，都将提升你的效率。
-</p>
-
-<ol>
-<li><p>Enhance for YouTube<sup>TM</sup></p>
-<ul style="list-style-type:circle">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不用每个视频都要选择分辨率，包括页面、小窗模式；关闭侧边相关视频，具体功能请自行安装测试。
-</li>
-<li><p>AI Subtitles &amp; Immersive Translate - Trancy</p>
-<ul style="list-style-type:square">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/ai-subtitles-immersive-/aepdhbcjfkpncgbmlllcaloniioihlma">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/trancyfordesktop/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-支持Youtube、TED、四大慕课平台和部分影视平台，比如Netflix和Disney+等，支持翻译成各种语言，提供双语字幕，翻译字幕，原始字幕（无字幕则语音识别）。
-</li>
-<li><p>SingleFile</p>
-<ul style="list-style-type:disc">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/single-file/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-我们在学习和工作中有很多浏览场景，但遇到自己喜欢的网站，右键保存则会出现一个文件夹，里面一堆文件且保持浏览完整性不行删除，此插件解决了该问题，只生成html文件，十分简洁。</li>
-</ol>
-</body>
-
-</html>]]></content>
-      <tags>
-        <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Guidance</title>
-    <url>/2024/10/24/Guidance/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Guidance</title>
-</head>
-<body>
-
-<h1>AllLink-official</h1>
-<h2>Hello everyone, welcome to our website!</h2>
-
-<p>We Focus on making everyone chat online without hindrance all over the world and study free.
-You can learn topics as following.</p>
-
-<ol>
-<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
-<li>Useful learning websites</li>
-<li>Study sources (PDF)</li>
-<li>AI/Machine Learning</li>
-<li>Computer Science (CS)</li>
-<li>Data Science (DS)</li>
-<li>Biology/Bioscience/Life Science</li>
-<li>Chemistry</li>
-<li>Physics</li>
-<li>Mathematics</li>
-</ol>
-
-<blockquote>
-<p>Note:  allowed to be used for study; not allowed to be commercial</p>
-</blockquote>
-<h2>Follow us</h2>
-
-<ul>
-<li><a href="https://www.github.com/AllLink-official">Github</a></li>
-<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
-<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
-<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
-<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
-<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
-<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
-<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
-<li><a href="https://www.threads.com/">Threads</a></li>
-<li><a href="https://www.x.com/">X/Twitter</a></li>
-<li><a href="https://www.facebook.com">Facebook</a></li>
-<li><a href="https://www.vk.com/">VK</a></li>
-<li><a href="https://www.instagram/">Instagram</a></li>
-<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
-<li><a href="https://www.tumblr.com/">Tumblr</a></li>
-<li><a href="https://www.tiktok.com/">Tiktok</a></li>
-<li><a href="https://www.kwai.com/">Kwai</a></li>
-<li><a href="https://www.likee.com/">Likee</a></li>
-<li><a href="https://www.snapchat.com/">Snapchat</a></li>
-<li><a href="https://www.whee.com/">Whee</a></li>
-<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-</ul>
-
-<h2>Contact us</h2>
-
-<ul>
-<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
-<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
-<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
-<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
-<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
-<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
-<li><a href="https://www.webex.com/">Webex</a></li>
-<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
-<li><a href="https://www.message.com/">Messager</a></li>
-<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
-<li><a href="https://www.groupme.com/">Group Me</a></li>
-<li><a href="https://www.discord.com/invite/">Discord</a></li>
-<li><a href="https://join.slack.com/t/">Slack</a></li>
-<li><a href="https://line.me/">LINE</a></li>
-</ul>
-
-<h2>QR</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>QQ</th>
-      <th>WeChat</th>
-      <th>WeCom</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="QQ"></td> 
-      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeChat"></td>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeCom"></td>
-    </tr>
-  </tbody>
-</table>
-
-
-</body>  
-
-</html>]]></content>
-      <tags>
-        <tag>Guidance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>学习谷歌搜索检索规则助力精准检索</title>
     <url>/2024/12/01/GoogleSearch/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -404,6 +250,55 @@ You can learn topics as following.</p>
       </tags>
   </entry>
   <entry>
+    <title>Browser Extensions enhance Learning</title>
+    <url>/2024/11/21/BrowserEx-HelpLearning/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Browser Extensions enhance Learning</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>
+今天带来几款插件帮助你更好的学习，不管你有没有学习的需求，都将提升你的效率。
+</p>
+
+<ol>
+<li><p>Enhance for YouTube<sup>TM</sup></p>
+<ul style="list-style-type:circle">
+<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不用每个视频都要选择分辨率，包括页面、小窗模式；关闭侧边相关视频，具体功能请自行安装测试。
+</li>
+<li><p>AI Subtitles &amp; Immersive Translate - Trancy</p>
+<ul style="list-style-type:square">
+<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/ai-subtitles-immersive-/aepdhbcjfkpncgbmlllcaloniioihlma">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/trancyfordesktop/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+支持Youtube、TED、四大慕课平台和部分影视平台，比如Netflix和Disney+等，支持翻译成各种语言，提供双语字幕，翻译字幕，原始字幕（无字幕则语音识别）。
+</li>
+<li><p>SingleFile</p>
+<ul style="list-style-type:disc">
+<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/single-file/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+我们在学习和工作中有很多浏览场景，但遇到自己喜欢的网站，右键保存则会出现一个文件夹，里面一堆文件且保持浏览完整性不行删除，此插件解决了该问题，只生成html文件，十分简洁。</li>
+</ol>
+</body>
+
+</html>]]></content>
+      <tags>
+        <tag>Online Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Online Learning Web</title>
     <url>/2024/11/14/OnlineLearning-Web/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -433,6 +328,174 @@ You can learn topics as following.</p>
 </html>]]></content>
       <tags>
         <tag>Online Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Guidance</title>
+    <url>/2024/10/24/Guidance/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Guidance</title>
+</head>
+<body>
+
+<h1>AllLink-official</h1>
+<h2>Hello everyone, welcome to our website!</h2>
+
+<p>We Focus on making everyone chat online without hindrance all over the world and study free.
+You can learn topics as following.</p>
+
+<ol>
+<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
+<li>Useful learning websites</li>
+<li>Study sources (PDF)</li>
+<li>AI/Machine Learning</li>
+<li>Computer Science (CS)</li>
+<li>Data Science (DS)</li>
+<li>Biology/Bioscience/Life Science</li>
+<li>Chemistry</li>
+<li>Physics</li>
+<li>Mathematics</li>
+</ol>
+
+<blockquote>
+<p>Note:  allowed to be used for study; not allowed to be commercial</p>
+</blockquote>
+<h2>Follow us</h2>
+
+<ul>
+<li><a href="https://www.github.com/AllLink-official">Github</a></li>
+<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
+<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
+<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
+<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
+<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
+<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
+<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
+<li><a href="https://www.threads.com/">Threads</a></li>
+<li><a href="https://www.x.com/">X/Twitter</a></li>
+<li><a href="https://www.facebook.com">Facebook</a></li>
+<li><a href="https://www.vk.com/">VK</a></li>
+<li><a href="https://www.instagram/">Instagram</a></li>
+<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
+<li><a href="https://www.tumblr.com/">Tumblr</a></li>
+<li><a href="https://www.tiktok.com/">Tiktok</a></li>
+<li><a href="https://www.kwai.com/">Kwai</a></li>
+<li><a href="https://www.likee.com/">Likee</a></li>
+<li><a href="https://www.snapchat.com/">Snapchat</a></li>
+<li><a href="https://www.whee.com/">Whee</a></li>
+<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+</ul>
+
+<h2>Contact us</h2>
+
+<ul>
+<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
+<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
+<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
+<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
+<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
+<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
+<li><a href="https://www.webex.com/">Webex</a></li>
+<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
+<li><a href="https://www.message.com/">Messager</a></li>
+<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
+<li><a href="https://www.groupme.com/">Group Me</a></li>
+<li><a href="https://www.discord.com/invite/">Discord</a></li>
+<li><a href="https://join.slack.com/t/">Slack</a></li>
+<li><a href="https://line.me/">LINE</a></li>
+</ul>
+
+<h2>QR</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>QQ</th>
+      <th>WeChat</th>
+      <th>WeCom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="QQ"></td> 
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeChat"></td>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeCom"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Guidance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lehninger’s principles of biochemistry,7e</title>
+    <url>/2024/12/02/PDFBCL/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Lehninger’s principles of biochemistry,7e</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>📚 Introducing: Lehninger’s Principles of Biochemistry, 7th Edition! 🧬</h2>
+
+<p>Hey there, college students! 📣 If you're diving into the world of biochemistry, there's one book that you absolutely 
+cannot miss: Lehninger’s Principles of Biochemistry, 7th Edition. This book isn't just a textbook; it's a treasure trove 
+of knowledge that will guide you through the fascinating world of biochemical processes. 🌟</p>
+
+<h2>Why Lehninger's Principles? 🤔</h2>
+
+<ul>
+<li>Comprehensive Content: This edition is packed with detailed, up-to-date information that covers all the core topics in biochemistry. From the basic concepts to the most advanced topics, it’s all in there. It’s like having a personal biochemistry tutor right on your bookshelf! 🧪📖</li>
+
+<li>Clear Explanations: The authors, David L. Nelson and Michael M. Cox, are experts in making complex topics understandable. They use clear language, helpful diagrams, and engaging examples to ensure you grasp every concept. 🧠✨</li>
+
+<li>Engaging Learning Tools: With this book, learning is never boring. It includes various tools like end-of-chapter questions, problem-solving tips, and real-life applications that make studying interactive and fun. 📝🔬</li>
+</ul>
+
+<h2>What’s New in the 7th Edition? 🚀</h2>
+
+<p>Updated Research: Stay ahead with the latest research and discoveries in the field. The 7th edition includes updated 
+content reflecting recent advances in biochemistry. 🔍🔬</p>
+
+<p>New Illustrations and Graphics: Visual learners, rejoice! The new edition comes with enhanced illustrations and 
+graphics that make understanding the material even easier. 🎨📊</p>
+
+<p>Enhanced Learning Features: More interactive and engaging features have been added to help you connect with the 
+material on a deeper level. 📚💡</p>
+
+<h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
+
+<p>Whether you’re a biochemistry major or just taking an introductory course, this book is a perfect companion. It’s 
+designed to cater to both beginners and advanced learners, ensuring everyone can benefit from its wealth of knowledge. 
+🌐📘</p>
+
+<h2>Final Thoughts 💭</h2>
+
+<p>Lehninger’s Principles of Biochemistry(7th Edition), is more than just a textbook; it’s your guide to mastering 
+biochemistry. With its clear explanations, comprehensive coverage, and engaging tools, it's the ideal resource for any 
+college student looking to excel in this subject. So, what are you waiting for? Dive into the wonders of biochemistry 
+today! 🧬🚀📚</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1-N2d1E8aVOnSJYLiFtqNig">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="principles of biochemistry"></p>
+</blockquote>
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -493,6 +556,181 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
 
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Data Mining"></p>
+</blockquote>
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Karp’s Cell and Molecular Biology Concepts and Experiments 9e By Gerald Karp, Janet Iwasa, Wallace Marshall</title>
+    <url>/2024/12/05/PDFKCMBCE/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Karp’s Cell and Molecular Biology Concepts and Experiments 9e By Gerald Karp, Janet Iwasa, Wallace Marshall</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Karp’s Cell and Molecular Biology Concepts and Experiments 9e"></p>
+</blockquote>
+</h2></body>  
+
+</html>
+]]></content>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lewin&#39;s GENES XII 12th Edition</title>
+    <url>/2024/12/04/PDFLGXII/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Lewin's GENES XII 12th Edition</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Lewin's GENES XII 12th Edition"></p>
+</blockquote>
+</h2></body>  
+
+</html>
+]]></content>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lehninger Principles of biochemistry Eighth EDITION</title>
+    <url>/2024/12/06/PDFLPB8/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Lehninger Principles of biochemistry Eighth EDITION</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Lehninger Principles of biochemistry Eighth EDITION"></p>
+</blockquote>
+</h2></body>  
+
+</html>
+]]></content>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Molecular Biology of the Cell 7e By Bruce Alberts, Rebecca Heald, Alexander Johnson</title>
+    <url>/2024/12/03/PDFMBotC/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Molecular Biology of the Cell 7e By Bruce Alberts, Rebecca Heald, Alexander Johnson</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/DataMining.png" alt="Molecular Biology of the Cell 7e"></p>
+</blockquote>
+</h2></body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python Machine Learning</title>
+    <url>/2024/11/29/PDFPyML/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Python Machine Learning</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>Discover the Future with "Python Machine Learning" 📚🤖</h2>
+
+<p>Unlocking the potential of machine learning has never been easier with "Python Machine Learning: Unlock deeper 
+insights into machine learning with this vital guide to cutting-edge predictive analytics," featuring a foreword by Dr. 
+Randal S. Olson, a renowned AI and machine learning researcher from the University of Pennsylvania. This book is a 
+treasure trove of knowledge that will guide you through the fascinating world of machine learning, using Python as your 
+trusty companion. 🐍✨</p>
+
+<h2>A Comprehensive Guide for All Levels</h2>
+
+<p>Whether you're a seasoned data scientist or just starting out on your machine learning journey, this book is designed 
+to cater to all skill levels. The authors have meticulously crafted a guide that is both accessible and thorough, 
+ensuring that readers can follow along regardless of their prior experience. The book begins with the basics, introducing 
+fundamental concepts and gradually building up to more advanced topics. 📈</p>
+
+<h2>Hands-On Approach to Learning</h2>
+
+<p>One of the standout features of this book is its hands-on approach. Each chapter is packed with practical examples 
+and exercises that allow you to apply what you've learned immediately. This approach not only reinforces your 
+understanding but also provides you with valuable experience in working with real-world datasets. By the end of the book, 
+you'll have a solid foundation in machine learning and be well-equipped to tackle complex data problems. 🛠️🔍</p>
+
+<h2>Cutting-Edge Techniques and Tools</h2>
+
+<p>"Python Machine Learning" delves into a wide range of machine learning algorithms and techniques, from basic linear 
+regression to sophisticated neural networks. The book also covers essential tools and libraries, such as Scikit-Learn, 
+Pandas, and TensorFlow, providing you with a comprehensive toolkit for your machine learning projects. Each algorithm 
+and tool is explained in detail, with clear, step-by-step instructions on how to implement them in Python. 🧠💻</p>
+
+<h2>Insights from a Leading Expert</h2>
+
+<p>The foreword by Dr. Randal S. Olson adds a unique touch to the book, offering insights from a leading expert in the 
+field. Dr. Olson's perspective on the current state and future of AI and machine learning provides valuable context and 
+inspiration, encouraging readers to think critically and creatively about the impact of their work. 🌟🧠</p>
+
+<h2>Staying Ahead in a Dynamic Field</h2>
+
+<p>The field of machine learning is rapidly evolving, and this book ensures that you stay ahead of the curve. It includes 
+the latest advancements in machine learning research and practical applications, making it a must-read for anyone 
+looking to stay relevant in this dynamic field. By keeping up with the latest trends and techniques, you'll be prepared 
+to tackle the challenges and opportunities that lie ahead. 🚀📊</p>
+
+<h2>Conclusion</h2>
+
+<p>"Python Machine Learning" is an indispensable resource for anyone interested in mastering machine learning with Python. 
+With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both beginners and 
+experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full potential of your 
+data today! 🌐📘</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
 </blockquote>
 </body>  
 
@@ -567,79 +805,7 @@ beginners and experienced professionals. So, why wait? Dive into the world of ma
 potential of your data today! 🌟📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
-</blockquote>
-</body>  
-
-</html>]]></content>
-      <tags>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Python Machine Learning</title>
-    <url>/2024/11/29/PDFPyML/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<title>Python Machine Learning</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>Discover the Future with "Python Machine Learning" 📚🤖</h2>
-
-<p>Unlocking the potential of machine learning has never been easier with "Python Machine Learning: Unlock deeper 
-insights into machine learning with this vital guide to cutting-edge predictive analytics," featuring a foreword by Dr. 
-Randal S. Olson, a renowned AI and machine learning researcher from the University of Pennsylvania. This book is a 
-treasure trove of knowledge that will guide you through the fascinating world of machine learning, using Python as your 
-trusty companion. 🐍✨</p>
-
-<h2>A Comprehensive Guide for All Levels</h2>
-
-<p>Whether you're a seasoned data scientist or just starting out on your machine learning journey, this book is designed 
-to cater to all skill levels. The authors have meticulously crafted a guide that is both accessible and thorough, 
-ensuring that readers can follow along regardless of their prior experience. The book begins with the basics, introducing 
-fundamental concepts and gradually building up to more advanced topics. 📈</p>
-
-<h2>Hands-On Approach to Learning</h2>
-
-<p>One of the standout features of this book is its hands-on approach. Each chapter is packed with practical examples 
-and exercises that allow you to apply what you've learned immediately. This approach not only reinforces your 
-understanding but also provides you with valuable experience in working with real-world datasets. By the end of the book, 
-you'll have a solid foundation in machine learning and be well-equipped to tackle complex data problems. 🛠️🔍</p>
-
-<h2>Cutting-Edge Techniques and Tools</h2>
-
-<p>"Python Machine Learning" delves into a wide range of machine learning algorithms and techniques, from basic linear 
-regression to sophisticated neural networks. The book also covers essential tools and libraries, such as Scikit-Learn, 
-Pandas, and TensorFlow, providing you with a comprehensive toolkit for your machine learning projects. Each algorithm 
-and tool is explained in detail, with clear, step-by-step instructions on how to implement them in Python. 🧠💻</p>
-
-<h2>Insights from a Leading Expert</h2>
-
-<p>The foreword by Dr. Randal S. Olson adds a unique touch to the book, offering insights from a leading expert in the 
-field. Dr. Olson's perspective on the current state and future of AI and machine learning provides valuable context and 
-inspiration, encouraging readers to think critically and creatively about the impact of their work. 🌟🧠</p>
-
-<h2>Staying Ahead in a Dynamic Field</h2>
-
-<p>The field of machine learning is rapidly evolving, and this book ensures that you stay ahead of the curve. It includes 
-the latest advancements in machine learning research and practical applications, making it a must-read for anyone 
-looking to stay relevant in this dynamic field. By keeping up with the latest trends and techniques, you'll be prepared 
-to tackle the challenges and opportunities that lie ahead. 🚀📊</p>
-
-<h2>Conclusion</h2>
-
-<p>"Python Machine Learning" is an indispensable resource for anyone interested in mastering machine learning with Python. 
-With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both beginners and 
-experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full potential of your 
-data today! 🌐📘</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/img/PyML.png" alt="Python Machine Learning"></p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/PDFML-in-action" alt="Machine Learning in action"></p>
 </blockquote>
 </body>  
 
@@ -907,30 +1073,6 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
       </tags>
   </entry>
   <entry>
-    <title>利用follo订阅本博客</title>
-    <url>/2024/12/01/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/</url>
-    <content><![CDATA[<h1 id="利用follo订阅该频道"><a href="#利用follo订阅该频道" class="headerlink" title="利用follo订阅该频道"></a>利用follo订阅该频道</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-<h1 id="follow"><a href="#follow" class="headerlink" title="follow"></a>follow</h1><h2 id="🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲"><a href="#🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲" class="headerlink" title="🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲"></a>🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲</h2><p>您是否厌倦了在社交媒体上无休止地滚动来寻找真正对您有用的新闻？欢迎使用<a class="link" href="https://github.com/RSSNext/Follow">RSSNext&#x2F;Follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，这款应用将成为您内容消费世界的新朋友！🚀 这款软件可在GitHub上获取，它旨在改变您关注喜爱的博客、新闻网站以及任何带有RSS订阅源的内容的方式。让我为您详细介绍一下为什么RSSNext&#x2F;Follow会是改变游戏规则的工具！📰✨</p>
-<h2 id="什么是RSSNext-Follow？"><a href="#什么是RSSNext-Follow？" class="headerlink" title="什么是RSSNext&#x2F;Follow？"></a>什么是RSSNext&#x2F;Follow？</h2><p>RSSNext&#x2F;Follow是一款强大的开源RSS聚合工具。它允许您在一个地方收集、组织和阅读来自各种来源的内容。忘记那些无关的噪音，这款应用让您专注于真正感兴趣的内容。🎯</p>
-<h2 id="为什么选择RSSNext-Follow？"><a href="#为什么选择RSSNext-Follow？" class="headerlink" title="为什么选择RSSNext&#x2F;Follow？"></a>为什么选择RSSNext&#x2F;Follow？</h2><ul>
-<li>用户友好的界面：再也不必忍受笨重、过时的设计了。RSSNext&#x2F;Follow拥有简洁、直观的用户界面，方便导航。无论您是技术专家还是普通用户，都能轻松上手。🏠 </li>
-<li>丰富的自定义选项：根据您的兴趣定制您的订阅源。关注特定的话题、关键字或来源，一切都由您掌控！🛠️ </li>
-<li>实时更新：通过即时更新，掌握最新动态。当您的喜爱网站发布新内容时，它会立刻出现在您的订阅源中。⚡ </li>
-<li>离线阅读：随时随地阅读。RSSNext&#x2F;Follow允许您下载文章进行离线阅读，适合通勤、飞行或任何网络不稳定的地方。✈️ </li>
-<li>开源且免费：最好的东西往往是免费的，RSSNext&#x2F;Follow也不例外。加上作为开源软件，它不断得到充满热情的开发者社区的改进。💪</li>
-</ul>
-<h2 id="如何开始？"><a href="#如何开始？" class="headerlink" title="如何开始？"></a>如何开始？</h2><p>点击<a class="link" href="https://github.com/RSSNext/Follow/releases">GitHub仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>并下载你使用操作系统的安装包。安装过程简洁明了，还有丰富的文档帮助您快速上手。📚</p>
-<h2 id="利用follow订阅本博客"><a href="#利用follow订阅本博客" class="headerlink" title="利用follow订阅本博客"></a>利用follow订阅本博客</h2><ol>
-<li>打开follo软件，输入链接<code>https://alllink-official.github.io/atom.xml</code><br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow1.png"></li>
-<li>关注，可以根据自己的需要给与备注<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow2.png"></li>
-<li>关注后，文章即可出现在APP主页</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>Guidance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Reconmmended Node Shop</title>
     <url>/2024/11/02/Recommended-NodeShop/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -1008,6 +1150,30 @@ Pocket is the app for you. Download it today and start saving smarter! 📚✨</
 ]]></content>
       <tags>
         <tag>Online Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>利用follo订阅本博客</title>
+    <url>/2024/12/01/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/</url>
+    <content><![CDATA[<h1 id="利用follo订阅该频道"><a href="#利用follo订阅该频道" class="headerlink" title="利用follo订阅该频道"></a>利用follo订阅该频道</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+<h1 id="follow"><a href="#follow" class="headerlink" title="follow"></a>follow</h1><h2 id="🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲"><a href="#🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲" class="headerlink" title="🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲"></a>🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲</h2><p>您是否厌倦了在社交媒体上无休止地滚动来寻找真正对您有用的新闻？欢迎使用<a class="link" href="https://github.com/RSSNext/Follow">RSSNext&#x2F;Follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，这款应用将成为您内容消费世界的新朋友！🚀 这款软件可在GitHub上获取，它旨在改变您关注喜爱的博客、新闻网站以及任何带有RSS订阅源的内容的方式。让我为您详细介绍一下为什么RSSNext&#x2F;Follow会是改变游戏规则的工具！📰✨</p>
+<h2 id="什么是RSSNext-Follow？"><a href="#什么是RSSNext-Follow？" class="headerlink" title="什么是RSSNext&#x2F;Follow？"></a>什么是RSSNext&#x2F;Follow？</h2><p>RSSNext&#x2F;Follow是一款强大的开源RSS聚合工具。它允许您在一个地方收集、组织和阅读来自各种来源的内容。忘记那些无关的噪音，这款应用让您专注于真正感兴趣的内容。🎯</p>
+<h2 id="为什么选择RSSNext-Follow？"><a href="#为什么选择RSSNext-Follow？" class="headerlink" title="为什么选择RSSNext&#x2F;Follow？"></a>为什么选择RSSNext&#x2F;Follow？</h2><ul>
+<li>用户友好的界面：再也不必忍受笨重、过时的设计了。RSSNext&#x2F;Follow拥有简洁、直观的用户界面，方便导航。无论您是技术专家还是普通用户，都能轻松上手。🏠 </li>
+<li>丰富的自定义选项：根据您的兴趣定制您的订阅源。关注特定的话题、关键字或来源，一切都由您掌控！🛠️ </li>
+<li>实时更新：通过即时更新，掌握最新动态。当您的喜爱网站发布新内容时，它会立刻出现在您的订阅源中。⚡ </li>
+<li>离线阅读：随时随地阅读。RSSNext&#x2F;Follow允许您下载文章进行离线阅读，适合通勤、飞行或任何网络不稳定的地方。✈️ </li>
+<li>开源且免费：最好的东西往往是免费的，RSSNext&#x2F;Follow也不例外。加上作为开源软件，它不断得到充满热情的开发者社区的改进。💪</li>
+</ul>
+<h2 id="如何开始？"><a href="#如何开始？" class="headerlink" title="如何开始？"></a>如何开始？</h2><p>点击<a class="link" href="https://github.com/RSSNext/Follow/releases">GitHub仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>并下载你使用操作系统的安装包。安装过程简洁明了，还有丰富的文档帮助您快速上手。📚</p>
+<h2 id="利用follow订阅本博客"><a href="#利用follow订阅本博客" class="headerlink" title="利用follow订阅本博客"></a>利用follow订阅本博客</h2><ol>
+<li>打开follo软件，输入链接<code>https://alllink-official.github.io/atom.xml</code><br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow1.png"></li>
+<li>关注，可以根据自己的需要给与备注<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow2.png"></li>
+<li>关注后，文章即可出现在APP主页</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Guidance</tag>
       </tags>
   </entry>
 </search>
