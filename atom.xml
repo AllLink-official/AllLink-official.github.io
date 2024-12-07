@@ -6,7 +6,7 @@
   <link href="https://alllink-official.github.io/atom.xml" rel="self"/>
   
   <link href="https://alllink-official.github.io/"/>
-  <updated>2024-12-07T04:29:00.129Z</updated>
+  <updated>2024-12-07T04:39:30.118Z</updated>
   <id>https://alllink-official.github.io/</id>
   
   <author>
@@ -20,44 +20,10 @@
     <title>R in action, 3rd</title>
     <link href="https://alllink-official.github.io/2024/12/07/PDFRIAen3/"/>
     <id>https://alllink-official.github.io/2024/12/07/PDFRIAen3/</id>
-    <published>2024-12-07T04:25:40.000Z</published>
-    <updated>2024-12-07T04:29:00.129Z</updated>
+    <published>2024-12-07T04:44:40.000Z</published>
+    <updated>2024-12-07T04:39:30.118Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html en="en"><head><title>R in action, 3rd</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R in action·"></p></blockquote></h2></body>  </html>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;!DOCTYPE html&gt;
-
-&lt;html en=&quot;en&quot;&gt;
-&lt;head&gt;
-
-&lt;title&gt;R in action, 3rd&lt;/title&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;After reading this post, you should read &lt;a href</summary>
-      
-    
-    
-    
-    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
-    
-    
-    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>R in action, 1st</title>
-    <link href="https://alllink-official.github.io/2024/12/07/PDFRIAen1/"/>
-    <id>https://alllink-official.github.io/2024/12/07/PDFRIAen1/</id>
-    <published>2024-12-07T04:22:54.000Z</published>
-    <updated>2024-12-07T04:29:00.113Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html en="en"><head><title>R in action, 3rd</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R in action·"></p></blockquote></h2></body>  </html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html en="en"><head><title>R in action, 3rd</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1xipk3YXUhYpwRJDXYupKag">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61TtWuZWFbL._AC_UF1000,1000_QL80_.jpg" alt="R in action·"></p></blockquote></h2></body>  </html>]]></content>
     
     
       
@@ -73,38 +39,6 @@
 &lt;body&gt;
 
 &lt;p&gt;After reading this post, you should read &lt;a href</summary>
-      
-    
-    
-    
-    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
-    
-    
-    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>R in action, 2nd</title>
-    <link href="https://alllink-official.github.io/2024/12/07/PDFRIAen2/"/>
-    <id>https://alllink-official.github.io/2024/12/07/PDFRIAen2/</id>
-    <published>2024-12-07T04:22:45.000Z</published>
-    <updated>2024-12-07T04:29:00.134Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><title>R in action, 2nd</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2>Unlocking the Power of Data with "R in Action, 2nd Edition"</h2><p>In the ever-evolving landscape of data science and statistics, mastering powerful tools to analyze, interpret, and visualize data has become indispensable. If you’re a data enthusiast, statistician, or a budding data scientist looking to harness the full potential of R, you must dive into "R in Action, 2nd Edition" by Robert I. Kabacoff. This book is more than just a guide; it’s a comprehensive resource designed to elevate your data manipulation and analysis skills.</p><h2>Comprehensive Guide for All Skill Levels</h2><p>What sets "R in Action, 2nd Edition" apart from other R programming books is its accessibility to both beginners and advanced users. The book starts with the basics, guiding you through the installation of R and RStudio, and it gradually builds up to more complex topics. Kabacoff’s engaging writing style ensures that even those with minimal programming experience can follow along and understand the concepts.</p><p>For beginners, the initial chapters cover the fundamentals of R programming, including basic syntax, data structures, and essential functions. These chapters are filled with practical examples and exercises that reinforce learning and provide hands-on experience. By the time you finish the introductory sections, you’ll have a solid foundation in R and be ready to tackle more advanced topics.</p><h2>Deep Dive into Data Analysis</h2><p>One of the core strengths of "R in Action" is its extensive coverage of data analysis techniques. The book delves into various statistical methods and how to implement them using R. Whether you're dealing with descriptive statistics, hypothesis testing, or regression analysis, Kabacoff provides clear explanations and practical examples that make these concepts easier to grasp.</p><p>The book also explores advanced statistical methods such as analysis of variance (ANOVA), principal component analysis (PCA), and time series analysis. Each method is accompanied by R code and detailed explanations, allowing you to see exactly how the analysis is performed and interpret the results effectively.</p><h2>Data Visualization and Graphics</h2><p>A significant portion of the book is dedicated to data visualization, an essential aspect of data analysis. Kabacoff introduces you to R's powerful graphics capabilities through base graphics and the ggplot2 package. You'll learn how to create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like heatmaps and interactive plots.</p><p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. The book includes numerous examples and code snippets, showing you how to customize your plots and make them publication-ready.</p><h2>Practical Applications and Case Studies</h2><p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. These examples cover a broad range of topics, from analyzing survey data and time series forecasting to machine learning and data mining. Kabacoff demonstrates how to apply R to solve practical problems, giving you the tools and knowledge to tackle your own data projects.</p><p>Each case study is presented in a step-by-step manner, with detailed explanations and R code provided. This approach allows you to see the entire process of data analysis, from data cleaning and preparation to modeling and interpretation of results.</p><h2>Stay Up-to-Date with the Latest Features</h2><p>The second edition of "R in Action" has been updated to reflect the latest developments in the R ecosystem. Kabacoff includes new features and packages that have emerged since the first edition, ensuring that you’re equipped with the most current tools and techniques. This includes coverage of the dplyr and tidyr packages for data manipulation, the purrr package for functional programming, and the caret package for machine learning.</p><h2>Conclusion</h2><p>"R in Action, 2nd Edition" is an invaluable resource for anyone looking to master R and elevate their data analysis skills. Robert I. Kabacoff’s clear explanations, practical examples, and extensive coverage of statistical methods, data visualization, and real-world applications make this book a must-have for both beginners and advanced users.</p><p>Whether you're a student, a professional statistician, or a data science enthusiast, "R in Action" will empower you to tackle complex data challenges and uncover valuable insights. With this book by your side, you'll be well-equipped to navigate the ever-evolving field of data science and make data-driven decisions with confidence.</p><p>I hope you find this introduction to "R in Action, 2nd Edition" insightful! If you have any other questions or need further assistance, feel free to ask. 📘📊</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/14hkZ99Fv3Kccm26G9PmHkw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p></blockquote></body>  </html>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-
-&lt;title&gt;R in action, 2nd&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;After reading this post, you should read &lt;a href=&quot;https://</summary>
       
     
     
@@ -120,10 +54,10 @@
     <title>R语言实战 第三版</title>
     <link href="https://alllink-official.github.io/2024/12/07/PDFRIAzh3/"/>
     <id>https://alllink-official.github.io/2024/12/07/PDFRIAzh3/</id>
-    <published>2024-12-07T03:43:40.000Z</published>
-    <updated>2024-12-07T04:11:24.302Z</updated>
+    <published>2024-12-07T04:43:40.000Z</published>
+    <updated>2024-12-07T04:39:30.107Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>R语言实战 第三版</title></head><body><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R语言实战"></p></blockquote></h2></body>  </html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>R语言实战 第三版</title></head><body><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/18JC9RXpubyaUGT74LKgH-w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s34543790.jpg" alt="R语言实战"></p></blockquote></h2></body>  </html>]]></content>
     
     
       
@@ -151,13 +85,45 @@
   </entry>
   
   <entry>
+    <title>R in action, 2nd</title>
+    <link href="https://alllink-official.github.io/2024/12/07/PDFRIAen2/"/>
+    <id>https://alllink-official.github.io/2024/12/07/PDFRIAen2/</id>
+    <published>2024-12-07T03:22:45.000Z</published>
+    <updated>2024-12-07T04:39:11.814Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html><head><title>R in action, 2nd</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2>Unlocking the Power of Data with "R in Action, 2nd Edition"</h2><p>In the ever-evolving landscape of data science and statistics, mastering powerful tools to analyze, interpret, and visualize data has become indispensable. If you’re a data enthusiast, statistician, or a budding data scientist looking to harness the full potential of R, you must dive into "R in Action, 2nd Edition" by Robert I. Kabacoff. This book is more than just a guide; it’s a comprehensive resource designed to elevate your data manipulation and analysis skills.</p><h2>Comprehensive Guide for All Skill Levels</h2><p>What sets "R in Action, 2nd Edition" apart from other R programming books is its accessibility to both beginners and advanced users. The book starts with the basics, guiding you through the installation of R and RStudio, and it gradually builds up to more complex topics. Kabacoff’s engaging writing style ensures that even those with minimal programming experience can follow along and understand the concepts.</p><p>For beginners, the initial chapters cover the fundamentals of R programming, including basic syntax, data structures, and essential functions. These chapters are filled with practical examples and exercises that reinforce learning and provide hands-on experience. By the time you finish the introductory sections, you’ll have a solid foundation in R and be ready to tackle more advanced topics.</p><h2>Deep Dive into Data Analysis</h2><p>One of the core strengths of "R in Action" is its extensive coverage of data analysis techniques. The book delves into various statistical methods and how to implement them using R. Whether you're dealing with descriptive statistics, hypothesis testing, or regression analysis, Kabacoff provides clear explanations and practical examples that make these concepts easier to grasp.</p><p>The book also explores advanced statistical methods such as analysis of variance (ANOVA), principal component analysis (PCA), and time series analysis. Each method is accompanied by R code and detailed explanations, allowing you to see exactly how the analysis is performed and interpret the results effectively.</p><h2>Data Visualization and Graphics</h2><p>A significant portion of the book is dedicated to data visualization, an essential aspect of data analysis. Kabacoff introduces you to R's powerful graphics capabilities through base graphics and the ggplot2 package. You'll learn how to create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like heatmaps and interactive plots.</p><p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. The book includes numerous examples and code snippets, showing you how to customize your plots and make them publication-ready.</p><h2>Practical Applications and Case Studies</h2><p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. These examples cover a broad range of topics, from analyzing survey data and time series forecasting to machine learning and data mining. Kabacoff demonstrates how to apply R to solve practical problems, giving you the tools and knowledge to tackle your own data projects.</p><p>Each case study is presented in a step-by-step manner, with detailed explanations and R code provided. This approach allows you to see the entire process of data analysis, from data cleaning and preparation to modeling and interpretation of results.</p><h2>Stay Up-to-Date with the Latest Features</h2><p>The second edition of "R in Action" has been updated to reflect the latest developments in the R ecosystem. Kabacoff includes new features and packages that have emerged since the first edition, ensuring that you’re equipped with the most current tools and techniques. This includes coverage of the dplyr and tidyr packages for data manipulation, the purrr package for functional programming, and the caret package for machine learning.</p><h2>Conclusion</h2><p>"R in Action, 2nd Edition" is an invaluable resource for anyone looking to master R and elevate their data analysis skills. Robert I. Kabacoff’s clear explanations, practical examples, and extensive coverage of statistical methods, data visualization, and real-world applications make this book a must-have for both beginners and advanced users.</p><p>Whether you're a student, a professional statistician, or a data science enthusiast, "R in Action" will empower you to tackle complex data challenges and uncover valuable insights. With this book by your side, you'll be well-equipped to navigate the ever-evolving field of data science and make data-driven decisions with confidence.</p><p>I hope you find this introduction to "R in Action, 2nd Edition" insightful! If you have any other questions or need further assistance, feel free to ask. 📘📊</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/14hkZ99Fv3Kccm26G9PmHkw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p></blockquote></body>  </html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+
+&lt;title&gt;R in action, 2nd&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;p&gt;After reading this post, you should read &lt;a href=&quot;https://</summary>
+      
+    
+    
+    
+    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
+    
+    
+    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
+    
+  </entry>
+  
+  <entry>
     <title>R语言实战 第二版</title>
     <link href="https://alllink-official.github.io/2024/12/07/PDFRIAzh2/"/>
     <id>https://alllink-official.github.io/2024/12/07/PDFRIAzh2/</id>
     <published>2024-12-07T03:12:40.000Z</published>
-    <updated>2024-12-07T03:14:10.757Z</updated>
+    <updated>2024-12-07T04:30:39.230Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>R语言实战 第二版</title></head><body><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R语言实战"></p></blockquote></h2></body>  </html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>R语言实战 第二版</title></head><body><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2>Unlocking the Power of Data with "R in Action, 2nd Edition"</h2><p>In the ever-evolving landscape of data science and statistics, mastering powerful tools to analyze, interpret, and visualize data has become indispensable. If you’re a data enthusiast, statistician, or a budding data scientist looking to harness the full potential of R, you must dive into "R in Action, 2nd Edition" by Robert I. Kabacoff. This book is more than just a guide; it’s a comprehensive resource designed to elevate your data manipulation and analysis skills.</p><h2>Comprehensive Guide for All Skill Levels</h2><p>What sets "R in Action, 2nd Edition" apart from other R programming books is its accessibility to both beginners and advanced users. The book starts with the basics, guiding you through the installation of R and RStudio, and it gradually builds up to more complex topics. Kabacoff’s engaging writing style ensures that even those with minimal programming experience can follow along and understand the concepts.</p><p>For beginners, the initial chapters cover the fundamentals of R programming, including basic syntax, data structures, and essential functions. These chapters are filled with practical examples and exercises that reinforce learning and provide hands-on experience. By the time you finish the introductory sections, you’ll have a solid foundation in R and be ready to tackle more advanced topics.</p><h2>Deep Dive into Data Analysis</h2><p>One of the core strengths of "R in Action" is its extensive coverage of data analysis techniques. The book delves into various statistical methods and how to implement them using R. Whether you're dealing with descriptive statistics, hypothesis testing, or regression analysis, Kabacoff provides clear explanations and practical examples that make these concepts easier to grasp.</p><p>The book also explores advanced statistical methods such as analysis of variance (ANOVA), principal component analysis (PCA), and time series analysis. Each method is accompanied by R code and detailed explanations, allowing you to see exactly how the analysis is performed and interpret the results effectively.</p><h2>Data Visualization and Graphics</h2><p>A significant portion of the book is dedicated to data visualization, an essential aspect of data analysis. Kabacoff introduces you to R's powerful graphics capabilities through base graphics and the ggplot2 package. You'll learn how to create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like heatmaps and interactive plots.</p><p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. The book includes numerous examples and code snippets, showing you how to customize your plots and make them publication-ready.</p><h2>Practical Applications and Case Studies</h2><p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. These examples cover a broad range of topics, from analyzing survey data and time series forecasting to machine learning and data mining. Kabacoff demonstrates how to apply R to solve practical problems, giving you the tools and knowledge to tackle your own data projects.</p><p>Each case study is presented in a step-by-step manner, with detailed explanations and R code provided. This approach allows you to see the entire process of data analysis, from data cleaning and preparation to modeling and interpretation of results.</p><h2>Stay Up-to-Date with the Latest Features</h2><p>The second edition of "R in Action" has been updated to reflect the latest developments in the R ecosystem. Kabacoff includes new features and packages that have emerged since the first edition, ensuring that you’re equipped with the most current tools and techniques. This includes coverage of the dplyr and tidyr packages for data manipulation, the purrr package for functional programming, and the caret package for machine learning.</p><h2>Conclusion</h2><p>"R in Action, 2nd Edition" is an invaluable resource for anyone looking to master R and elevate their data analysis skills. Robert I. Kabacoff’s clear explanations, practical examples, and extensive coverage of statistical methods, data visualization, and real-world applications make this book a must-have for both beginners and advanced users.</p><p>Whether you're a student, a professional statistician, or a data science enthusiast, "R in Action" will empower you to tackle complex data challenges and uncover valuable insights. With this book by your side, you'll be well-equipped to navigate the ever-evolving field of data science and make data-driven decisions with confidence.</p><p>I hope you find this introduction to "R in Action, 2nd Edition" insightful! If you have any other questions or need further assistance, feel free to ask. 📘📊</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1ledLhh-J6eMnxendaxD8sQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R语言实战"></p></blockquote></body>  </html>]]></content>
     
     
       
@@ -185,13 +151,47 @@
   </entry>
   
   <entry>
+    <title>R in action, 1st</title>
+    <link href="https://alllink-official.github.io/2024/12/07/PDFRIAen1/"/>
+    <id>https://alllink-official.github.io/2024/12/07/PDFRIAen1/</id>
+    <published>2024-12-07T02:53:54.000Z</published>
+    <updated>2024-12-07T04:39:11.807Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html en="en"><head><title>R in action, 1st</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1iOsR-RMKpfldDUPhKqWwLw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://images.manning.com/360/480/resize/book/8/4c7a692-40d8-4ac3-ae39-6defa8ffede5/kabacoff.png" alt="R in action·"></p></blockquote></h2></body>  </html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+
+&lt;html en=&quot;en&quot;&gt;
+&lt;head&gt;
+
+&lt;title&gt;R in action, 1st&lt;/title&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;p&gt;After reading this post, you should read &lt;a href</summary>
+      
+    
+    
+    
+    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
+    
+    
+    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
+    
+  </entry>
+  
+  <entry>
     <title>R语言实战</title>
     <link href="https://alllink-official.github.io/2024/12/07/PDFRIAzh1/"/>
     <id>https://alllink-official.github.io/2024/12/07/PDFRIAzh1/</id>
     <published>2024-12-07T02:53:35.000Z</published>
-    <updated>2024-12-07T04:11:24.312Z</updated>
+    <updated>2024-12-07T04:33:24.391Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>R语言实战</title></head><body><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R语言实战"></p></blockquote></h2></body>  </html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>R语言实战</title></head><body><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/15rTzDNapxMZmMdifSDyELg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s24576400.jpg" alt="R语言实战"></p></blockquote></h2></body>  </html>]]></content>
     
     
       
