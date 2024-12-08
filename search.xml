@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AI模型概览及工具汇总</title>
+    <url>/2024/12/08/AITSum/</url>
+    <content><![CDATA[<h1 id="AI模型概览及工具汇总"><a href="#AI模型概览及工具汇总" class="headerlink" title="AI模型概览及工具汇总"></a>AI模型概览及工具汇总</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+<h2 id="AI天花板"><a href="#AI天花板" class="headerlink" title="AI天花板"></a>AI天花板</h2><ol>
+<li>OpenAI ChatGPT <a class="link" href="https://chatgpt.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Anthropic Claude <a class="link" href="https://claude.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Google Gemini <a class="link" href="https://gemini.google.com/app">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>MetaAI llama <a class="link" href="https://www.meta.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Microsoft Copilot <a class="link" href="https://copilot.microsoft.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>xAI Grok <a class="link" href="https://x.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ChatGLM（知谱清言）<a class="link" href="https://chatglm.cn/?lang=zh">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>讯飞星火 <a class="link" href="https://xinghuo.xfyun.cn/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>天工AI <a class="link" href="https://www.tiangong.cn/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>文心一言 <a class="link" href="https://yiyan.baidu.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h2 id="AI集合工具"><a href="#AI集合工具" class="headerlink" title="AI集合工具"></a>AI集合工具</h2><blockquote>
+<p>所有工具均免费开源，无需考虑安全问题</p>
+</blockquote>
+<ol>
+<li>ChatAll <br><br>下载链接直达: <br><br>1.1. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-win-x64.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.2. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-mac-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.3. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-linux-amd64.deb">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<p>ChatAll, Chatbox, lobechat, cherry studio功能一样，都是集成各个AI于一体的软件，ChatAll最有用的功能就是可以同时和多个模型一起对话，不需要<br>每个模型分别对话，一次提问多模型同时作答。还有一个优点就是国内模型只需要登录即可使用，国外模型需要API调用。注意软件都支持中文，如果不适应英语，安装<br>时请选择简体中文。<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/AITSum/AI1.png" alt="ChatAll"><br>内置模型如下，根据需要选择自己需要的（不适应安装时请选择中文）<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/AITSum/AI2.png" alt="ChatAll"></p>
+<ol start="2">
+<li><p>Chatbox <br><br>下载链接直达 <br><br>2.1. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-Setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.2. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.3. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-amd64.deb">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</li>
+<li><p>lobechat（Docker部署）<br></p>
+</li>
+</ol>
+<p><code>docker pull lobehub/lobe-chat</code></p>
+<ol start="4">
+<li><p>cherry studio <br><br>下载链接直达 <br><br>4.1. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>4.2. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br></p>
+</li>
+<li><p>LM studio <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://releases.lmstudio.ai/win32/x86/0.3.5/2/LM-Studio-0.3.5-Setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link" href="https://releases.lmstudio.ai/darwin/arm64/0.3.5/2/LM-Studio-0.3.5-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link" href="https://releases.lmstudio.ai/linux/x86/0.3.5/2/LM_Studio-0.3.5.AppImage">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</li>
+</ol>
+<p>LM studio, Ollama, AnythingLM, Chat with RTX均是下载开源模型，安装后，载入模型问答无需网络，全部在本地运行，所以对电脑性能有要求，其中<br>Ollama仅需CPU即可运行，Chat with RTX要求显存（GPU内存）≥8G才能使用。</p>
+<ol start="6">
+<li>Ollama <br><br>下载链接直达 <br><br>6.1. <a class="link" href="https://ollama.com/download/OllamaSetup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.2. <a class="link" href="https://ollama.com/download/Ollama-darwin.zip">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.3. Linux: <code>curl -fsSL https://ollama.com/install.sh | sh</code></li>
+</ol>
+<p>Ollama安装后在终端运行，没有用户界面（GUI），因为其他软件均在软件本体下载模型，而Ollama需要在<a class="link" href="https://ollama.com/search">官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>查看模型，<br>使用<code>ollama run 模型名</code>才能安装，例如安装llama3.3：<code>ollama run llama3.3</code>。</p>
+<ol start="7">
+<li><p>AnythingLLM <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop-Silicon.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link" href="https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</li>
+<li><p>Chat with RTX（Nvidia英伟达显卡专属） <a class="link" href="https://us.download.nvidia.com/RTX/ChatWithRTX_Installer_9_24.zip">下载链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>APP</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A plugin help you academic</title>
+    <url>/2024/11/24/AexHelpAcademic/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>A plugin help you academic</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/AexHelpAcademic/Jego.png" alt="Jego">
+
+<p><a class="link" href="https://jegocloud.com/">Jego <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是一款
+<a class="link" href="https://microsoftedge.microsoft.com/addons/detail/jego-free-vpn-for-copil/bkpoijbobhmbglhjjmnoedomdoabilol">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
+和<a class="link" href="https://chromewebstore.google.com/detail/jego-free-vpn-for-copilot/bnnamacamhjbdoimlbkegmbgkekphcbb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
+的插件，安装此插件允许免费用户访问谷歌服务、微软Copilot和ChatGPT等服务。请注意仅有谷歌搜索和谷歌学习，例如Youtube等娱乐工具是无法访问的，官网
+也说了免费用户提供学术服务，付费用户可以解锁Youtube等娱乐网站，满足了很大一批用户的需求，对于国内的ip封锁，严重影响了科研人员检索文献的需求，因此
+这款免费的插件真的十分良心，有喜欢的赶紧去体验一下吧。其插件需要注册才能使用，但是不要害怕，因为不需要邮箱📧验证，因此随便编一个邮箱即可，付费用户
+除外。</p>
+
+</body>
+
+</html>]]></content>
+      <categories>
+        <category>plugin</category>
+      </categories>
+      <tags>
+        <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Browser Extensions enhance Learning</title>
     <url>/2024/11/21/BrowserEx-HelpLearning/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -47,179 +135,6 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 </html>]]></content>
       <categories>
         <category>plugin</category>
-      </categories>
-      <tags>
-        <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Guidance</title>
-    <url>/2024/10/24/Guidance/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Guidance</title>
-</head>
-<body>
-
-<h1>AllLink-official</h1>
-<h2>Hello everyone, welcome to our website!</h2>
-
-<p>We Focus on making everyone chat online without hindrance all over the world and study free.
-You can learn topics as following.</p>
-
-<ol>
-<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
-<li>Useful learning websites</li>
-<li>Study sources (PDF)</li>
-<li>AI/Machine Learning</li>
-<li>Computer Science (CS)</li>
-<li>Data Science (DS)</li>
-<li>Biology/Bioscience/Life Science</li>
-<li>Chemistry</li>
-<li>Physics</li>
-<li>Mathematics</li>
-</ol>
-
-<blockquote>
-<p>Note:  allowed to be used for study; not allowed to be commercial</p>
-</blockquote>
-<h2>Follow us</h2>
-
-<ul>
-<li><a href="https://www.github.com/AllLink-official">Github</a></li>
-<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
-<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
-<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
-<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
-<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
-<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
-<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
-<li><a href="https://www.threads.com/">Threads</a></li>
-<li><a href="https://www.x.com/">X/Twitter</a></li>
-<li><a href="https://www.facebook.com">Facebook</a></li>
-<li><a href="https://www.vk.com/">VK</a></li>
-<li><a href="https://www.instagram/">Instagram</a></li>
-<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
-<li><a href="https://www.tumblr.com/">Tumblr</a></li>
-<li><a href="https://www.tiktok.com/">Tiktok</a></li>
-<li><a href="https://www.kwai.com/">Kwai</a></li>
-<li><a href="https://www.likee.com/">Likee</a></li>
-<li><a href="https://www.snapchat.com/">Snapchat</a></li>
-<li><a href="https://www.whee.com/">Whee</a></li>
-<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-</ul>
-
-<h2>Contact us</h2>
-
-<ul>
-<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
-<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
-<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
-<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
-<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
-<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
-<li><a href="https://www.webex.com/">Webex</a></li>
-<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
-<li><a href="https://www.message.com/">Messager</a></li>
-<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
-<li><a href="https://www.groupme.com/">Group Me</a></li>
-<li><a href="https://www.discord.com/invite/">Discord</a></li>
-<li><a href="https://join.slack.com/t/">Slack</a></li>
-<li><a href="https://line.me/">LINE</a></li>
-</ul>
-
-<h2>QR</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>QQ</th>
-      <th>WeChat</th>
-      <th>WeCom</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="QQ"></td> 
-      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeChat"></td>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeCom"></td>
-    </tr>
-  </tbody>
-</table>
-
-
-</body>  
-
-</html>]]></content>
-      <tags>
-        <tag>Guidance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A plugin help you academic</title>
-    <url>/2024/11/24/AexHelpAcademic/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>A plugin help you academic</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/AexHelpAcademic/Jego.png" alt="Jego">
-
-<p><a class="link" href="https://jegocloud.com/">Jego <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是一款
-<a class="link" href="https://microsoftedge.microsoft.com/addons/detail/jego-free-vpn-for-copil/bkpoijbobhmbglhjjmnoedomdoabilol">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
-和<a class="link" href="https://chromewebstore.google.com/detail/jego-free-vpn-for-copilot/bnnamacamhjbdoimlbkegmbgkekphcbb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
-的插件，安装此插件允许免费用户访问谷歌服务、微软Copilot和ChatGPT等服务。请注意仅有谷歌搜索和谷歌学习，例如Youtube等娱乐工具是无法访问的，官网
-也说了免费用户提供学术服务，付费用户可以解锁Youtube等娱乐网站，满足了很大一批用户的需求，对于国内的ip封锁，严重影响了科研人员检索文献的需求，因此
-这款免费的插件真的十分良心，有喜欢的赶紧去体验一下吧。其插件需要注册才能使用，但是不要害怕，因为不需要邮箱📧验证，因此随便编一个邮箱即可，付费用户
-除外。</p>
-
-</body>
-
-</html>]]></content>
-      <categories>
-        <category>plugin</category>
-      </categories>
-      <tags>
-        <tag>Proxy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Online Learning Web</title>
-    <url>/2024/11/14/OnlineLearning-Web/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Online Learning Web</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>国内（中国大陆）学习资源正在被封杀，百度网盘/阿里云盘/夸克网盘一直在和谐大量学习资源，所以我们决定将自己手中的资源迁移到个人
-博客平台，也是为了保护部分资源。由于我们国人有着白嫖的思想，与外国人思想有所差异，付费观看的人数屈指可数，加上部分人的预算有限，
-所以我们整理了国外慕课平台和其他学习站点，为什么没有整理国内慕课平台，请自行寻找观看后，理由便知。</p>
-
-<p>首先,最大的两个资源网站是 <a class="link" href="https://www.google.com/">Google搜索 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和 <a class="link" href="https://www.youtube.com/">Youtube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ，其中对于油管中某些言论&#x2F;不当言论经过几次检索就会自动被推送机制排除，请注意你的目的是为了学习，不要受到外部因素的影响。<br>接下来是五大慕课平台，认真寻找，虽然是收费的，但是有旁听选项，可以获取课件和观看视频。</p>
-<ol>
-<li><a class="link" href="https://www.coursera.org/">Coursera <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://home.edx.org/">edX <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.udemy.com/">Udemy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.khanacademy.org/">Khan Academy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://wwww.brilliant.org/">Brilliant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ol>
-</body>
-
-</html>]]></content>
-      <categories>
-        <category>website</category>
       </categories>
       <tags>
         <tag>Online Learning</tag>
@@ -448,6 +363,41 @@ You can learn topics as following.</p>
       </tags>
   </entry>
   <entry>
+    <title>Online Learning Web</title>
+    <url>/2024/11/14/OnlineLearning-Web/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Online Learning Web</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>国内（中国大陆）学习资源正在被封杀，百度网盘/阿里云盘/夸克网盘一直在和谐大量学习资源，所以我们决定将自己手中的资源迁移到个人
+博客平台，也是为了保护部分资源。由于我们国人有着白嫖的思想，与外国人思想有所差异，付费观看的人数屈指可数，加上部分人的预算有限，
+所以我们整理了国外慕课平台和其他学习站点，为什么没有整理国内慕课平台，请自行寻找观看后，理由便知。</p>
+
+<p>首先,最大的两个资源网站是 <a class="link" href="https://www.google.com/">Google搜索 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和 <a class="link" href="https://www.youtube.com/">Youtube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ，其中对于油管中某些言论&#x2F;不当言论经过几次检索就会自动被推送机制排除，请注意你的目的是为了学习，不要受到外部因素的影响。<br>接下来是五大慕课平台，认真寻找，虽然是收费的，但是有旁听选项，可以获取课件和观看视频。</p>
+<ol>
+<li><a class="link" href="https://www.coursera.org/">Coursera <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://home.edx.org/">edX <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.udemy.com/">Udemy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.khanacademy.org/">Khan Academy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://wwww.brilliant.org/">Brilliant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+</body>
+
+</html>]]></content>
+      <categories>
+        <category>website</category>
+      </categories>
+      <tags>
+        <tag>Online Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>高等数学 同济第八版</title>
     <url>/2024/12/07/PDFAMTJ8/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -579,6 +529,111 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
       </categories>
       <tags>
         <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Guidance</title>
+    <url>/2024/10/24/Guidance/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Guidance</title>
+</head>
+<body>
+
+<h1>AllLink-official</h1>
+<h2>Hello everyone, welcome to our website!</h2>
+
+<p>We Focus on making everyone chat online without hindrance all over the world and study free.
+You can learn topics as following.</p>
+
+<ol>
+<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
+<li>Useful learning websites</li>
+<li>Study sources (PDF)</li>
+<li>AI/Machine Learning</li>
+<li>Computer Science (CS)</li>
+<li>Data Science (DS)</li>
+<li>Biology/Bioscience/Life Science</li>
+<li>Chemistry</li>
+<li>Physics</li>
+<li>Mathematics</li>
+</ol>
+
+<blockquote>
+<p>Note:  allowed to be used for study; not allowed to be commercial</p>
+</blockquote>
+<h2>Follow us</h2>
+
+<ul>
+<li><a href="https://www.github.com/AllLink-official">Github</a></li>
+<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
+<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
+<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
+<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
+<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
+<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
+<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
+<li><a href="https://www.threads.com/">Threads</a></li>
+<li><a href="https://www.x.com/">X/Twitter</a></li>
+<li><a href="https://www.facebook.com">Facebook</a></li>
+<li><a href="https://www.vk.com/">VK</a></li>
+<li><a href="https://www.instagram/">Instagram</a></li>
+<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
+<li><a href="https://www.tumblr.com/">Tumblr</a></li>
+<li><a href="https://www.tiktok.com/">Tiktok</a></li>
+<li><a href="https://www.kwai.com/">Kwai</a></li>
+<li><a href="https://www.likee.com/">Likee</a></li>
+<li><a href="https://www.snapchat.com/">Snapchat</a></li>
+<li><a href="https://www.whee.com/">Whee</a></li>
+<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+</ul>
+
+<h2>Contact us</h2>
+
+<ul>
+<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
+<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
+<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
+<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
+<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
+<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
+<li><a href="https://www.webex.com/">Webex</a></li>
+<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
+<li><a href="https://www.message.com/">Messager</a></li>
+<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
+<li><a href="https://www.groupme.com/">Group Me</a></li>
+<li><a href="https://www.discord.com/invite/">Discord</a></li>
+<li><a href="https://join.slack.com/t/">Slack</a></li>
+<li><a href="https://line.me/">LINE</a></li>
+</ul>
+
+<h2>QR</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>QQ</th>
+      <th>WeChat</th>
+      <th>WeCom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="QQ"></td> 
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeChat"></td>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/pocket.png" alt="WeCom"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+</body>  
+
+</html>]]></content>
+      <tags>
+        <tag>Guidance</tag>
       </tags>
   </entry>
   <entry>
@@ -720,6 +775,50 @@ waiting for? Embark on your journey into the fascinating world of cell biology w
       </tags>
   </entry>
   <entry>
+    <title>Lewin&#39;s GENES XII 12th Edition</title>
+    <url>/2024/12/04/PDFLGXII/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Lewin's GENES XII 12th Edition</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>📚 Introducing: Lewin's GENES XII, 12th Edition! 🧬</h2>
+
+<p>Hey, bioscience and medical students! 📣 If you’re ready to delve deep into the fascinating world of genetics, there’s one book that stands out as a must-have: Lewin’s GENES XII, 12th Edition. This textbook is renowned for its comprehensive coverage and authoritative insights into the field of genetics, making it an indispensable resource for your studies. 🌟</p>
+<p>Why Lewin’s GENES XII? 🤔</p>
+<ol>
+<li><p>Comprehensive Content: This edition provides an exhaustive exploration of genetic principles, from fundamental concepts to advanced topics. Whether you’re just starting out or advancing in your studies, Lewin’s GENES XII has got you covered. 🧬📖</p>
+</li>
+<li><p>Expert Authorship: Written by a team of leading geneticists, this book ensures that you’re learning from the best. The authors bring their extensive knowledge and research experience to every chapter, offering you reliable and up-to-date information. 🧠✨</p>
+</li>
+<li><p>Engaging Learning Tools: The book includes a variety of tools to enhance your learning experience. From detailed diagrams and illustrations to end-of-chapter questions and case studies, you’ll find plenty of resources to help you grasp complex genetic concepts. 📝🔬</p>
+</li>
+</ol>
+<p>What’s New in the 12th Edition? 🚀<br>Updated Research: Stay on top of the latest developments in genetics. The 12th edition incorporates the most recent research findings, ensuring you’re learning the most current information available. 🔍🔬</p>
+<p>Enhanced Visuals: With improved illustrations and graphics, visual learners will find it easier to understand intricate genetic processes and mechanisms. 🎨📊</p>
+<p>Interactive Features: This edition is designed to be more interactive, with new features that encourage active learning and help you connect with the material on a deeper level. 📚💡</p>
+<p>Who Should Read This Book? 👨‍🎓👩‍🎓<br>Lewin’s GENES XII is perfect for bioscience students, medical students, and anyone with a keen interest in genetics. Whether you’re preparing for exams, conducting research, or just looking to expand your knowledge, this book is an essential companion. 🌐📘</p>
+<p>Final Thoughts 💭<br>Lewin’s GENES XII, 12th Edition, is more than just a textbook—it’s your gateway to mastering the complexities of genetics. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable resource for any bioscientific or medical student. So, why wait? Embark on your genetic journey and unlock the secrets of life with Lewin’s GENES XII! 🧬🚀📚</p>
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg" alt="Lewin's GENES XII 12th Edition"></p>
+</blockquote>
+</body>  
+
+</html>
+]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Lehninger Principles of biochemistry Eighth EDITION</title>
     <url>/2024/12/05/PDFLPB8/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -783,128 +882,6 @@ this essential resource! 🧬🚀📚</p>
       </categories>
       <tags>
         <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Lewin&#39;s GENES XII 12th Edition</title>
-    <url>/2024/12/04/PDFLGXII/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Lewin's GENES XII 12th Edition</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>📚 Introducing: Lewin's GENES XII, 12th Edition! 🧬</h2>
-
-<p>Hey, bioscience and medical students! 📣 If you’re ready to delve deep into the fascinating world of genetics, there’s one book that stands out as a must-have: Lewin’s GENES XII, 12th Edition. This textbook is renowned for its comprehensive coverage and authoritative insights into the field of genetics, making it an indispensable resource for your studies. 🌟</p>
-<p>Why Lewin’s GENES XII? 🤔</p>
-<ol>
-<li><p>Comprehensive Content: This edition provides an exhaustive exploration of genetic principles, from fundamental concepts to advanced topics. Whether you’re just starting out or advancing in your studies, Lewin’s GENES XII has got you covered. 🧬📖</p>
-</li>
-<li><p>Expert Authorship: Written by a team of leading geneticists, this book ensures that you’re learning from the best. The authors bring their extensive knowledge and research experience to every chapter, offering you reliable and up-to-date information. 🧠✨</p>
-</li>
-<li><p>Engaging Learning Tools: The book includes a variety of tools to enhance your learning experience. From detailed diagrams and illustrations to end-of-chapter questions and case studies, you’ll find plenty of resources to help you grasp complex genetic concepts. 📝🔬</p>
-</li>
-</ol>
-<p>What’s New in the 12th Edition? 🚀<br>Updated Research: Stay on top of the latest developments in genetics. The 12th edition incorporates the most recent research findings, ensuring you’re learning the most current information available. 🔍🔬</p>
-<p>Enhanced Visuals: With improved illustrations and graphics, visual learners will find it easier to understand intricate genetic processes and mechanisms. 🎨📊</p>
-<p>Interactive Features: This edition is designed to be more interactive, with new features that encourage active learning and help you connect with the material on a deeper level. 📚💡</p>
-<p>Who Should Read This Book? 👨‍🎓👩‍🎓<br>Lewin’s GENES XII is perfect for bioscience students, medical students, and anyone with a keen interest in genetics. Whether you’re preparing for exams, conducting research, or just looking to expand your knowledge, this book is an essential companion. 🌐📘</p>
-<p>Final Thoughts 💭<br>Lewin’s GENES XII, 12th Edition, is more than just a textbook—it’s your gateway to mastering the complexities of genetics. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable resource for any bioscientific or medical student. So, why wait? Embark on your genetic journey and unlock the secrets of life with Lewin’s GENES XII! 🧬🚀📚</p>
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg" alt="Lewin's GENES XII 12th Edition"></p>
-</blockquote>
-</body>  
-
-</html>
-]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine Learning in action</title>
-    <url>/2024/12/01/PDFML-in-action/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<title>Machine Learning in action</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>Dive into the World of Machine Learning with "Machine Learning in Action" 📘🤖</h2>
-
-<p>Are you ready to unlock the incredible potential of machine learning and take your data analysis skills to the next 
-level? Look no further than "Machine Learning in Action" by Peter Harrington. This book is a comprehensive guide that 
-provides you with the knowledge and tools needed to master machine learning concepts and apply them in real-world 
-scenarios. 🌟</p>
-
-<h2>A Perfect Blend of Theory and Practice</h2>
-
-<p>"Machine Learning in Action" strikes the perfect balance between theoretical foundations and practical applications. 
-The book is structured to cater to both beginners and experienced professionals, ensuring that readers can follow along 
-regardless of their prior experience. Harrington's clear and engaging writing style makes complex concepts accessible, 
-allowing you to grasp the essentials of machine learning without feeling overwhelmed. 📚✨</p>
-
-<h2>Hands-On Approach to Learning</h2>
-
-<p>One of the standout features of this book is its hands-on approach. Each chapter is filled with practical examples 
-and exercises that allow you to apply what you've learned immediately. By working through these exercises, you'll gain 
-valuable experience in implementing machine learning algorithms and solving real-world problems. The book covers a wide 
-range of topics, from simple linear regression to more advanced techniques like support vector machines and clustering. 
-🛠️🔍</p>
-
-<h2>Comprehensive Coverage of Algorithms</h2>
-
-<p>"Machine Learning in Action" provides an in-depth exploration of various machine learning algorithms and techniques. 
-You'll learn about decision trees, neural networks, ensemble methods, and more. Each algorithm is explained in detail, 
-with clear, step-by-step instructions on how to implement them using Python. The book also covers important topics like 
-feature selection, model evaluation, and improving model accuracy, ensuring that you have a solid understanding of the 
-entire machine learning pipeline. 🧠💻</p>
-
-<h2>Real-World Applications</h2>
-
-<p>What sets this book apart is its focus on real-world applications. Harrington provides numerous examples and case 
-studies that demonstrate how machine learning can be used to solve actual problems. From predicting stock prices to 
-detecting spam emails, these examples show you how to apply machine learning techniques in practical situations. This 
-approach not only reinforces your understanding but also gives you the confidence to tackle your own data challenges. 
-🌐📊</p>
-
-<h2>Staying Ahead in a Dynamic Field</h2>
-
-<p>The field of machine learning is constantly evolving, and "Machine Learning in Action" ensures that you stay ahead of 
-the curve. The book includes the latest advancements in machine learning research and practical applications, making it 
-a must-read for anyone looking to stay relevant in this dynamic field. By keeping up with the latest trends and 
-techniques, you'll be prepared to tackle the challenges and opportunities that lie ahead. 🚀📈</p>
-
-<h2>Conclusion</h2>
-
-<p>"Machine Learning in Action" by Peter Harrington is an invaluable resource for anyone interested in mastering machine 
-learning. With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both 
-beginners and experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full 
-potential of your data today! 🌟📘</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61d2dEqXcvL._AC_UF1000,1000_QL80_.jpg" alt="Machine Learning in action"></p>
-</blockquote>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
       </tags>
   </entry>
   <entry>
@@ -1101,6 +1078,84 @@ data today! 🌐📘</p>
 
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437797728l/25545994.jpg" alt="Python Machine Learning"></p>
+</blockquote>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine Learning in action</title>
+    <url>/2024/12/01/PDFML-in-action/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Machine Learning in action</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>Dive into the World of Machine Learning with "Machine Learning in Action" 📘🤖</h2>
+
+<p>Are you ready to unlock the incredible potential of machine learning and take your data analysis skills to the next 
+level? Look no further than "Machine Learning in Action" by Peter Harrington. This book is a comprehensive guide that 
+provides you with the knowledge and tools needed to master machine learning concepts and apply them in real-world 
+scenarios. 🌟</p>
+
+<h2>A Perfect Blend of Theory and Practice</h2>
+
+<p>"Machine Learning in Action" strikes the perfect balance between theoretical foundations and practical applications. 
+The book is structured to cater to both beginners and experienced professionals, ensuring that readers can follow along 
+regardless of their prior experience. Harrington's clear and engaging writing style makes complex concepts accessible, 
+allowing you to grasp the essentials of machine learning without feeling overwhelmed. 📚✨</p>
+
+<h2>Hands-On Approach to Learning</h2>
+
+<p>One of the standout features of this book is its hands-on approach. Each chapter is filled with practical examples 
+and exercises that allow you to apply what you've learned immediately. By working through these exercises, you'll gain 
+valuable experience in implementing machine learning algorithms and solving real-world problems. The book covers a wide 
+range of topics, from simple linear regression to more advanced techniques like support vector machines and clustering. 
+🛠️🔍</p>
+
+<h2>Comprehensive Coverage of Algorithms</h2>
+
+<p>"Machine Learning in Action" provides an in-depth exploration of various machine learning algorithms and techniques. 
+You'll learn about decision trees, neural networks, ensemble methods, and more. Each algorithm is explained in detail, 
+with clear, step-by-step instructions on how to implement them using Python. The book also covers important topics like 
+feature selection, model evaluation, and improving model accuracy, ensuring that you have a solid understanding of the 
+entire machine learning pipeline. 🧠💻</p>
+
+<h2>Real-World Applications</h2>
+
+<p>What sets this book apart is its focus on real-world applications. Harrington provides numerous examples and case 
+studies that demonstrate how machine learning can be used to solve actual problems. From predicting stock prices to 
+detecting spam emails, these examples show you how to apply machine learning techniques in practical situations. This 
+approach not only reinforces your understanding but also gives you the confidence to tackle your own data challenges. 
+🌐📊</p>
+
+<h2>Staying Ahead in a Dynamic Field</h2>
+
+<p>The field of machine learning is constantly evolving, and "Machine Learning in Action" ensures that you stay ahead of 
+the curve. The book includes the latest advancements in machine learning research and practical applications, making it 
+a must-read for anyone looking to stay relevant in this dynamic field. By keeping up with the latest trends and 
+techniques, you'll be prepared to tackle the challenges and opportunities that lie ahead. 🚀📈</p>
+
+<h2>Conclusion</h2>
+
+<p>"Machine Learning in Action" by Peter Harrington is an invaluable resource for anyone interested in mastering machine 
+learning. With its clear explanations, practical approach, and comprehensive coverage, this book is perfect for both 
+beginners and experienced professionals. So, why wait? Dive into the world of machine learning and unlock the full 
+potential of your data today! 🌟📘</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61d2dEqXcvL._AC_UF1000,1000_QL80_.jpg" alt="Machine Learning in action"></p>
 </blockquote>
 </body>  
 
@@ -1536,128 +1591,6 @@ retailers. 🛒📦</p>
       </tags>
   </entry>
   <entry>
-    <title>R in action 2nd</title>
-    <url>/2024/11/28/PDFRinaction/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>R in action 2nd</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>Unlocking the Power of Data with "R in Action, 2nd Edition"</h2>
-
-<p>In the ever-evolving landscape of data science and statistics, mastering powerful tools to analyze, interpret, and 
-visualize data has become indispensable. If you’re a data enthusiast, statistician, or a budding data scientist looking 
-to harness the full potential of R, you must dive into "R in Action, 2nd Edition" by Robert I. Kabacoff. This book is 
-more than just a guide; it’s a comprehensive resource designed to elevate your data manipulation and analysis skills.</p>
-
-<h2>Comprehensive Guide for All Skill Levels</h2>
-
-<p>What sets "R in Action, 2nd Edition" apart from other R programming books is its accessibility to both beginners and 
-advanced users. The book starts with the basics, guiding you through the installation of R and RStudio, and it gradually 
-builds up to more complex topics. Kabacoff’s engaging writing style ensures that even those with minimal programming 
-experience can follow along and understand the concepts.</p>
-
-<p>For beginners, the initial chapters cover the fundamentals of R programming, including basic syntax, data structures, 
-and essential functions. These chapters are filled with practical examples and exercises that reinforce learning and 
-provide hands-on experience. By the time you finish the introductory sections, you’ll have a solid foundation in R and 
-be ready to tackle more advanced topics.</p>
-
-<h2>Deep Dive into Data Analysis</h2>
-
-<p>One of the core strengths of "R in Action" is its extensive coverage of data analysis techniques. The book delves 
-into various statistical methods and how to implement them using R. Whether you're dealing with descriptive statistics, 
-hypothesis testing, or regression analysis, Kabacoff provides clear explanations and practical examples that make these 
-concepts easier to grasp.</p>
-
-<p>The book also explores advanced statistical methods such as analysis of variance (ANOVA), principal component 
-analysis (PCA), and time series analysis. Each method is accompanied by R code and detailed explanations, allowing you 
-to see exactly how the analysis is performed and interpret the results effectively.</p>
-
-<h2>Data Visualization and Graphics</h2>
-
-<p>A significant portion of the book is dedicated to data visualization, an essential aspect of data analysis. Kabacoff 
-introduces you to R's powerful graphics capabilities through base graphics and the ggplot2 package. You'll learn how to 
-create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like 
-heatmaps and interactive plots.</p>
-
-<p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. 
-The book includes numerous examples and code snippets, showing you how to customize your plots and make them 
-publication-ready.</p>
-
-<h2>Practical Applications and Case Studies</h2>
-
-<p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. 
-These examples cover a broad range of topics, from analyzing survey data and time series forecasting to machine learning 
-and data mining. Kabacoff demonstrates how to apply R to solve practical problems, giving you the tools and knowledge to 
-tackle your own data projects.</p>
-
-<p>Each case study is presented in a step-by-step manner, with detailed explanations and R code provided. This approach 
-allows you to see the entire process of data analysis, from data cleaning and preparation to modeling and interpretation 
-of results.</p>
-
-<h2>Stay Up-to-Date with the Latest Features</h2>
-
-<p>The second edition of "R in Action" has been updated to reflect the latest developments in the R ecosystem. Kabacoff 
-includes new features and packages that have emerged since the first edition, ensuring that you’re equipped with the 
-most current tools and techniques. This includes coverage of the dplyr and tidyr packages for data manipulation, the 
-purrr package for functional programming, and the caret package for machine learning.</p>
-
-<h2>Conclusion</h2>
-
-<p>"R in Action, 2nd Edition" is an invaluable resource for anyone looking to master R and elevate their data analysis 
-skills. Robert I. Kabacoff’s clear explanations, practical examples, and extensive coverage of statistical methods, data 
-visualization, and real-world applications make this book a must-have for both beginners and advanced users.</p>
-
-<p>Whether you're a student, a professional statistician, or a data science enthusiast, "R in Action" will empower you 
-to tackle complex data challenges and uncover valuable insights. With this book by your side, you'll be well-equipped to 
-navigate the ever-evolving field of data science and make data-driven decisions with confidence.</p>
-
-<p>I hope you find this introduction to "R in Action, 2nd Edition" insightful! If you have any other questions or need 
-further assistance, feel free to ask. 📘📊</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
-</blockquote>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Install Google Play Store On Phone</title>
-    <url>/2024/11/20/PlayStore-OnPhone/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Install Google Play Store On Phone</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link" href="https://www.apkmirror.com/">APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkcombo.com/">APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.en.uptodown.com/">Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
-</body>
-
-</html>]]></content>
-      <categories>
-        <category>APP</category>
-      </categories>
-      <tags>
-        <tag>Proxy</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>托马斯微积分 第十版</title>
     <url>/2024/12/06/PDFTC10/</url>
     <content><![CDATA[<!DOCTYPE html>
@@ -1710,6 +1643,66 @@ further assistance, feel free to ask. 📘📊</p>
       </categories>
       <tags>
         <tag>mathematics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Install Google Play Store On Phone</title>
+    <url>/2024/11/20/PlayStore-OnPhone/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Install Google Play Store On Phone</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link" href="https://www.apkmirror.com/">APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkcombo.com/">APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.en.uptodown.com/">Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
+</body>
+
+</html>]]></content>
+      <categories>
+        <category>APP</category>
+      </categories>
+      <tags>
+        <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Reconmmended Node Shop</title>
+    <url>/2024/11/02/Recommended-NodeShop/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Reconmmended Node Shop</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h1 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h1><p>可选择的机场很多，但也不乏有几元&#x2F;月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
+<h1 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h1><ol>
+<li><a class="link" href="https://juziyun996.xyz/auth/register?code=HmUU">桔子云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.nicecloud.ink/register?aff=uIZATVIk">NiceCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.ikuajings.com/auth/register?code=isH2">跨境Cloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://jikeq87.xyz/auth/register?code=T2o4">极客云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://portal.dc-site5.com/#/register?code=nTu25MIJ">DuangCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://shuttle.gt-all.com/aff.php?aff=10426">Gatern <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://llg01.com/#/register?code=vbCJ3mLb">流量光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>  ### 此机场似乎有问题，慎重选择</li>
+</ol>
+<blockquote>
+<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
+</blockquote>
+</body>
+
+</html>]]></content>
+      <categories>
+        <category>Node Shop</category>
+      </categories>
+      <tags>
+        <tag>Proxy</tag>
       </tags>
   </entry>
   <entry>
@@ -1858,39 +1851,101 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
       </tags>
   </entry>
   <entry>
-    <title>Reconmmended Node Shop</title>
-    <url>/2024/11/02/Recommended-NodeShop/</url>
+    <title>R in action 2nd</title>
+    <url>/2024/11/28/PDFRinaction/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html>
 <head>
 
-<title>Reconmmended Node Shop</title>
+<title>R in action 2nd</title>
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h1 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h1><p>可选择的机场很多，但也不乏有几元&#x2F;月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
-<h1 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h1><ol>
-<li><a class="link" href="https://juziyun996.xyz/auth/register?code=HmUU">桔子云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.nicecloud.ink/register?aff=uIZATVIk">NiceCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.ikuajings.com/auth/register?code=isH2">跨境Cloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://jikeq87.xyz/auth/register?code=T2o4">极客云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://portal.dc-site5.com/#/register?code=nTu25MIJ">DuangCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://shuttle.gt-all.com/aff.php?aff=10426">Gatern <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://llg01.com/#/register?code=vbCJ3mLb">流量光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>  ### 此机场似乎有问题，慎重选择</li>
-</ol>
+<h2>Unlocking the Power of Data with "R in Action, 2nd Edition"</h2>
+
+<p>In the ever-evolving landscape of data science and statistics, mastering powerful tools to analyze, interpret, and 
+visualize data has become indispensable. If you’re a data enthusiast, statistician, or a budding data scientist looking 
+to harness the full potential of R, you must dive into "R in Action, 2nd Edition" by Robert I. Kabacoff. This book is 
+more than just a guide; it’s a comprehensive resource designed to elevate your data manipulation and analysis skills.</p>
+
+<h2>Comprehensive Guide for All Skill Levels</h2>
+
+<p>What sets "R in Action, 2nd Edition" apart from other R programming books is its accessibility to both beginners and 
+advanced users. The book starts with the basics, guiding you through the installation of R and RStudio, and it gradually 
+builds up to more complex topics. Kabacoff’s engaging writing style ensures that even those with minimal programming 
+experience can follow along and understand the concepts.</p>
+
+<p>For beginners, the initial chapters cover the fundamentals of R programming, including basic syntax, data structures, 
+and essential functions. These chapters are filled with practical examples and exercises that reinforce learning and 
+provide hands-on experience. By the time you finish the introductory sections, you’ll have a solid foundation in R and 
+be ready to tackle more advanced topics.</p>
+
+<h2>Deep Dive into Data Analysis</h2>
+
+<p>One of the core strengths of "R in Action" is its extensive coverage of data analysis techniques. The book delves 
+into various statistical methods and how to implement them using R. Whether you're dealing with descriptive statistics, 
+hypothesis testing, or regression analysis, Kabacoff provides clear explanations and practical examples that make these 
+concepts easier to grasp.</p>
+
+<p>The book also explores advanced statistical methods such as analysis of variance (ANOVA), principal component 
+analysis (PCA), and time series analysis. Each method is accompanied by R code and detailed explanations, allowing you 
+to see exactly how the analysis is performed and interpret the results effectively.</p>
+
+<h2>Data Visualization and Graphics</h2>
+
+<p>A significant portion of the book is dedicated to data visualization, an essential aspect of data analysis. Kabacoff 
+introduces you to R's powerful graphics capabilities through base graphics and the ggplot2 package. You'll learn how to 
+create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like 
+heatmaps and interactive plots.</p>
+
+<p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. 
+The book includes numerous examples and code snippets, showing you how to customize your plots and make them 
+publication-ready.</p>
+
+<h2>Practical Applications and Case Studies</h2>
+
+<p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. 
+These examples cover a broad range of topics, from analyzing survey data and time series forecasting to machine learning 
+and data mining. Kabacoff demonstrates how to apply R to solve practical problems, giving you the tools and knowledge to 
+tackle your own data projects.</p>
+
+<p>Each case study is presented in a step-by-step manner, with detailed explanations and R code provided. This approach 
+allows you to see the entire process of data analysis, from data cleaning and preparation to modeling and interpretation 
+of results.</p>
+
+<h2>Stay Up-to-Date with the Latest Features</h2>
+
+<p>The second edition of "R in Action" has been updated to reflect the latest developments in the R ecosystem. Kabacoff 
+includes new features and packages that have emerged since the first edition, ensuring that you’re equipped with the 
+most current tools and techniques. This includes coverage of the dplyr and tidyr packages for data manipulation, the 
+purrr package for functional programming, and the caret package for machine learning.</p>
+
+<h2>Conclusion</h2>
+
+<p>"R in Action, 2nd Edition" is an invaluable resource for anyone looking to master R and elevate their data analysis 
+skills. Robert I. Kabacoff’s clear explanations, practical examples, and extensive coverage of statistical methods, data 
+visualization, and real-world applications make this book a must-have for both beginners and advanced users.</p>
+
+<p>Whether you're a student, a professional statistician, or a data science enthusiast, "R in Action" will empower you 
+to tackle complex data challenges and uncover valuable insights. With this book by your side, you'll be well-equipped to 
+navigate the ever-evolving field of data science and make data-driven decisions with confidence.</p>
+
+<p>I hope you find this introduction to "R in Action, 2nd Edition" insightful! If you have any other questions or need 
+further assistance, feel free to ask. 📘📊</p>
+
 <blockquote>
-<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
+<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
 </blockquote>
-</body>
+</body>  
 
 </html>]]></content>
       <categories>
-        <category>Node Shop</category>
+        <category>PDF</category>
       </categories>
       <tags>
-        <tag>Proxy</tag>
+        <tag>Data Science</tag>
       </tags>
   </entry>
   <entry>

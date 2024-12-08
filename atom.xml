@@ -6,7 +6,7 @@
   <link href="https://alllink-official.github.io/atom.xml" rel="self"/>
   
   <link href="https://alllink-official.github.io/"/>
-  <updated>2024-12-07T05:13:32.287Z</updated>
+  <updated>2024-12-08T12:31:44.561Z</updated>
   <id>https://alllink-official.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI模型概览及工具汇总</title>
+    <link href="https://alllink-official.github.io/2024/12/08/AITSum/"/>
+    <id>https://alllink-official.github.io/2024/12/08/AITSum/</id>
+    <published>2024-12-08T06:32:17.000Z</published>
+    <updated>2024-12-08T12:31:44.561Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="AI模型概览及工具汇总"><a href="#AI模型概览及工具汇总" class="headerlink" title="AI模型概览及工具汇总"></a>AI模型概览及工具汇总</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h2 id="AI天花板"><a href="#AI天花板" class="headerlink" title="AI天花板"></a>AI天花板</h2><ol><li>OpenAI ChatGPT <a class="link" href="https://chatgpt.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>Anthropic Claude <a class="link" href="https://claude.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>Google Gemini <a class="link" href="https://gemini.google.com/app">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>MetaAI llama <a class="link" href="https://www.meta.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>Microsoft Copilot <a class="link" href="https://copilot.microsoft.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>xAI Grok <a class="link" href="https://x.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>ChatGLM（知谱清言）<a class="link" href="https://chatglm.cn/?lang=zh">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>讯飞星火 <a class="link" href="https://xinghuo.xfyun.cn/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>天工AI <a class="link" href="https://www.tiangong.cn/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li>文心一言 <a class="link" href="https://yiyan.baidu.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li></ol><h2 id="AI集合工具"><a href="#AI集合工具" class="headerlink" title="AI集合工具"></a>AI集合工具</h2><blockquote><p>所有工具均免费开源，无需考虑安全问题</p></blockquote><ol><li>ChatAll <br><br>下载链接直达: <br><br>1.1. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-win-x64.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.2. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-mac-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.3. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-linux-amd64.deb">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li></ol><p>ChatAll, Chatbox, lobechat, cherry studio功能一样，都是集成各个AI于一体的软件，ChatAll最有用的功能就是可以同时和多个模型一起对话，不需要<br>每个模型分别对话，一次提问多模型同时作答。还有一个优点就是国内模型只需要登录即可使用，国外模型需要API调用。注意软件都支持中文，如果不适应英语，安装<br>时请选择简体中文。<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/AITSum/AI1.png" alt="ChatAll"><br>内置模型如下，根据需要选择自己需要的（不适应安装时请选择中文）<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/AITSum/AI2.png" alt="ChatAll"></p><ol start="2"><li><p>Chatbox <br><br>下载链接直达 <br><br>2.1. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-Setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.2. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.3. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-amd64.deb">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p>lobechat（Docker部署）<br></p></li></ol><p><code>docker pull lobehub/lobe-chat</code></p><ol start="4"><li><p>cherry studio <br><br>下载链接直达 <br><br>4.1. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>4.2. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br></p></li><li><p>LM studio <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://releases.lmstudio.ai/win32/x86/0.3.5/2/LM-Studio-0.3.5-Setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link" href="https://releases.lmstudio.ai/darwin/arm64/0.3.5/2/LM-Studio-0.3.5-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link" href="https://releases.lmstudio.ai/linux/x86/0.3.5/2/LM_Studio-0.3.5.AppImage">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li></ol><p>LM studio, Ollama, AnythingLM, Chat with RTX均是下载开源模型，安装后，载入模型问答无需网络，全部在本地运行，所以对电脑性能有要求，其中<br>Ollama仅需CPU即可运行，Chat with RTX要求显存（GPU内存）≥8G才能使用。</p><ol start="6"><li>Ollama <br><br>下载链接直达 <br><br>6.1. <a class="link" href="https://ollama.com/download/OllamaSetup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.2. <a class="link" href="https://ollama.com/download/Ollama-darwin.zip">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.3. Linux: <code>curl -fsSL https://ollama.com/install.sh | sh</code></li></ol><p>Ollama安装后在终端运行，没有用户界面（GUI），因为其他软件均在软件本体下载模型，而Ollama需要在<a class="link" href="https://ollama.com/search">官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>查看模型，<br>使用<code>ollama run 模型名</code>才能安装，例如安装llama3.3：<code>ollama run llama3.3</code>。</p><ol start="7"><li><p>AnythingLLM <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop-Silicon.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link" href="https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li><li><p>Chat with RTX（Nvidia英伟达显卡专属） <a class="link" href="https://us.download.nvidia.com/RTX/ChatWithRTX_Installer_9_24.zip">下载链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;AI模型概览及工具汇总&quot;&gt;&lt;a href=&quot;#AI模型概览及工具汇总&quot; class=&quot;headerlink&quot; title=&quot;AI模型概览及工具汇总&quot;&gt;&lt;/a&gt;AI模型概览及工具汇总&lt;/h1&gt;&lt;p&gt;阅读完这篇文章后，你应该浏览一下&lt;a href=&quot;https://a</summary>
+      
+    
+    
+    
+    <category term="APP" scheme="https://alllink-official.github.io/categories/APP/"/>
+    
+    
+    <category term="AI" scheme="https://alllink-official.github.io/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>R in action, 3rd</title>
@@ -615,38 +639,6 @@
 &lt;body&gt;
 
 &lt;p&gt;After reading this post, you should read &lt;a href=&quot;https://</summary>
-      
-    
-    
-    
-    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
-    
-    
-    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>R in action 2nd</title>
-    <link href="https://alllink-official.github.io/2024/11/28/PDFRinaction/"/>
-    <id>https://alllink-official.github.io/2024/11/28/PDFRinaction/</id>
-    <published>2024-11-28T13:57:55.000Z</published>
-    <updated>2024-12-06T01:31:57.089Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><title>R in action 2nd</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2>Unlocking the Power of Data with "R in Action, 2nd Edition"</h2><p>In the ever-evolving landscape of data science and statistics, mastering powerful tools to analyze, interpret, and visualize data has become indispensable. If you’re a data enthusiast, statistician, or a budding data scientist looking to harness the full potential of R, you must dive into "R in Action, 2nd Edition" by Robert I. Kabacoff. This book is more than just a guide; it’s a comprehensive resource designed to elevate your data manipulation and analysis skills.</p><h2>Comprehensive Guide for All Skill Levels</h2><p>What sets "R in Action, 2nd Edition" apart from other R programming books is its accessibility to both beginners and advanced users. The book starts with the basics, guiding you through the installation of R and RStudio, and it gradually builds up to more complex topics. Kabacoff’s engaging writing style ensures that even those with minimal programming experience can follow along and understand the concepts.</p><p>For beginners, the initial chapters cover the fundamentals of R programming, including basic syntax, data structures, and essential functions. These chapters are filled with practical examples and exercises that reinforce learning and provide hands-on experience. By the time you finish the introductory sections, you’ll have a solid foundation in R and be ready to tackle more advanced topics.</p><h2>Deep Dive into Data Analysis</h2><p>One of the core strengths of "R in Action" is its extensive coverage of data analysis techniques. The book delves into various statistical methods and how to implement them using R. Whether you're dealing with descriptive statistics, hypothesis testing, or regression analysis, Kabacoff provides clear explanations and practical examples that make these concepts easier to grasp.</p><p>The book also explores advanced statistical methods such as analysis of variance (ANOVA), principal component analysis (PCA), and time series analysis. Each method is accompanied by R code and detailed explanations, allowing you to see exactly how the analysis is performed and interpret the results effectively.</p><h2>Data Visualization and Graphics</h2><p>A significant portion of the book is dedicated to data visualization, an essential aspect of data analysis. Kabacoff introduces you to R's powerful graphics capabilities through base graphics and the ggplot2 package. You'll learn how to create a wide variety of plots, including bar charts, histograms, scatterplots, and more complex visualizations like heatmaps and interactive plots.</p><p>Kabacoff emphasizes the importance of visualizing data to uncover hidden patterns and communicate findings effectively. The book includes numerous examples and code snippets, showing you how to customize your plots and make them publication-ready.</p><h2>Practical Applications and Case Studies</h2><p>To bridge the gap between theory and practice, "R in Action" includes numerous real-world examples and case studies. These examples cover a broad range of topics, from analyzing survey data and time series forecasting to machine learning and data mining. Kabacoff demonstrates how to apply R to solve practical problems, giving you the tools and knowledge to tackle your own data projects.</p><p>Each case study is presented in a step-by-step manner, with detailed explanations and R code provided. This approach allows you to see the entire process of data analysis, from data cleaning and preparation to modeling and interpretation of results.</p><h2>Stay Up-to-Date with the Latest Features</h2><p>The second edition of "R in Action" has been updated to reflect the latest developments in the R ecosystem. Kabacoff includes new features and packages that have emerged since the first edition, ensuring that you’re equipped with the most current tools and techniques. This includes coverage of the dplyr and tidyr packages for data manipulation, the purrr package for functional programming, and the caret package for machine learning.</p><h2>Conclusion</h2><p>"R in Action, 2nd Edition" is an invaluable resource for anyone looking to master R and elevate their data analysis skills. Robert I. Kabacoff’s clear explanations, practical examples, and extensive coverage of statistical methods, data visualization, and real-world applications make this book a must-have for both beginners and advanced users.</p><p>Whether you're a student, a professional statistician, or a data science enthusiast, "R in Action" will empower you to tackle complex data challenges and uncover valuable insights. With this book by your side, you'll be well-equipped to navigate the ever-evolving field of data science and make data-driven decisions with confidence.</p><p>I hope you find this introduction to "R in Action, 2nd Edition" insightful! If you have any other questions or need further assistance, feel free to ask. 📘📊</p><blockquote><p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p></blockquote></body>  </html>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-
-&lt;title&gt;R in action 2nd&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;After reading this post, you should read &lt;a href=&quot;https://a</summary>
       
     
     
