@@ -6,7 +6,7 @@
   <link href="https://alllink-official.github.io/atom.xml" rel="self"/>
   
   <link href="https://alllink-official.github.io/"/>
-  <updated>2024-12-10T01:22:25.887Z</updated>
+  <updated>2024-12-10T10:08:37.974Z</updated>
   <id>https://alllink-official.github.io/</id>
   
   <author>
@@ -17,13 +17,85 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>The Elements of Statistical Learning, Second Edition</title>
+    <link href="https://alllink-official.github.io/2024/12/10/PDFTEoSL2/"/>
+    <id>https://alllink-official.github.io/2024/12/10/PDFTEoSL2/</id>
+    <published>2024-12-10T09:54:59.000Z</published>
+    <updated>2024-12-10T10:08:37.974Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html><head><title>The Elements of Statistical Learning - Data Mining, Inference, and Prediction Second Edition</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><p>📘 <strong> Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition</strong> is a highly acclaimed book authored by Trevor Hastie, Robert Tibshirani, and Jerome Friedman, published by Springer as part of the Springer Series in Statistics. This book delves into the core concepts and methodologies of data mining, inference, and prediction, offering readers a comprehensive understanding of statistical learning techniques.</p><h2>Key Features:</h2><ol><li>Extensive Coverage: This book encompasses a wide range of topics from supervised learning to unsupervised learning, including neural networks, support vector machines, classification trees, and boosting methods. It provides a thorough exploration of these techniques.</li><li>Rich Examples: The second edition includes over 200 pages of color illustrations and numerous examples, aiding readers in grasping and applying these methods effectively.</li><li>Updated Content: This edition introduces new topics such as graphical models, random forests, ensemble methods, least angle regression and path algorithms, non-negative matrix factorization, and spectral clustering.</li><li>Practical Application: The book bridges theory and practice, combining rich theoretical content with practical case studies to help readers apply what they've learned in real-world scenarios.</li></ol><h2>Reading Experience:</h2><p>The authors, Trevor Hastie, Robert Tibshirani, and Jerome Friedman, use clear, accessible language and numerous examples and charts to make complex concepts more comprehensible. Each chapter concludes with summaries and exercises, allowing readers to consolidate their knowledge. Notably, every key concept is supported by detailed explanations and practical examples, enabling readers to apply theoretical knowledge to practical situations.</p><h2>Suitable Audience:</h2><ul><li>Data Scientists and Analysts: Professionals who need to ensure data quality and conduct data analysis will find this book immensely valuable.</li><li>Statistical Researchers: Researchers will benefit from the latest statistical learning methods and techniques detailed in this book.</li><li>Students and Educators: Students and teachers can use this book as a textbook to enhance students' statistical learning abilities.</li></ul><p>In conclusion, The Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition is a classic that provides a thorough introduction to the core skills of data science through detailed explanations and rich examples. Whether you're a beginner or an experienced professional, this book will be an invaluable assistant on your journey in the field of data science 📚. Get your copy now and embark on your data science adventure! 💫</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1kd4EMw5xfsBDPOHvI55tqg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-53199-7" alt="Knowledge Graphs and Big Data Processing"></p></blockquote><p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p></body>  </html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+
+&lt;html&gt;
+&lt;head&gt;
+
+&lt;title&gt;The Elements of Statistical Learning - Data Mining, Inference, and Prediction Second Edition&lt;/title&gt;
+</summary>
+      
+    
+    
+    
+    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
+    
+    
+    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
+    
+    <category term="Machine Learning" scheme="https://alllink-official.github.io/tags/Machine-Learning/"/>
+    
+    <category term="Mathematics" scheme="https://alllink-official.github.io/tags/Mathematics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Knowledge Graphs and Big Data Processing</title>
+    <link href="https://alllink-official.github.io/2024/12/10/PDFKGaBDP/"/>
+    <id>https://alllink-official.github.io/2024/12/10/PDFKGaBDP/</id>
+    <published>2024-12-10T02:28:21.000Z</published>
+    <updated>2024-12-10T10:08:37.982Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html><head><title>Knowledge Graphs and Big Data Processing</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><p>📘 <strong> Graphs and Big Data Processing</strong> is a comprehensive guide that delves into the intricate world of big data analytics and knowledge representation. Published by Springer, this book is part of the Lecture Notes in Computer Science series and is edited by Valentina Janev, Damien Graux, Hajira Jabeen, and Emanuel Sallinger.</p><h2>Key Features:</h2><ol><li>In-Depth Coverage: The book covers a wide range of topics, from information extraction and knowledge representation to knowledge processing, analytics, and visualization. Each chapter addresses a specific aspect of the data processing chain, providing a thorough understanding of the subject matter.</li><li>Practical Applications: Readers will find numerous real-world examples and case studies that illustrate the practical applications of big data processing and knowledge graphs. This makes the content highly relevant and applicable to various industries.</li><li>Latest Tools and Frameworks: The book introduces the latest tools, frameworks, and solutions for big data processing, ensuring that readers are up-to-date with the most current advancements in the field.</li><li>Expert Insights: With contributions from leading experts in the field, the book offers valuable insights and perspectives on the challenges and opportunities in big data analytics.</li></ol><h2>Reading Experience:</h2><p>The editors have crafted the book in a clear and approachable manner, making complex concepts accessible to both beginners and advanced practitioners. Each chapter is meticulously structured, starting with foundational concepts and gradually progressing to more advanced topics. The inclusion of exercises and practical examples enhances the learning experience, allowing readers to apply their knowledge in real-world scenarios.</p><h2>Suitable Audience:</h2><ul><li>Graduate Students: Those pursuing advanced studies in technical disciplines will find this book an invaluable resource for their coursework and research.</li><li>Professional Audiences: Individuals engaged in continuous education or professional development will benefit from the comprehensive coverage and practical insights provided.</li><li>Researchers: Scholars and researchers from diverse areas will find the book useful for self-study and staying abreast of the latest developments in big data processing and knowledge graphs.</li></ul><p>In conclusion, Knowledge Graphs and Big Data Processing is a must-read for anyone interested in the field of big data analytics and knowledge representation. Its comprehensive coverage, practical examples, and expert insights make it an essential resource for enhancing your understanding and skills in this rapidly evolving domain. 🌟</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1_C01Rv6azPqlFUraaFtcwQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-53199-7" alt="Knowledge Graphs and Big Data Processing"></p></blockquote><p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p></body>  </html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+
+&lt;html&gt;
+&lt;head&gt;
+
+&lt;title&gt;Knowledge Graphs and Big Data Processing&lt;/title&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;p&gt;After reading this post, you sho</summary>
+      
+    
+    
+    
+    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
+    
+    
+    <category term="Data Science" scheme="https://alllink-official.github.io/tags/Data-Science/"/>
+    
+    <category term="Knowledge Graphs" scheme="https://alllink-official.github.io/tags/Knowledge-Graphs/"/>
+    
+    <category term="Deep Learning" scheme="https://alllink-official.github.io/tags/Deep-Learning/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cody&#39;s Data Cleaning Techniques Using SAS, 2e</title>
     <link href="https://alllink-official.github.io/2024/12/10/PDFCDCTUSaS2/"/>
     <id>https://alllink-official.github.io/2024/12/10/PDFCDCTUSaS2/</id>
     <published>2024-12-10T01:11:11.000Z</published>
-    <updated>2024-12-10T01:22:25.887Z</updated>
+    <updated>2024-12-10T01:29:30.604Z</updated>
     
-    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>Cody's Data Cleaning Techniques Using SAS, 2e</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><p>《Python快速入门 第三版》是一本理想的书籍，专为那些希望快速掌握Python编程语言的读者而写📘。这本书由Naomi Ceder编写，通过全面的内容和清晰的讲解，帮助读者从零开始，迅速掌握Python的核心概念和实用技巧。</p><p>📘 <strong>Cody's Data Cleaning Techniques Using SAS, 2nd Edition</strong> is an indispensable resource for data scientists, analysts, and SAS programmers. Authored by Ronald Cody, this book offers comprehensive techniques and insights into the crucial process of data cleaning using SAS software. Whether you're new to data cleaning or an experienced user, this book provides valuable knowledge to enhance your skills and improve your data analysis outcomes.</p><h2>Key Features:</h2><ol><li>Comprehensive Coverage: This edition dives deep into various data cleaning methodologies, covering both basic and advanced techniques. From simple data validation to complex data transformation, every aspect is meticulously explained💡.</li><li>Practical Examples: Ronald Cody includes numerous real-world examples and SAS code snippets throughout the book. These examples help readers understand the practical application of the techniques and make it easier to implement them in their own work📈.</li><li>Step-by-Step Instructions: The book offers detailed, step-by-step instructions for each data cleaning technique, making it accessible even to those who are new to SAS or data cleaning🧩.</li><li>Updated Content: The second edition includes updated content that reflects the latest advancements in SAS software, ensuring that readers have access to the most current and effective data cleaning techniques🔍.</li></ol><h2>Reading Experience:</h2><p>Ronald Cody's writing style is clear and approachable, making complex concepts easy to understand. The book is structured in a logical sequence, starting with the basics and gradually moving to more advanced topics. Each chapter concludes with exercises that reinforce the material covered, allowing readers to practice and consolidate their learning📊.</p><h2>Suitable Audience:</h2><ul><li>Data Analysts and Scientists: Professionals who need to ensure the accuracy and quality of their data will find this book incredibly useful🧑‍🔬.</li><li>SAS Programmers: Those who work with SAS software regularly will benefit from the practical tips and techniques provided👨‍💻.</li><li>Students and Educators: This book is also a great resource for students learning data science and educators teaching data cleaning and SAS programming📚.</li><p>In conclusion, Cody's Data Cleaning Techniques Using SAS, 2nd Edition is a must-have for anyone involved in data analysis and data management. Its comprehensive coverage, practical examples, and clear instructions make it a valuable tool for improving data quality and ensuring accurate results💫. Pick up your copy today and take your data cleaning skills to the next level! 🌟</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1EP7fYpeNuOuDq4eerTr34Q">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71rsWMoUKjL.jpg" alt="Data Cleaning Techniques Using SAS"></p></blockquote><p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p></ul></body>  </html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html en="zh"><head><title>Cody's Data Cleaning Techniques Using SAS, 2e</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><p>📘 <strong>Cody's Data Cleaning Techniques Using SAS, 2nd Edition</strong> is an indispensable resource for data scientists, analysts, and SAS programmers. Authored by Ronald Cody, this book offers comprehensive techniques and insights into the crucial process of data cleaning using SAS software. Whether you're new to data cleaning or an experienced user, this book provides valuable knowledge to enhance your skills and improve your data analysis outcomes.</p><h2>Key Features:</h2><ol><li>Comprehensive Coverage: This edition dives deep into various data cleaning methodologies, covering both basic and advanced techniques. From simple data validation to complex data transformation, every aspect is meticulously explained💡.</li><li>Practical Examples: Ronald Cody includes numerous real-world examples and SAS code snippets throughout the book. These examples help readers understand the practical application of the techniques and make it easier to implement them in their own work📈.</li><li>Step-by-Step Instructions: The book offers detailed, step-by-step instructions for each data cleaning technique, making it accessible even to those who are new to SAS or data cleaning🧩.</li><li>Updated Content: The second edition includes updated content that reflects the latest advancements in SAS software, ensuring that readers have access to the most current and effective data cleaning techniques🔍.</li></ol><h2>Reading Experience:</h2><p>Ronald Cody's writing style is clear and approachable, making complex concepts easy to understand. The book is structured in a logical sequence, starting with the basics and gradually moving to more advanced topics. Each chapter concludes with exercises that reinforce the material covered, allowing readers to practice and consolidate their learning📊.</p><h2>Suitable Audience:</h2><ul><li>Data Analysts and Scientists: Professionals who need to ensure the accuracy and quality of their data will find this book incredibly useful🧑‍🔬.</li><li>SAS Programmers: Those who work with SAS software regularly will benefit from the practical tips and techniques provided👨‍💻.</li><li>Students and Educators: This book is also a great resource for students learning data science and educators teaching data cleaning and SAS programming📚.</li><p>In conclusion, Cody's Data Cleaning Techniques Using SAS, 2nd Edition is a must-have for anyone involved in data analysis and data management. Its comprehensive coverage, practical examples, and clear instructions make it a valuable tool for improving data quality and ensuring accurate results💫. Pick up your copy today and take your data cleaning skills to the next level! 🌟</p><blockquote><p>You can get PDF via <a class="link" href="https://terabox.com/s/1EP7fYpeNuOuDq4eerTr34Q">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71rsWMoUKjL.jpg" alt="Data Cleaning Techniques Using SAS"></p></blockquote><p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p></ul></body>  </html>]]></content>
     
     
       
@@ -597,62 +669,6 @@
     
     
     <category term="Bioscience" scheme="https://alllink-official.github.io/tags/Bioscience/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lehninger’s principles of biochemistry,7e</title>
-    <link href="https://alllink-official.github.io/2024/12/02/PDFBCL/"/>
-    <id>https://alllink-official.github.io/2024/12/02/PDFBCL/</id>
-    <published>2024-12-02T11:30:52.000Z</published>
-    <updated>2024-12-10T00:57:35.168Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><title>Lehninger’s principles of biochemistry,7e</title></head><body><p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p><h2>📚 Introducing: Lehninger’s Principles of Biochemistry, 7th Edition! 🧬</h2><p>Hey there, college students! 📣 If you're diving into the world of biochemistry, there's one book that you absolutely cannot miss: Lehninger’s Principles of Biochemistry, 7th Edition. This book isn't just a textbook; it's a treasure trove of knowledge that will guide you through the fascinating world of biochemical processes. 🌟</p><h2>Why Lehninger's Principles? 🤔</h2><ol><li>Comprehensive Content: This edition is packed with detailed, up-to-date information that covers all the core topics in biochemistry. From the basic concepts to the most advanced topics, it’s all in there. It’s like having a personal biochemistry tutor right on your bookshelf! 🧪📖</li><li>Clear Explanations: The authors, David L. Nelson and Michael M. Cox, are experts in making complex topics understandable. They use clear language, helpful diagrams, and engaging examples to ensure you grasp every concept. 🧠✨</li><li>Engaging Learning Tools: With this book, learning is never boring. It includes various tools like end-of-chapter questions, problem-solving tips, and real-life applications that make studying interactive and fun. 📝🔬</li></ol><h2>What’s New in the 7th Edition? 🚀</h2><p>Updated Research: Stay ahead with the latest research and discoveries in the field. The 7th edition includes updated content reflecting recent advances in biochemistry. 🔍🔬</p><p>New Illustrations and Graphics: Visual learners, rejoice! The new edition comes with enhanced illustrations and graphics that make understanding the material even easier. 🎨📊</p><p>Enhanced Learning Features: More interactive and engaging features have been added to help you connect with the material on a deeper level. 📚💡</p><h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2><p>Whether you’re a biochemistry major or just taking an introductory course, this book is a perfect companion. It’s designed to cater to both beginners and advanced learners, ensuring everyone can benefit from its wealth of knowledge. 🌐📘</p><h2>Final Thoughts 💭</h2><p>Lehninger’s Principles of Biochemistry(7th Edition), is more than just a textbook; it’s your guide to mastering biochemistry. With its clear explanations, comprehensive coverage, and engaging tools, it's the ideal resource for any college student looking to excel in this subject. So, what are you waiting for? Dive into the wonders of biochemistry today! 🧬🚀📚</p><blockquote><p>You can get PDF via <a class="link" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81DszDGjnXL._AC_UF1000,1000_QL80_.jpg" alt="principles of biochemistry"></p></blockquote><p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p></body>  </html>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-
-&lt;title&gt;Lehninger’s principles of biochemistry,7e&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;After reading this post, you shou</summary>
-      
-    
-    
-    
-    <category term="PDF" scheme="https://alllink-official.github.io/categories/PDF/"/>
-    
-    
-    <category term="Bioscience" scheme="https://alllink-official.github.io/tags/Bioscience/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>利用follo订阅本博客</title>
-    <link href="https://alllink-official.github.io/2024/12/01/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/"/>
-    <id>https://alllink-official.github.io/2024/12/01/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/</id>
-    <published>2024-12-01T14:15:57.000Z</published>
-    <updated>2024-12-06T01:26:29.271Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="利用follo订阅该频道"><a href="#利用follo订阅该频道" class="headerlink" title="利用follo订阅该频道"></a>利用follo订阅该频道</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p><h1 id="follow"><a href="#follow" class="headerlink" title="follow"></a>follow</h1><h2 id="🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲"><a href="#🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲" class="headerlink" title="🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲"></a>🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲</h2><p>您是否厌倦了在社交媒体上无休止地滚动来寻找真正对您有用的新闻？欢迎使用<a class="link" href="https://github.com/RSSNext/Follow">RSSNext&#x2F;Follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，这款应用将成为您内容消费世界的新朋友！🚀 这款软件可在GitHub上获取，它旨在改变您关注喜爱的博客、新闻网站以及任何带有RSS订阅源的内容的方式。让我为您详细介绍一下为什么RSSNext&#x2F;Follow会是改变游戏规则的工具！📰✨</p><h2 id="什么是RSSNext-Follow？"><a href="#什么是RSSNext-Follow？" class="headerlink" title="什么是RSSNext&#x2F;Follow？"></a>什么是RSSNext&#x2F;Follow？</h2><p>RSSNext&#x2F;Follow是一款强大的开源RSS聚合工具。它允许您在一个地方收集、组织和阅读来自各种来源的内容。忘记那些无关的噪音，这款应用让您专注于真正感兴趣的内容。🎯</p><h2 id="为什么选择RSSNext-Follow？"><a href="#为什么选择RSSNext-Follow？" class="headerlink" title="为什么选择RSSNext&#x2F;Follow？"></a>为什么选择RSSNext&#x2F;Follow？</h2><ul><li>用户友好的界面：再也不必忍受笨重、过时的设计了。RSSNext&#x2F;Follow拥有简洁、直观的用户界面，方便导航。无论您是技术专家还是普通用户，都能轻松上手。🏠 </li><li>丰富的自定义选项：根据您的兴趣定制您的订阅源。关注特定的话题、关键字或来源，一切都由您掌控！🛠️ </li><li>实时更新：通过即时更新，掌握最新动态。当您的喜爱网站发布新内容时，它会立刻出现在您的订阅源中。⚡ </li><li>离线阅读：随时随地阅读。RSSNext&#x2F;Follow允许您下载文章进行离线阅读，适合通勤、飞行或任何网络不稳定的地方。✈️ </li><li>开源且免费：最好的东西往往是免费的，RSSNext&#x2F;Follow也不例外。加上作为开源软件，它不断得到充满热情的开发者社区的改进。💪</li></ul><h2 id="如何开始？"><a href="#如何开始？" class="headerlink" title="如何开始？"></a>如何开始？</h2><p>点击<a class="link" href="https://github.com/RSSNext/Follow/releases">GitHub仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>并下载你使用操作系统的安装包。安装过程简洁明了，还有丰富的文档帮助您快速上手。📚</p><h2 id="利用follow订阅本博客"><a href="#利用follow订阅本博客" class="headerlink" title="利用follow订阅本博客"></a>利用follow订阅本博客</h2><ol><li>打开follo软件，输入链接<code>https://alllink-official.github.io/atom.xml</code><br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow1.png"></li><li>关注，可以根据自己的需要给与备注<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow2.png"></li><li>关注后，文章即可出现在APP主页</li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;利用follo订阅该频道&quot;&gt;&lt;a href=&quot;#利用follo订阅该频道&quot; class=&quot;headerlink&quot; title=&quot;利用follo订阅该频道&quot;&gt;&lt;/a&gt;利用follo订阅该频道&lt;/h1&gt;&lt;p&gt;阅读完这篇文章后，你应该浏览一下&lt;a href=&quot;https</summary>
-      
-    
-    
-    
-    <category term="APP" scheme="https://alllink-official.github.io/categories/APP/"/>
-    
-    
-    <category term="Guidance" scheme="https://alllink-official.github.io/tags/Guidance/"/>
     
   </entry>
   
