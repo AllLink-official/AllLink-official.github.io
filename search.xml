@@ -47,6 +47,7 @@
 <li><p>Chat with RTX（Nvidia英伟达显卡专属） <a class="link" href="https://us.download.nvidia.com/RTX/ChatWithRTX_Installer_9_24.zip">下载链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 </li>
 </ol>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 ]]></content>
       <categories>
         <category>APP</category>
@@ -130,6 +131,7 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 </ul>
 我们在学习和工作中有很多浏览场景，但遇到自己喜欢的网站，右键保存则会出现一个文件夹，里面一堆文件且保持浏览完整性不行删除，此插件解决了该问题，只生成html文件，十分简洁。</li>
 </ol>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>
 
 </html>]]></content>
@@ -138,69 +140,6 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
       </categories>
       <tags>
         <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据科学入门</title>
-    <url>/2024/12/09/DSFSzh1/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>数据科学入门</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>《数据科学入门》是一本引人入胜的书籍，它将数据科学的核心概念与Python编程相结合，为读者提供了从零开始的全面指导📘。</p>
-
-<p>这本书的独特之处在于其循序渐进的方法。从基本原理出发，作者逐步引导读者深入理解数据科学的各个方面。书中详细介绍了数据收集、数据清洗、数据可视化、
-机器学习等关键环节，并通过实际案例和代码示例，帮助读者在实践中掌握这些技能💡。</p>
-
-<h2>主要特点：</h2>
-
-<ul>
-<li>实用性强：书中每一章都配有具体的代码示例，读者可以通过实际操作加深理解📈。</li>
-<li>深入浅出：即使没有编程背景的读者也能轻松上手，逐步掌握数据科学的基础知识和技巧🧩。</li>
-<li>全面覆盖：从数据预处理到机器学习算法，书中内容涵盖了数据科学的方方面面，让读者在学习过程中不断提升自己的技能🔍。</li>
-</ul>
-
-<h2>阅读体验：</h2>
-<p>作者以通俗易懂的语言和丰富的实例，让数据科学变得不再神秘。通过阅读《数据科学入门》，读者不仅能掌握数据科学的核心技能，还能培养数据思维，提升解决
-问题的能力。无论是初学者还是有一定基础的读者，这本书都能为其带来丰厚的收获📊。</p>
-
-<h2>适合人群：</h2>
-
-<ul>
-<li>数据科学初学者👶
-</li><li>希望通过实际操作学习Python编程的爱好者👨‍💻
-</li><li>想要深入了解机器学习和数据分析的专业人士🧑‍🔬
-</li></ul>
-
-<p>总之，《数据科学入门》是一本不可多得的好书，它通过详尽的讲解和实用的代码示例，帮助读者从零开始掌握数据科学，为未来的发展打下坚实的基础📚。不妨
-一试，相信你会被它的魅力所吸引！💫</p>
-
-<h2>内容提要</h2>
-
-<p>本书基于易于理解且具有数据科学相关的丰富的库的Python语言环境，从零开始讲解数据科学工作。具体内容包括：Python速成，可视化数据，线性代数，统计，
-概率，假设与推断，梯度下降法，如何获取数据，k近邻法，朴素贝叶斯算法，等等。作者借助大量具体例子以及数据挖掘、统计学机器学习等领域的重要概念，详细展
-示了什么是数据科学。</p>
-<p>本书适合有志成为数据科学工作者以及想了解数据科学的读者阅读。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ztsRwv8f-OURWCmUTYBBNQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/m/public/s28491488.jpg" alt="R数据科学入门"></p>
-</blockquote>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
       </tags>
   </entry>
   <entry>
@@ -257,6 +196,179 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/1GnfmQ777HAo1evwSypAzhw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img9.doubanio.com/view/subject/m/public/s33781414.jpg" alt="数据科学入门"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Guidance</title>
+    <url>/2024/10/24/Guidance/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Guidance</title>
+</head>
+<body>
+
+<h1>AllLink-official</h1>
+<h2>Hello everyone, welcome to our website!</h2>
+
+<p>We Focus on making everyone chat online without hindrance all over the world and study free.
+You can learn topics as following.</p>
+
+<ol>
+<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
+<li>Useful learning websites</li>
+<li>Study sources (PDF)</li>
+<li>AI/Machine Learning</li>
+<li>Computer Science (CS)</li>
+<li>Data Science (DS)</li>
+<li>Biology/Bioscience/Life Science</li>
+<li>Chemistry</li>
+<li>Physics</li>
+<li>Mathematics</li>
+</ol>
+
+<blockquote>
+<p>Note:  allowed to be used for study; not allowed to be commercial</p>
+</blockquote>
+<h2>Follow us</h2>
+
+<ul>
+<li><a href="https://www.github.com/AllLink-official">Github</a></li>
+<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
+<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
+<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
+<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
+<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
+<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
+<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
+<li><a href="https://www.threads.com/">Threads</a></li>
+<li><a href="https://www.x.com/">X/Twitter</a></li>
+<li><a href="https://www.facebook.com">Facebook</a></li>
+<li><a href="https://www.vk.com/">VK</a></li>
+<li><a href="https://www.instagram/">Instagram</a></li>
+<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
+<li><a href="https://www.tumblr.com/">Tumblr</a></li>
+<li><a href="https://www.tiktok.com/">Tiktok</a></li>
+<li><a href="https://www.kwai.com/">Kwai</a></li>
+<li><a href="https://www.likee.com/">Likee</a></li>
+<li><a href="https://www.snapchat.com/">Snapchat</a></li>
+<li><a href="https://www.whee.com/">Whee</a></li>
+<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+</ul>
+
+<h2>Contact us</h2>
+
+<ul>
+<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
+<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
+<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
+<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
+<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
+<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
+<li><a href="https://www.webex.com/">Webex</a></li>
+<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
+<li><a href="https://www.message.com/">Messager</a></li>
+<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
+<li><a href="https://www.groupme.com/">Group Me</a></li>
+<li><a href="https://www.discord.com/invite/">Discord</a></li>
+<li><a href="https://join.slack.com/t/">Slack</a></li>
+<li><a href="https://line.me/">LINE</a></li>
+</ul>
+
+<h2>QR</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>QQ</th>
+      <th>WeChat</th>
+      <th>WeCom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/qq.png" alt="QQ"></td> 
+      <td><img lazyload src="/images/loading.svg" data-src="../img/wechat.png" alt="WeChat"></td>
+      <td><img lazyload src="/images/loading.svg" data-src="../img/wecom.png" alt="WeCom"></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>Guidance</category>
+      </categories>
+      <tags>
+        <tag>Guidance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据科学入门</title>
+    <url>/2024/12/09/DSFSzh1/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>数据科学入门</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>《数据科学入门》是一本引人入胜的书籍，它将数据科学的核心概念与Python编程相结合，为读者提供了从零开始的全面指导📘。</p>
+
+<p>这本书的独特之处在于其循序渐进的方法。从基本原理出发，作者逐步引导读者深入理解数据科学的各个方面。书中详细介绍了数据收集、数据清洗、数据可视化、
+机器学习等关键环节，并通过实际案例和代码示例，帮助读者在实践中掌握这些技能💡。</p>
+
+<h2>主要特点：</h2>
+
+<ul>
+<li>实用性强：书中每一章都配有具体的代码示例，读者可以通过实际操作加深理解📈。</li>
+<li>深入浅出：即使没有编程背景的读者也能轻松上手，逐步掌握数据科学的基础知识和技巧🧩。</li>
+<li>全面覆盖：从数据预处理到机器学习算法，书中内容涵盖了数据科学的方方面面，让读者在学习过程中不断提升自己的技能🔍。</li>
+</ul>
+
+<h2>阅读体验：</h2>
+<p>作者以通俗易懂的语言和丰富的实例，让数据科学变得不再神秘。通过阅读《数据科学入门》，读者不仅能掌握数据科学的核心技能，还能培养数据思维，提升解决
+问题的能力。无论是初学者还是有一定基础的读者，这本书都能为其带来丰厚的收获📊。</p>
+
+<h2>适合人群：</h2>
+
+<ul>
+<li>数据科学初学者👶
+</li><li>希望通过实际操作学习Python编程的爱好者👨‍💻
+</li><li>想要深入了解机器学习和数据分析的专业人士🧑‍🔬
+</li></ul>
+
+<p>总之，《数据科学入门》是一本不可多得的好书，它通过详尽的讲解和实用的代码示例，帮助读者从零开始掌握数据科学，为未来的发展打下坚实的基础📚。不妨
+一试，相信你会被它的魅力所吸引！💫</p>
+
+<h2>内容提要</h2>
+
+<p>本书基于易于理解且具有数据科学相关的丰富的库的Python语言环境，从零开始讲解数据科学工作。具体内容包括：Python速成，可视化数据，线性代数，统计，
+概率，假设与推断，梯度下降法，如何获取数据，k近邻法，朴素贝叶斯算法，等等。作者借助大量具体例子以及数据挖掘、统计学机器学习等领域的重要概念，详细展
+示了什么是数据科学。</p>
+<p>本书适合有志成为数据科学工作者以及想了解数据科学的读者阅读。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ztsRwv8f-OURWCmUTYBBNQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/m/public/s28491488.jpg" alt="R数据科学入门"></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -479,6 +591,7 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 <p>就是搜索CSDN中包括生物信息学的文章。因为CSDN提供搜索服务，所以这只是一个举例，有些网站并不提供检索服务，才是适用场景。请注意，语法是工具，
 不是你记忆的累赘，如果没有多少使用场景可以不使用，而是依靠现有的Large Language Model(LLM)，即现有的生成式AI模型，可以提升我们的效率。</p>
 
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -487,114 +600,6 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
       </categories>
       <tags>
         <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Guidance</title>
-    <url>/2024/10/24/Guidance/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Guidance</title>
-</head>
-<body>
-
-<h1>AllLink-official</h1>
-<h2>Hello everyone, welcome to our website!</h2>
-
-<p>We Focus on making everyone chat online without hindrance all over the world and study free.
-You can learn topics as following.</p>
-
-<ol>
-<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
-<li>Useful learning websites</li>
-<li>Study sources (PDF)</li>
-<li>AI/Machine Learning</li>
-<li>Computer Science (CS)</li>
-<li>Data Science (DS)</li>
-<li>Biology/Bioscience/Life Science</li>
-<li>Chemistry</li>
-<li>Physics</li>
-<li>Mathematics</li>
-</ol>
-
-<blockquote>
-<p>Note:  allowed to be used for study; not allowed to be commercial</p>
-</blockquote>
-<h2>Follow us</h2>
-
-<ul>
-<li><a href="https://www.github.com/AllLink-official">Github</a></li>
-<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
-<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
-<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
-<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
-<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
-<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
-<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
-<li><a href="https://www.threads.com/">Threads</a></li>
-<li><a href="https://www.x.com/">X/Twitter</a></li>
-<li><a href="https://www.facebook.com">Facebook</a></li>
-<li><a href="https://www.vk.com/">VK</a></li>
-<li><a href="https://www.instagram/">Instagram</a></li>
-<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
-<li><a href="https://www.tumblr.com/">Tumblr</a></li>
-<li><a href="https://www.tiktok.com/">Tiktok</a></li>
-<li><a href="https://www.kwai.com/">Kwai</a></li>
-<li><a href="https://www.likee.com/">Likee</a></li>
-<li><a href="https://www.snapchat.com/">Snapchat</a></li>
-<li><a href="https://www.whee.com/">Whee</a></li>
-<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-</ul>
-
-<h2>Contact us</h2>
-
-<ul>
-<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
-<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
-<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
-<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
-<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
-<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
-<li><a href="https://www.webex.com/">Webex</a></li>
-<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
-<li><a href="https://www.message.com/">Messager</a></li>
-<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
-<li><a href="https://www.groupme.com/">Group Me</a></li>
-<li><a href="https://www.discord.com/invite/">Discord</a></li>
-<li><a href="https://join.slack.com/t/">Slack</a></li>
-<li><a href="https://line.me/">LINE</a></li>
-</ul>
-
-<h2>QR</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>QQ</th>
-      <th>WeChat</th>
-      <th>WeCom</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/qq.png" alt="QQ"></td> 
-      <td><img lazyload src="/images/loading.svg" data-src="../img/wechat.png" alt="WeChat"></td>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/wecom.png" alt="WeCom"></td>
-    </tr>
-  </tbody>
-</table>
-
-
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>Guidance</category>
-      </categories>
-      <tags>
-        <tag>Guidance</tag>
       </tags>
   </entry>
   <entry>
@@ -622,6 +627,7 @@ You can learn topics as following.</p>
 <li><a class="link" href="https://www.khanacademy.org/">Khan Academy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li><a class="link" href="https://wwww.brilliant.org/">Brilliant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>
 
 </html>]]></content>
@@ -687,6 +693,7 @@ You can learn topics as following.</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://gw.alicdn.com/imgextra/i2/2208377286554/O1CN01Pkw50Y1yHmgIqGLS9_!!2-item_pic.png_.webp" alt="高等数学"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -695,6 +702,146 @@ You can learn topics as following.</p>
       </categories>
       <tags>
         <tag>mathematics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cody&#39;s Data Cleaning Techniques Using SAS, 2e</title>
+    <url>/2024/12/10/PDFCDCTUSaS2/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>Cody's Data Cleaning Techniques Using SAS, 2e</title>
+
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>《Python快速入门 第三版》是一本理想的书籍，专为那些希望快速掌握Python编程语言的读者而写📘。这本书由Naomi Ceder编写，通过全面的内容和清晰的
+讲解，帮助读者从零开始，迅速掌握Python的核心概念和实用技巧。</p>
+
+<p>📘 <strong>Cody's Data Cleaning Techniques Using SAS, 2nd Edition</strong> is an indispensable resource for data 
+scientists, analysts, and SAS programmers. Authored by Ronald Cody, this book offers comprehensive techniques and 
+insights into the crucial process of data cleaning using SAS software. Whether you're new to data cleaning or an 
+experienced user, this book provides valuable knowledge to enhance your skills and improve your data analysis outcomes.</p>
+
+<h2>Key Features:</h2>
+<ol>
+<li>Comprehensive Coverage: This edition dives deep into various data cleaning methodologies, covering both basic and 
+advanced techniques. From simple data validation to complex data transformation, every aspect is meticulously explained💡.</li>
+<li>Practical Examples: Ronald Cody includes numerous real-world examples and SAS code snippets throughout the book. 
+These examples help readers understand the practical application of the techniques and make it easier to implement them 
+in their own work📈.</li>
+<li>Step-by-Step Instructions: The book offers detailed, step-by-step instructions for each data cleaning technique, 
+making it accessible even to those who are new to SAS or data cleaning🧩.</li>
+<li>Updated Content: The second edition includes updated content that reflects the latest advancements in SAS software, 
+ensuring that readers have access to the most current and effective data cleaning techniques🔍.</li>
+</ol>
+
+<h2>Reading Experience:</h2>
+
+<p>Ronald Cody's writing style is clear and approachable, making complex concepts easy to understand. The book is 
+structured in a logical sequence, starting with the basics and gradually moving to more advanced topics. Each chapter 
+concludes with exercises that reinforce the material covered, allowing readers to practice and consolidate their 
+learning📊.</p>
+
+<h2>Suitable Audience:</h2>
+<ul>
+<li>Data Analysts and Scientists: Professionals who need to ensure the accuracy and quality of their data will find this 
+book incredibly useful🧑‍🔬.</li>
+<li>SAS Programmers: Those who work with SAS software regularly will benefit from the practical tips and techniques 
+provided👨‍💻.</li>
+<li>Students and Educators: This book is also a great resource for students learning data science and educators teaching 
+data cleaning and SAS programming📚.</li>
+
+<p>In conclusion, Cody's Data Cleaning Techniques Using SAS, 2nd Edition is a must-have for anyone involved in data 
+analysis and data management. Its comprehensive coverage, practical examples, and clear instructions make it a valuable 
+tool for improving data quality and ensuring accurate results💫. Pick up your copy today and take your data cleaning 
+skills to the next level! 🌟</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1EP7fYpeNuOuDq4eerTr34Q">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71rsWMoUKjL.jpg" alt="Data Cleaning Techniques Using SAS"></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</ul></body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Computer Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lehninger’s principles of biochemistry,7e</title>
+    <url>/2024/12/02/PDFBCL/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Lehninger’s principles of biochemistry,7e</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>📚 Introducing: Lehninger’s Principles of Biochemistry, 7th Edition! 🧬</h2>
+
+<p>Hey there, college students! 📣 If you're diving into the world of biochemistry, there's one book that you absolutely 
+cannot miss: Lehninger’s Principles of Biochemistry, 7th Edition. This book isn't just a textbook; it's a treasure trove 
+of knowledge that will guide you through the fascinating world of biochemical processes. 🌟</p>
+
+<h2>Why Lehninger's Principles? 🤔</h2>
+
+<ol>
+<li>Comprehensive Content: This edition is packed with detailed, up-to-date information that covers all the core topics 
+in biochemistry. From the basic concepts to the most advanced topics, it’s all in there. It’s like having a personal 
+biochemistry tutor right on your bookshelf! 🧪📖</li>
+
+<li>Clear Explanations: The authors, David L. Nelson and Michael M. Cox, are experts in making complex topics understandable. They use clear language, helpful diagrams, and engaging examples to ensure you grasp every concept. 🧠✨</li>
+
+<li>Engaging Learning Tools: With this book, learning is never boring. It includes various tools like end-of-chapter questions, problem-solving tips, and real-life applications that make studying interactive and fun. 📝🔬</li>
+</ol>
+
+<h2>What’s New in the 7th Edition? 🚀</h2>
+
+<p>Updated Research: Stay ahead with the latest research and discoveries in the field. The 7th edition includes updated 
+content reflecting recent advances in biochemistry. 🔍🔬</p>
+
+<p>New Illustrations and Graphics: Visual learners, rejoice! The new edition comes with enhanced illustrations and 
+graphics that make understanding the material even easier. 🎨📊</p>
+
+<p>Enhanced Learning Features: More interactive and engaging features have been added to help you connect with the 
+material on a deeper level. 📚💡</p>
+
+<h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
+
+<p>Whether you’re a biochemistry major or just taking an introductory course, this book is a perfect companion. It’s 
+designed to cater to both beginners and advanced learners, ensuring everyone can benefit from its wealth of knowledge. 
+🌐📘</p>
+
+<h2>Final Thoughts 💭</h2>
+
+<p>Lehninger’s Principles of Biochemistry(7th Edition), is more than just a textbook; it’s your guide to mastering 
+biochemistry. With its clear explanations, comprehensive coverage, and engaging tools, it's the ideal resource for any 
+college student looking to excel in this subject. So, what are you waiting for? Dive into the wonders of biochemistry 
+today! 🧬🚀📚</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81DszDGjnXL._AC_UF1000,1000_QL80_.jpg" alt="principles of biochemistry"></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -756,6 +903,7 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81sYy1D9n7L._SL1360_.jpg" alt="Data Mining"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>]]></content>
@@ -767,128 +915,39 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
       </tags>
   </entry>
   <entry>
-    <title>Lehninger’s principles of biochemistry,7e</title>
-    <url>/2024/12/02/PDFBCL/</url>
+    <title>Lewin&#39;s GENES XII 12th Edition</title>
+    <url>/2024/12/04/PDFLGXII/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html>
 <head>
 
-<title>Lehninger’s principles of biochemistry,7e</title>
+<title>Lewin's GENES XII 12th Edition</title>
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>📚 Introducing: Lehninger’s Principles of Biochemistry, 7th Edition! 🧬</h2>
+<h2>📚 Introducing: Lewin's GENES XII, 12th Edition! 🧬</h2>
 
-<p>Hey there, college students! 📣 If you're diving into the world of biochemistry, there's one book that you absolutely 
-cannot miss: Lehninger’s Principles of Biochemistry, 7th Edition. This book isn't just a textbook; it's a treasure trove 
-of knowledge that will guide you through the fascinating world of biochemical processes. 🌟</p>
-
-<h2>Why Lehninger's Principles? 🤔</h2>
-
+<p>Hey, bioscience and medical students! 📣 If you’re ready to delve deep into the fascinating world of genetics, there’s one book that stands out as a must-have: Lewin’s GENES XII, 12th Edition. This textbook is renowned for its comprehensive coverage and authoritative insights into the field of genetics, making it an indispensable resource for your studies. 🌟</p>
+<p>Why Lewin’s GENES XII? 🤔</p>
 <ol>
-<li>Comprehensive Content: This edition is packed with detailed, up-to-date information that covers all the core topics 
-in biochemistry. From the basic concepts to the most advanced topics, it’s all in there. It’s like having a personal 
-biochemistry tutor right on your bookshelf! 🧪📖</li>
-
-<li>Clear Explanations: The authors, David L. Nelson and Michael M. Cox, are experts in making complex topics understandable. They use clear language, helpful diagrams, and engaging examples to ensure you grasp every concept. 🧠✨</li>
-
-<li>Engaging Learning Tools: With this book, learning is never boring. It includes various tools like end-of-chapter questions, problem-solving tips, and real-life applications that make studying interactive and fun. 📝🔬</li>
+<li><p>Comprehensive Content: This edition provides an exhaustive exploration of genetic principles, from fundamental concepts to advanced topics. Whether you’re just starting out or advancing in your studies, Lewin’s GENES XII has got you covered. 🧬📖</p>
+</li>
+<li><p>Expert Authorship: Written by a team of leading geneticists, this book ensures that you’re learning from the best. The authors bring their extensive knowledge and research experience to every chapter, offering you reliable and up-to-date information. 🧠✨</p>
+</li>
+<li><p>Engaging Learning Tools: The book includes a variety of tools to enhance your learning experience. From detailed diagrams and illustrations to end-of-chapter questions and case studies, you’ll find plenty of resources to help you grasp complex genetic concepts. 📝🔬</p>
+</li>
 </ol>
-
-<h2>What’s New in the 7th Edition? 🚀</h2>
-
-<p>Updated Research: Stay ahead with the latest research and discoveries in the field. The 7th edition includes updated 
-content reflecting recent advances in biochemistry. 🔍🔬</p>
-
-<p>New Illustrations and Graphics: Visual learners, rejoice! The new edition comes with enhanced illustrations and 
-graphics that make understanding the material even easier. 🎨📊</p>
-
-<p>Enhanced Learning Features: More interactive and engaging features have been added to help you connect with the 
-material on a deeper level. 📚💡</p>
-
-<h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
-
-<p>Whether you’re a biochemistry major or just taking an introductory course, this book is a perfect companion. It’s 
-designed to cater to both beginners and advanced learners, ensuring everyone can benefit from its wealth of knowledge. 
-🌐📘</p>
-
-<h2>Final Thoughts 💭</h2>
-
-<p>Lehninger’s Principles of Biochemistry(7th Edition), is more than just a textbook; it’s your guide to mastering 
-biochemistry. With its clear explanations, comprehensive coverage, and engaging tools, it's the ideal resource for any 
-college student looking to excel in this subject. So, what are you waiting for? Dive into the wonders of biochemistry 
-today! 🧬🚀📚</p>
-
+<p>What’s New in the 12th Edition? 🚀<br>Updated Research: Stay on top of the latest developments in genetics. The 12th edition incorporates the most recent research findings, ensuring you’re learning the most current information available. 🔍🔬</p>
+<p>Enhanced Visuals: With improved illustrations and graphics, visual learners will find it easier to understand intricate genetic processes and mechanisms. 🎨📊</p>
+<p>Interactive Features: This edition is designed to be more interactive, with new features that encourage active learning and help you connect with the material on a deeper level. 📚💡</p>
+<p>Who Should Read This Book? 👨‍🎓👩‍🎓<br>Lewin’s GENES XII is perfect for bioscience students, medical students, and anyone with a keen interest in genetics. Whether you’re preparing for exams, conducting research, or just looking to expand your knowledge, this book is an essential companion. 🌐📘</p>
+<p>Final Thoughts 💭<br>Lewin’s GENES XII, 12th Edition, is more than just a textbook—it’s your gateway to mastering the complexities of genetics. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable resource for any bioscientific or medical student. So, why wait? Embark on your genetic journey and unlock the secrets of life with Lewin’s GENES XII! 🧬🚀📚</p>
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81DszDGjnXL._AC_UF1000,1000_QL80_.jpg" alt="principles of biochemistry"></p>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg" alt="Lewin's GENES XII 12th Edition"></p>
 </blockquote>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Lehninger Principles of biochemistry Eighth EDITION</title>
-    <url>/2024/12/05/PDFLPB8/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Lehninger Principles of biochemistry Eighth EDITION</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>📚 Spotlight on: Lehninger Principles of Biochemistry, 8th Edition! 🧬</h2>
-
-<p>Hello, bioscientific and medical students! 📣 If you're on a quest to master biochemistry, then there's one book that 
-should be on your radar: Lehninger Principles of Biochemistry, 8th Edition. This textbook is a cornerstone in the field, 
-providing a wealth of knowledge that is essential for your academic journey. 🌟</p>
-
-<h2>Why Choose Lehninger Principles of Biochemistry? 🤔</h2>
-<ol>
-<li>Comprehensive Coverage: This edition is packed with an extensive range of topics, from the basic principles to 
-advanced biochemical processes. It’s designed to cater to both newcomers and seasoned students, making it an invaluable 
-resource. 🧪📖</li>
-<li>Expert Authors: Written by renowned experts David L. Nelson and Michael M. Cox, this book combines authoritative 
-insights and clear explanations, ensuring you get the most accurate and up-to-date information in biochemistry. 🧠✨</li>
-<li>Engaging Learning Experience: With its detailed diagrams, illustrative examples, and thought-provoking questions, 
-this book makes learning biochemistry engaging and enjoyable. It’s not just about memorizing facts; it’s about 
-understanding concepts and applying them in real-world scenarios. 📝🔬</li>
-</ol>
-
-<h2>What’s New in the 8th Edition? 🚀</h2>
-<ul>
-<li>Latest Research: The 8th edition incorporates the most recent research findings and scientific advancements, keeping 
-you abreast of the latest developments in biochemistry. 🔍🔬</li>
-<li>Enhanced Visuals: Featuring updated illustrations and graphics, this edition is perfect for visual learners who 
-benefit from seeing complex processes depicted clearly and accurately. 🎨📊</li>
-<li>Interactive Features: This edition includes new interactive learning tools, making it easier for you to engage with 
-the material and deepen your understanding of biochemistry. 📚💡</li>
-</ul>
-
-Who Should Read This Book? 👨‍🎓👩‍🎓
-<p>Lehninger Principles of Biochemistry is an ideal resource for bioscientific students, medical students, and anyone 
-with a strong interest in understanding the biochemical processes that underlie life. Whether you're preparing for exams, 
-conducting research, or simply expanding your knowledge, this book is a must-have. 🌐📘</p>
-
-<h2>Final Thoughts 💭</h2>
-<p>Lehninger Principles of Biochemistry, 8th Edition, is more than just a textbook—it’s your guide to mastering 
-iochemistry. With its comprehensive content, expert guidance, and engaging learning tools, it’s an invaluable companion 
-for any bioscientific or medical student. So, dive into the world of biochemistry and unlock the secrets of life with 
-this essential resource! 🧬🚀📚</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1M_X3IfhmNhTF5mkdYGhyzQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/91wDPf8H8aL.jpg" alt="Lehninger Principles of biochemistry Eighth EDITION"></p>
-</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>
@@ -959,6 +1018,7 @@ waiting for? Embark on your journey into the fascinating world of cell biology w
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/19DF_dhfujUfFR74C7XyD1w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81hjf-h4-zL.jpg" alt="Karp’s Cell and Molecular Biology Concepts and Experiments 9e"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>
@@ -971,38 +1031,61 @@ waiting for? Embark on your journey into the fascinating world of cell biology w
       </tags>
   </entry>
   <entry>
-    <title>Lewin&#39;s GENES XII 12th Edition</title>
-    <url>/2024/12/04/PDFLGXII/</url>
+    <title>Lehninger Principles of biochemistry Eighth EDITION</title>
+    <url>/2024/12/05/PDFLPB8/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html>
 <head>
 
-<title>Lewin's GENES XII 12th Edition</title>
+<title>Lehninger Principles of biochemistry Eighth EDITION</title>
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>📚 Introducing: Lewin's GENES XII, 12th Edition! 🧬</h2>
+<h2>📚 Spotlight on: Lehninger Principles of Biochemistry, 8th Edition! 🧬</h2>
 
-<p>Hey, bioscience and medical students! 📣 If you’re ready to delve deep into the fascinating world of genetics, there’s one book that stands out as a must-have: Lewin’s GENES XII, 12th Edition. This textbook is renowned for its comprehensive coverage and authoritative insights into the field of genetics, making it an indispensable resource for your studies. 🌟</p>
-<p>Why Lewin’s GENES XII? 🤔</p>
+<p>Hello, bioscientific and medical students! 📣 If you're on a quest to master biochemistry, then there's one book that 
+should be on your radar: Lehninger Principles of Biochemistry, 8th Edition. This textbook is a cornerstone in the field, 
+providing a wealth of knowledge that is essential for your academic journey. 🌟</p>
+
+<h2>Why Choose Lehninger Principles of Biochemistry? 🤔</h2>
 <ol>
-<li><p>Comprehensive Content: This edition provides an exhaustive exploration of genetic principles, from fundamental concepts to advanced topics. Whether you’re just starting out or advancing in your studies, Lewin’s GENES XII has got you covered. 🧬📖</p>
-</li>
-<li><p>Expert Authorship: Written by a team of leading geneticists, this book ensures that you’re learning from the best. The authors bring their extensive knowledge and research experience to every chapter, offering you reliable and up-to-date information. 🧠✨</p>
-</li>
-<li><p>Engaging Learning Tools: The book includes a variety of tools to enhance your learning experience. From detailed diagrams and illustrations to end-of-chapter questions and case studies, you’ll find plenty of resources to help you grasp complex genetic concepts. 📝🔬</p>
-</li>
+<li>Comprehensive Coverage: This edition is packed with an extensive range of topics, from the basic principles to 
+advanced biochemical processes. It’s designed to cater to both newcomers and seasoned students, making it an invaluable 
+resource. 🧪📖</li>
+<li>Expert Authors: Written by renowned experts David L. Nelson and Michael M. Cox, this book combines authoritative 
+insights and clear explanations, ensuring you get the most accurate and up-to-date information in biochemistry. 🧠✨</li>
+<li>Engaging Learning Experience: With its detailed diagrams, illustrative examples, and thought-provoking questions, 
+this book makes learning biochemistry engaging and enjoyable. It’s not just about memorizing facts; it’s about 
+understanding concepts and applying them in real-world scenarios. 📝🔬</li>
 </ol>
-<p>What’s New in the 12th Edition? 🚀<br>Updated Research: Stay on top of the latest developments in genetics. The 12th edition incorporates the most recent research findings, ensuring you’re learning the most current information available. 🔍🔬</p>
-<p>Enhanced Visuals: With improved illustrations and graphics, visual learners will find it easier to understand intricate genetic processes and mechanisms. 🎨📊</p>
-<p>Interactive Features: This edition is designed to be more interactive, with new features that encourage active learning and help you connect with the material on a deeper level. 📚💡</p>
-<p>Who Should Read This Book? 👨‍🎓👩‍🎓<br>Lewin’s GENES XII is perfect for bioscience students, medical students, and anyone with a keen interest in genetics. Whether you’re preparing for exams, conducting research, or just looking to expand your knowledge, this book is an essential companion. 🌐📘</p>
-<p>Final Thoughts 💭<br>Lewin’s GENES XII, 12th Edition, is more than just a textbook—it’s your gateway to mastering the complexities of genetics. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable resource for any bioscientific or medical student. So, why wait? Embark on your genetic journey and unlock the secrets of life with Lewin’s GENES XII! 🧬🚀📚</p>
+
+<h2>What’s New in the 8th Edition? 🚀</h2>
+<ul>
+<li>Latest Research: The 8th edition incorporates the most recent research findings and scientific advancements, keeping 
+you abreast of the latest developments in biochemistry. 🔍🔬</li>
+<li>Enhanced Visuals: Featuring updated illustrations and graphics, this edition is perfect for visual learners who 
+benefit from seeing complex processes depicted clearly and accurately. 🎨📊</li>
+<li>Interactive Features: This edition includes new interactive learning tools, making it easier for you to engage with 
+the material and deepen your understanding of biochemistry. 📚💡</li>
+</ul>
+
+Who Should Read This Book? 👨‍🎓👩‍🎓
+<p>Lehninger Principles of Biochemistry is an ideal resource for bioscientific students, medical students, and anyone 
+with a strong interest in understanding the biochemical processes that underlie life. Whether you're preparing for exams, 
+conducting research, or simply expanding your knowledge, this book is a must-have. 🌐📘</p>
+
+<h2>Final Thoughts 💭</h2>
+<p>Lehninger Principles of Biochemistry, 8th Edition, is more than just a textbook—it’s your guide to mastering 
+iochemistry. With its comprehensive content, expert guidance, and engaging learning tools, it’s an invaluable companion 
+for any bioscientific or medical student. So, dive into the world of biochemistry and unlock the secrets of life with 
+this essential resource! 🧬🚀📚</p>
+
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg" alt="Lewin's GENES XII 12th Edition"></p>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1M_X3IfhmNhTF5mkdYGhyzQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/91wDPf8H8aL.jpg" alt="Lehninger Principles of biochemistry Eighth EDITION"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>
@@ -1070,6 +1153,7 @@ college student. So, why wait? Dive into the captivating world of cell biology a
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/1a3UM-6pWr2mL7xWqdB4GTA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61U3wDYXxNL._SL1200_.jpg" alt="Molecular Biology of the Cell 7e"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>]]></content>
@@ -1148,6 +1232,7 @@ potential of your data today! 🌟📘</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61d2dEqXcvL._AC_UF1000,1000_QL80_.jpg" alt="Machine Learning in action"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>]]></content>
@@ -1212,6 +1297,7 @@ potential of your data today! 🌟📘</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/1lkO7A4hRewuyQ8ZmkuvDVw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="机器学习实战"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -1287,68 +1373,7 @@ data today! 🌐📘</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437797728l/25545994.jpg" alt="Python Machine Learning"></p>
 </blockquote>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R in action, 1st</title>
-    <url>/2024/12/07/PDFRIAen1/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="en">
-<head>
-
-<title>R in action, 1st</title>
-
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>Ready to dive into the world of R programming? 📘 “R in Action, 1st Edition” is your ultimate guide to mastering the 
-powerful, open-source language R, used for statistical computing and graphics. It's like having a mentor who knows all 
-the tricks and tips of R, holding your hand through the entire process. Whether you're a beginner or looking to refine 
-your skills, this book has something for everyone. 🌟</p>
-
-<p>The book, authored by Robert I. Kabacoff, is designed to be both an introduction and a comprehensive reference guide. It 
-starts with the basics of R, giving you the foundational knowledge needed to write your first lines of code. The text 
-then expands into more complex topics, all presented in a clear and engaging manner. 📈</p>
-
-<p>One of the standout features of “R in Action” is its practical approach. Each chapter includes real-world examples and 
-exercises that help you apply what you’ve learned immediately. This hands-on method ensures that you not only understand 
-the theory behind R but can also implement it in practical scenarios. Let's look at a simple example to give you a taste 
-of what to expect:</p>
-
-<p><code class="text-sm font-ligatures-none"># Example: Creating a basic plot in R</code></p>
-<p><code class="text-sm font-ligatures-none"># Load the necessary library<br>library(ggplot2)<br></code></p>
-<p><code class="text-sm font-ligatures-none"># Create a sample data frame<br>data &lt;- data.frame(<br>x = c(1, 2, 3, 4, 5),<br>y = c(3, 7, 5, 8, 9)<br>)<br></code></p>
-<p><code class="text-sm font-ligatures-none"># Create a plot using ggplot2<br>ggplot(data, aes(x = x, y = y)) +<br>geom_point() +<br>ggtitle("Simple Scatter Plot") +<br>xlab("X-Axis") +<br>ylab("Y-Axis")<br></code></p>
-<p>In this example, you see how to use the ggplot2 library to create a simple scatter plot. 📊 The book explains each 
-step in detail, so you understand not just how to write the code, but why it works the way it does.</p>
-
-<p>“R in Action” also covers data manipulation, statistical models, and graphing. The book walks you through using 
-packages such as dplyr and ggplot2, which are essential tools in the R ecosystem. 📊</p>
-
-<p>Whether you're into data science, statistics, or just love playing with data, “R in Action” is a must-have resource. 
-🛠️ It equips you with the skills to analyze data effectively and create stunning visualizations. Plus, with its clear 
-explanations and practical examples, learning R becomes an enjoyable journey.</p>
-
-<p>Grab your copy today and unlock the power of R! 🚀</p>
-
-<p>For more information, check out the publisher's page and see how this book can transform your data analysis skills. 📚</p>
-
-<p>Happy coding! 💻✨</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1iOsR-RMKpfldDUPhKqWwLw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://images.manning.com/360/480/resize/book/8/4c7a692-40d8-4ac3-ae39-6defa8ffede5/kabacoff.png" alt="R in action·"></p>
-</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>]]></content>
@@ -1447,10 +1472,74 @@ further assistance, feel free to ask. 📘📊</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/14hkZ99Fv3Kccm26G9PmHkw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>
 ]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R in action, 1st</title>
+    <url>/2024/12/07/PDFRIAen1/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="en">
+<head>
+
+<title>R in action, 1st</title>
+
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>Ready to dive into the world of R programming? 📘 “R in Action, 1st Edition” is your ultimate guide to mastering the 
+powerful, open-source language R, used for statistical computing and graphics. It's like having a mentor who knows all 
+the tricks and tips of R, holding your hand through the entire process. Whether you're a beginner or looking to refine 
+your skills, this book has something for everyone. 🌟</p>
+
+<p>The book, authored by Robert I. Kabacoff, is designed to be both an introduction and a comprehensive reference guide. It 
+starts with the basics of R, giving you the foundational knowledge needed to write your first lines of code. The text 
+then expands into more complex topics, all presented in a clear and engaging manner. 📈</p>
+
+<p>One of the standout features of “R in Action” is its practical approach. Each chapter includes real-world examples and 
+exercises that help you apply what you’ve learned immediately. This hands-on method ensures that you not only understand 
+the theory behind R but can also implement it in practical scenarios. Let's look at a simple example to give you a taste 
+of what to expect:</p>
+
+<p><code class="text-sm font-ligatures-none"># Example: Creating a basic plot in R</code></p>
+<p><code class="text-sm font-ligatures-none"># Load the necessary library<br>library(ggplot2)<br></code></p>
+<p><code class="text-sm font-ligatures-none"># Create a sample data frame<br>data &lt;- data.frame(<br>x = c(1, 2, 3, 4, 5),<br>y = c(3, 7, 5, 8, 9)<br>)<br></code></p>
+<p><code class="text-sm font-ligatures-none"># Create a plot using ggplot2<br>ggplot(data, aes(x = x, y = y)) +<br>geom_point() +<br>ggtitle("Simple Scatter Plot") +<br>xlab("X-Axis") +<br>ylab("Y-Axis")<br></code></p>
+<p>In this example, you see how to use the ggplot2 library to create a simple scatter plot. 📊 The book explains each 
+step in detail, so you understand not just how to write the code, but why it works the way it does.</p>
+
+<p>“R in Action” also covers data manipulation, statistical models, and graphing. The book walks you through using 
+packages such as dplyr and ggplot2, which are essential tools in the R ecosystem. 📊</p>
+
+<p>Whether you're into data science, statistics, or just love playing with data, “R in Action” is a must-have resource. 
+🛠️ It equips you with the skills to analyze data effectively and create stunning visualizations. Plus, with its clear 
+explanations and practical examples, learning R becomes an enjoyable journey.</p>
+
+<p>Grab your copy today and unlock the power of R! 🚀</p>
+
+<p>For more information, check out the publisher's page and see how this book can transform your data analysis skills. 📚</p>
+
+<p>Happy coding! 💻✨</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1iOsR-RMKpfldDUPhKqWwLw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://images.manning.com/360/480/resize/book/8/4c7a692-40d8-4ac3-ae39-6defa8ffede5/kabacoff.png" alt="R in action·"></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
       <categories>
         <category>PDF</category>
       </categories>
@@ -1519,6 +1608,7 @@ retailers. 🛒📦</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/1xipk3YXUhYpwRJDXYupKag">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61TtWuZWFbL._AC_UF1000,1000_QL80_.jpg" alt="R in action·"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>]]></content>
@@ -1572,6 +1662,7 @@ retailers. 🛒📦</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/15rTzDNapxMZmMdifSDyELg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s24576400.jpg" alt="R语言实战"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -1651,6 +1742,67 @@ retailers. 🛒📦</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/1ledLhh-J6eMnxendaxD8sQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R语言实战"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R语言实战 第三版</title>
+    <url>/2024/12/07/PDFRIAzh3/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>R语言实战 第三版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<h2>📚✨ 探索《R语言实战》第三版的无限魅力！ ✨📚</h2>
+
+<p>你准备好进入数据科学和统计计算的世界了吗？🌟 最新出版的备受赞誉的书籍《R语言实战》第三版，作者Robert I. Kabacoff，将引领你深入了解R语言的
+强大功能和多样性！🚀</p>
+
+<p>随着数据的指数级增长以及对强大工具的需求，R已经成为数据分析、可视化等领域的主要语言之一。🖥️📊 无论你是经验丰富的数据科学家还是刚刚起步，这本书
+将是你R语言之旅的全程伴侣。</p>
+
+<h2>书中内容</h2>
+
+<ul>
+<li>全面覆盖: 从R编程的基础知识到高级主题，这本书涵盖了一切！💡 你将学习如何操作数据，创建引人入胜的可视化图表，执行复杂的统计分析。</li>
+<li>实际案例: 本书充满了实际案例和现实情境，帮助你理解如何在各种场景下应用R。🛠️ 获得数据整理、可视化和建模技术的实践经验。</li>
+<li>动手练习: 每章结尾都有动手练习，巩固你的学习。💪 练习出真知，这些练习将加深你对关键概念的理解。</li>
+<li>最新内容: 紧跟R编程的最新发展。📈 第三版包含了反映R社区最新进展的新软件包和函数。</li>
+<li>专家见解: 受益于作者在R编程方面的丰富经验和专业知识。🧠 获得其他资源中找不到的宝贵见解和建议。</li>
+</ul>
+
+<h2>为什么选择《R语言实战》第三版？</h2>
+
+<ol>
+<li>用户友好: 书写风格清晰生动，使学习R变得简单有趣。🎉 无术语或过于技术化的语言，只有实用、易于理解的指导。</li>
+<li>多用途: 无论你从事数据科学、机器学习还是统计分析，这本书涵盖了R的广泛应用。🌐</li>
+<li>社区支持: 加入一个充满活力的R爱好者和专业人士的社区。🌍 分享你的经验，寻求建议，并在项目上合作。</li>
+</ol>
+
+<p>立即获取你的副本！</p>
+<p>不要错过这个掌握R编程的必备资源。📖💡 获取你的《R语言实战》第三版，踏上解锁数据全部潜力的旅程！现在各大书店和在线零售商均有售。🛒📦</p>
+
+<p>祝你有一个快乐的编程时光！🤓💻</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/18JC9RXpubyaUGT74LKgH-w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s34543790.jpg" alt="R语言实战"></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -1749,65 +1901,7 @@ further assistance, feel free to ask. 📘📊</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
 </blockquote>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R语言实战 第三版</title>
-    <url>/2024/12/07/PDFRIAzh3/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>R语言实战 第三版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<h2>📚✨ 探索《R语言实战》第三版的无限魅力！ ✨📚</h2>
-
-<p>你准备好进入数据科学和统计计算的世界了吗？🌟 最新出版的备受赞誉的书籍《R语言实战》第三版，作者Robert I. Kabacoff，将引领你深入了解R语言的
-强大功能和多样性！🚀</p>
-
-<p>随着数据的指数级增长以及对强大工具的需求，R已经成为数据分析、可视化等领域的主要语言之一。🖥️📊 无论你是经验丰富的数据科学家还是刚刚起步，这本书
-将是你R语言之旅的全程伴侣。</p>
-
-<h2>书中内容</h2>
-
-<ul>
-<li>全面覆盖: 从R编程的基础知识到高级主题，这本书涵盖了一切！💡 你将学习如何操作数据，创建引人入胜的可视化图表，执行复杂的统计分析。</li>
-<li>实际案例: 本书充满了实际案例和现实情境，帮助你理解如何在各种场景下应用R。🛠️ 获得数据整理、可视化和建模技术的实践经验。</li>
-<li>动手练习: 每章结尾都有动手练习，巩固你的学习。💪 练习出真知，这些练习将加深你对关键概念的理解。</li>
-<li>最新内容: 紧跟R编程的最新发展。📈 第三版包含了反映R社区最新进展的新软件包和函数。</li>
-<li>专家见解: 受益于作者在R编程方面的丰富经验和专业知识。🧠 获得其他资源中找不到的宝贵见解和建议。</li>
-</ul>
-
-<h2>为什么选择《R语言实战》第三版？</h2>
-
-<ol>
-<li>用户友好: 书写风格清晰生动，使学习R变得简单有趣。🎉 无术语或过于技术化的语言，只有实用、易于理解的指导。</li>
-<li>多用途: 无论你从事数据科学、机器学习还是统计分析，这本书涵盖了R的广泛应用。🌐</li>
-<li>社区支持: 加入一个充满活力的R爱好者和专业人士的社区。🌍 分享你的经验，寻求建议，并在项目上合作。</li>
-</ol>
-
-<p>立即获取你的副本！</p>
-<p>不要错过这个掌握R编程的必备资源。📖💡 获取你的《R语言实战》第三版，踏上解锁数据全部潜力的旅程！现在各大书店和在线零售商均有售。🛒📦</p>
-
-<p>祝你有一个快乐的编程时光！🤓💻</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/18JC9RXpubyaUGT74LKgH-w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s34543790.jpg" alt="R语言实战"></p>
-</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>]]></content>
@@ -1863,6 +1957,7 @@ further assistance, feel free to ask. 📘📊</p>
 <blockquote>
 <p>You can get PDF via <a class="link" href="https://terabox.com/s/11GAOg7r8_VyZ2pBWtEnYkw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/6198T6i4oRL._AC_UF1000,1000_QL80_.jpg" alt="托马斯微积分"></p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -1887,6 +1982,7 @@ further assistance, feel free to ask. 📘📊</p>
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
 <p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link" href="https://www.apkmirror.com/">APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkcombo.com/">APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.en.uptodown.com/">Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>
 
 </html>]]></content>
@@ -2032,6 +2128,7 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
 <h2>For Chinese</h2>
 
 <p>对于使用Android手机的用户，国产OS内置大量广告以及反诈骗APP，十分影响体验，因此可以刷入基于AOSP制作的类原生OS，没有广告且不臃肿，比较有名的<br>有 <a class="link" href="https://get.pixelexperience.org/">Pixel Experience <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , <a class="link" href="https://lineageos.org/">Lineage OS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , <a class="link" href="https://ares-os.org/">Ares OS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ,<br><a class="link" href="https://crdroid.net/">CrDroid <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 等等。鉴于国家政策，多数厂商关闭了BL解锁通道，目前仅有OnePlus用户可以轻松解锁BootLoader进行刷机操作，其<br>他品牌均有各种问题，需要说明的是三星解锁Bl很简单，但是不能root，有熔断机制。因此如果你有搞机需求，国产手机仅有oneplus还可以，国外品牌就很轻松了，<br>Google Pixel，Samsung，Sony，Moto均没有限制，其中Google的ROM最多。</p>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me&#x2F;赞助我</a></p>
 </body>
 
 </html>]]></content>
@@ -2040,6 +2137,72 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
       </categories>
       <tags>
         <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python快速入门 第三版</title>
+    <url>/2024/12/09/PDFTQPyBk3/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>Python快速入门 第三版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>《Python快速入门 第三版》是一本理想的书籍，专为那些希望快速掌握Python编程语言的读者而写📘。这本书由Naomi Ceder编写，通过全面的内容和清晰的
+讲解，帮助读者从零开始，迅速掌握Python的核心概念和实用技巧。</p>
+
+<h2>主要特点：</h2>
+
+<ul>
+<li>结构清晰：书中内容结构井然有序，每一章都围绕一个主题展开，从基础语法到高级功能，逐步深入💡。</li>
+<li>实例丰富：每章都包含大量的代码示例和练习，读者可以通过亲自实践来加深理解📈。</li>
+<li>实际应用：除了基础知识，书中还涉及到数据处理、网络编程、数据库操作等实用技术，帮助读者在真实项目中应用Python🧩。</li>
+</ul>
+
+<h2>阅读体验：</h2>
+
+<p>作者采用简洁明了的语言，结合大量的示例代码，使得即使是编程初学者也能轻松上手。书中的每个章节都包含小结和练习题，帮助读者巩固所学内容。特别值得一
+提的是，作者在每个关键概念之后都提供了实际案例，帮助读者将理论应用于实践🔍。</p>
+
+<h2>适合人群：</h2>
+<ul>
+<li>编程初学者👶</li>
+<li>希望快速掌握Python语言的数据科学爱好者👨‍💻</li>
+<li>需要在工作中使用Python进行数据分析和处理的专业人士🧑‍🔬</li>
+</ul>
+
+<p>《Python快速入门 第三版》不仅是一本学习Python的指南，更是一个全面的参考手册。无论是初学者还是有经验的程序员，都能从中受益匪浅📊。</p>
+
+<p>总之，这本书通过详尽的讲解和丰富的示例，帮助读者快速掌握Python编程。无论您是为了职业发展还是个人兴趣，阅读《Python快速入门 第三版》都将是一个
+明智的选择📚。立即行动，开启您的Python学习之旅吧！💫</p>
+
+<h2>内容提要</h2>
+
+<p>这是一本Python快速入门书，基于Python3.6编写。本书分为4部分，第一部分讲解Python的基础知识，对Python进行概要的介绍；第二部分介绍Python编程
+的重点，涉及列表、元组、集合、字符串、字典、流程控制、函数、模块和作用域、文件系统、异常等内容；第三部分阐释Python的高级特性，涉及类和面向对象、正
+则表达式、数据类型即对象、包、Python库等内容；第四部分关注数据处理，涉及数据文件的处理、网络数据、数据的保存和数据探索，最后给出了相关的案例。</p>
+
+<p>本书框架结构清晰，内容编排合理，讲解循序渐进，并结合大量示例和习题，让读者可以快速学习和掌握Python,.既适合Python初学者学习，也适合作为专业程
+序员的简明Python参考书。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link" href="https://terabox.com/s/1BFtS3Lt4NXNuPb91KGeMhQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71MD2UoCjOL._AC_UF1000,1000_QL80_.jpg" alt="Python快速入门"></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Computer Science</tag>
       </tags>
   </entry>
   <entry>
@@ -2068,6 +2231,7 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
 <blockquote>
 <p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
 </blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>
 
 </html>]]></content>
@@ -2076,6 +2240,45 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
       </categories>
       <tags>
         <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sponsor Me/赞助我</title>
+    <url>/2024/10/24/SponsorMe/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Sponsor Me/赞助我</title>
+</head>
+<body>
+
+<h2>Sponsor me/Buy me a coffee/Support me/赞助我
+
+<h3>For Chinese
+<h4>Wechat/微信
+<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/Buy me a coffee/WeChatPay.png" alt="WeChat">
+如果图片不显示，点击 <a href="https://gitee.com/lee-felix/sponsr/raw/master/WeChatPay.png/">链接直达</a>
+
+<h4>AliPay/支付宝
+<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/Buy me a coffee/AliPay.jpg" alt="AliPay">
+如果图片不显示，点击 <a href="https://gitee.com/lee-felix/sponsr/blob/master/AliPay.jpg">链接直达</a>
+
+<h3>For everyone
+
+<h4>PayPal</h4>
+Coming soon...
+<h4>Apple Pay</h4>
+Coming soon...
+<h4>Google Pay</h4>
+Invaid way now.
+<h4>Cash APP Pay</h4>
+Coming soon...</h3></h4></h4></h3></h2></body></html>]]></content>
+      <categories>
+        <category>Guidance</category>
+      </categories>
+      <tags>
+        <tag>Sponsor</tag>
       </tags>
   </entry>
   <entry>
@@ -2117,6 +2320,7 @@ Pocket is the app for you. Download it today and start saving smarter! 📚✨</
 <a class="link" href="https://chromewebstore.google.com/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en-US">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>有
 对应的插件。</p>
 
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我&#x2F;Sponsor me</a></p>
 </body>
 
 </html>
@@ -2126,45 +2330,6 @@ Pocket is the app for you. Download it today and start saving smarter! 📚✨</
       </categories>
       <tags>
         <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Sponsor Me/赞助我</title>
-    <url>/2024/10/24/SponsorMe/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Sponsor Me/赞助我</title>
-</head>
-<body>
-
-<h2>Sponsor me/Buy me a coffee/Support me/赞助我
-
-<h3>For Chinese
-<h4>Wechat/微信
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/Buy me a coffee/WeChatPay.png" alt="WeChat">
-如果图片不显示，点击 <a href="https://gitee.com/lee-felix/sponsr/raw/master/WeChatPay.png/">链接直达</a>
-
-<h4>AliPay/支付宝
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/Buy me a coffee/AliPay.jpg" alt="AliPay">
-如果图片不显示，点击 <a href="https://gitee.com/lee-felix/sponsr/blob/master/AliPay.jpg">链接直达</a>
-
-<h3>For everyone
-
-<h4>PayPal</h4>
-Coming soon...
-<h4>Apple Pay</h4>
-Coming soon...
-<h4>Google Pay</h4>
-Coming soon...
-<h4>Cash Pay</h4>
-Coming soon...</h3></h4></h4></h3></h2></body></html>]]></content>
-      <categories>
-        <category>Guidance</category>
-      </categories>
-      <tags>
-        <tag>Sponsor</tag>
       </tags>
   </entry>
   <entry>
