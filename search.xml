@@ -5,46 +5,56 @@
     <url>/2024/12/08/AITSum/</url>
     <content><![CDATA[<h1 id="AI模型概览及工具汇总"><a href="#AI模型概览及工具汇总" class="headerlink" title="AI模型概览及工具汇总"></a>AI模型概览及工具汇总</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
 <h2 id="AI天花板"><a href="#AI天花板" class="headerlink" title="AI天花板"></a>AI天花板</h2><ol>
-<li>OpenAI ChatGPT <a class="link" href="https://chatgpt.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Anthropic Claude <a class="link" href="https://claude.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Google Gemini <a class="link" href="https://gemini.google.com/app">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>MetaAI llama <a class="link" href="https://www.meta.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Microsoft Copilot <a class="link" href="https://copilot.microsoft.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>xAI Grok <a class="link" href="https://x.ai/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>ChatGLM（知谱清言）<a class="link" href="https://chatglm.cn/?lang=zh">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>讯飞星火 <a class="link" href="https://xinghuo.xfyun.cn/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>天工AI <a class="link" href="https://www.tiangong.cn/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>文心一言 <a class="link" href="https://yiyan.baidu.com/">点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>OpenAI ChatGPT <a class="link"   href="https://chatgpt.com/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Anthropic Claude <a class="link"   href="https://claude.ai/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Google Gemini <a class="link"   href="https://gemini.google.com/app" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>MetaAI llama <a class="link"   href="https://www.meta.ai/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Microsoft Copilot <a class="link"   href="https://copilot.microsoft.com/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>xAI Grok <a class="link"   href="https://x.ai/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ChatGLM（知谱清言）<a class="link"   href="https://chatglm.cn/?lang=zh" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>讯飞星火 <a class="link"   href="https://xinghuo.xfyun.cn/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>天工AI <a class="link"   href="https://www.tiangong.cn/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>文心一言 <a class="link"   href="https://yiyan.baidu.com/" >点此链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <h2 id="AI集合工具"><a href="#AI集合工具" class="headerlink" title="AI集合工具"></a>AI集合工具</h2><blockquote>
 <p>所有工具均免费开源，无需考虑安全问题</p>
 </blockquote>
 <ol>
-<li>ChatAll <br><br>下载链接直达: <br><br>1.1. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-win-x64.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.2. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-mac-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.3. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-linux-amd64.deb">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ChatAll <br><br>下载链接直达: <br><br>1.1. <a class="link"   href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-win-x64.exe" >Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.2. <a class="link"   href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-mac-arm64.dmg" >Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>1.3. <a class="link"   href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-linux-amd64.deb" >Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
-<p>ChatAll, Chatbox, lobechat, cherry studio功能一样，都是集成各个AI于一体的软件，ChatAll最有用的功能就是可以同时和多个模型一起对话，不需要<br>每个模型分别对话，一次提问多模型同时作答。还有一个优点就是国内模型只需要登录即可使用，国外模型需要API调用。注意软件都支持中文，如果不适应英语，安装<br>时请选择简体中文。<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/AITSum/AI1.png" alt="ChatAll"><br>内置模型如下，根据需要选择自己需要的（不适应安装时请选择中文）<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/AITSum/AI2.png" alt="ChatAll"></p>
+<p>ChatAll, Chatbox, lobechat, cherry studio功能一样，都是集成各个AI于一体的软件，ChatAll最有用的功能就是可以同时和多个模型一起对话，不需要<br>每个模型分别对话，一次提问多模型同时作答。还有一个优点就是国内模型只需要登录即可使用，国外模型需要API调用。注意软件都支持中文，如果不适应英语，安装<br>时请选择简体中文。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/AITSum/AI1.png"
+                      alt="ChatAll"
+                ><br>内置模型如下，根据需要选择自己需要的（不适应安装时请选择中文）<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/AITSum/AI2.png"
+                      alt="ChatAll"
+                ></p>
 <ol start="2">
-<li><p>Chatbox <br><br>下载链接直达 <br><br>2.1. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-Setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.2. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.3. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-amd64.deb">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<li><p>Chatbox <br><br>下载链接直达 <br><br>2.1. <a class="link"   href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-Setup.exe" >Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.2. <a class="link"   href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-arm64.dmg" >Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>2.3. <a class="link"   href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-amd64.deb" >Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 </li>
 <li><p>lobechat（Docker部署）<br></p>
 </li>
 </ol>
 <p><code>docker pull lobehub/lobe-chat</code></p>
 <ol start="4">
-<li><p>cherry studio <br><br>下载链接直达 <br><br>4.1. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>4.2. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br></p>
+<li><p>cherry studio <br><br>下载链接直达 <br><br>4.1. <a class="link"   href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-setup.exe" >Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>4.2. <a class="link"   href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-arm64.dmg" >Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br></p>
 </li>
-<li><p>LM studio <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://releases.lmstudio.ai/win32/x86/0.3.5/2/LM-Studio-0.3.5-Setup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link" href="https://releases.lmstudio.ai/darwin/arm64/0.3.5/2/LM-Studio-0.3.5-arm64.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link" href="https://releases.lmstudio.ai/linux/x86/0.3.5/2/LM_Studio-0.3.5.AppImage">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<li><p>LM studio <br><br>下载链接直达 <br><br>5.1. <a class="link"   href="https://releases.lmstudio.ai/win32/x86/0.3.5/2/LM-Studio-0.3.5-Setup.exe" >Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link"   href="https://releases.lmstudio.ai/darwin/arm64/0.3.5/2/LM-Studio-0.3.5-arm64.dmg" >Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link"   href="https://releases.lmstudio.ai/linux/x86/0.3.5/2/LM_Studio-0.3.5.AppImage" >Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 </li>
 </ol>
 <p>LM studio, Ollama, AnythingLM, Chat with RTX均是下载开源模型，安装后，载入模型问答无需网络，全部在本地运行，所以对电脑性能有要求，其中<br>Ollama仅需CPU即可运行，Chat with RTX要求显存（GPU内存）≥8G才能使用。</p>
 <ol start="6">
-<li>Ollama <br><br>下载链接直达 <br><br>6.1. <a class="link" href="https://ollama.com/download/OllamaSetup.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.2. <a class="link" href="https://ollama.com/download/Ollama-darwin.zip">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.3. Linux: <code>curl -fsSL https://ollama.com/install.sh | sh</code></li>
+<li>Ollama <br><br>下载链接直达 <br><br>6.1. <a class="link"   href="https://ollama.com/download/OllamaSetup.exe" >Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.2. <a class="link"   href="https://ollama.com/download/Ollama-darwin.zip" >Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>6.3. Linux: <code>curl -fsSL https://ollama.com/install.sh | sh</code></li>
 </ol>
-<p>Ollama安装后在终端运行，没有用户界面（GUI），因为其他软件均在软件本体下载模型，而Ollama需要在<a class="link" href="https://ollama.com/search">官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>查看模型，<br>使用<code>ollama run 模型名</code>才能安装，例如安装llama3.3：<code>ollama run llama3.3</code>。</p>
+<p>Ollama安装后在终端运行，没有用户界面（GUI），因为其他软件均在软件本体下载模型，而Ollama需要在<a class="link"   href="https://ollama.com/search" >官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>查看模型，<br>使用<code>ollama run 模型名</code>才能安装，例如安装llama3.3：<code>ollama run llama3.3</code>。</p>
 <ol start="7">
-<li><p>AnythingLLM <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop.exe">Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop-Silicon.dmg">Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link" href="https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script">Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<li><p>AnythingLLM <br><br>下载链接直达 <br><br>5.1. <a class="link"   href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop.exe" >Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.2. <a class="link"   href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop-Silicon.dmg" >Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <br><br>5.3. <a class="link"   href="https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script" >Linux <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 </li>
-<li><p>Chat with RTX（Nvidia英伟达显卡专属） <a class="link" href="https://us.download.nvidia.com/RTX/ChatWithRTX_Installer_9_24.zip">下载链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<li><p>Chat with RTX（Nvidia英伟达显卡专属） <a class="link"   href="https://us.download.nvidia.com/RTX/ChatWithRTX_Installer_9_24.zip" >下载链接直达 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 </li>
 </ol>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
@@ -69,11 +79,16 @@
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/AexHelpAcademic/Jego.png" alt="Jego">
+<img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/AexHelpAcademic/Jego.png"
+                      alt="Jego" 
+                >
 
-<p><a class="link" href="https://jegocloud.com/">Jego <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是一款
-<a class="link" href="https://microsoftedge.microsoft.com/addons/detail/jego-free-vpn-for-copil/bkpoijbobhmbglhjjmnoedomdoabilol">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
-和<a class="link" href="https://chromewebstore.google.com/detail/jego-free-vpn-for-copilot/bnnamacamhjbdoimlbkegmbgkekphcbb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
+<p><a class="link"   href="https://jegocloud.com/" >Jego <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是一款
+<a class="link"   href="https://microsoftedge.microsoft.com/addons/detail/jego-free-vpn-for-copil/bkpoijbobhmbglhjjmnoedomdoabilol" >Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
+和<a class="link"   href="https://chromewebstore.google.com/detail/jego-free-vpn-for-copilot/bnnamacamhjbdoimlbkegmbgkekphcbb" >Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>
 的插件，安装此插件允许免费用户访问谷歌服务、微软Copilot和ChatGPT等服务。请注意仅有谷歌搜索和谷歌学习，例如Youtube等娱乐工具是无法访问的，官网
 也说了免费用户提供学术服务，付费用户可以解锁Youtube等娱乐网站，满足了很大一批用户的需求，对于国内的ip封锁，严重影响了科研人员检索文献的需求，因此
 这款免费的插件真的十分良心，有喜欢的赶紧去体验一下吧。其插件需要注册才能使用，但是不要害怕，因为不需要邮箱📧验证，因此随便编一个邮箱即可，付费用户
@@ -109,25 +124,25 @@
 <ol>
 <li><p>Enhance for YouTube<sup>TM</sup></p>
 <ul style="list-style-type:circle">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://microsoftedge.microsoft.com/addons/detail/enhancer-for-youtube%E2%84%A2/dlgfaleeejmphhnemjgiaekdbonkagkd" >Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle" >Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/" >Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不用每个视频都要选择分辨率，包括页面、小窗模式；关闭侧边相关视频，具体功能请自行安装测试。
 </li>
 <li><p>AI Subtitles &amp; Immersive Translate - Trancy</p>
 <ul style="list-style-type:square">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/ai-subtitles-immersive-/aepdhbcjfkpncgbmlllcaloniioihlma">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/trancyfordesktop/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://microsoftedge.microsoft.com/addons/detail/ai-subtitles-immersive-/aepdhbcjfkpncgbmlllcaloniioihlma" >Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb" >Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://addons.mozilla.org/en-US/firefox/addon/trancyfordesktop/" >Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 支持Youtube、TED、四大慕课平台和部分影视平台，比如Netflix和Disney+等，支持翻译成各种语言，提供双语字幕，翻译字幕，原始字幕（无字幕则语音识别）。
 </li>
 <li><p>SingleFile</p>
 <ul style="list-style-type:disc">
-<li><a class="link" href="https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://addons.mozilla.org/en-US/firefox/addon/single-file/">Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://microsoftedge.microsoft.com/addons/detail/singlefile/efnbkdcfmcmnhlkaijjjmhjjgladedno" >Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle" >Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://addons.mozilla.org/en-US/firefox/addon/single-file/" >Firefox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 我们在学习和工作中有很多浏览场景，但遇到自己喜欢的网站，右键保存则会出现一个文件夹，里面一堆文件且保持浏览完整性不行删除，此插件解决了该问题，只生成html文件，十分简洁。</li>
 </ol>
@@ -178,9 +193,9 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 
 <ul>
 <li>数据科学初学者👶
-</li><li>希望通过实际操作学习Python编程的爱好者👨‍💻
-</li><li>想要深入了解机器学习和数据分析的专业人士🧑‍🔬
-</li></ul>
+<li>希望通过实际操作学习Python编程的爱好者👨‍💻
+<li>想要深入了解机器学习和数据分析的专业人士🧑‍🔬
+</ul>
 
 <p>总之，《数据科学入门》是一本不可多得的好书，它通过详尽的讲解和实用的代码示例，帮助读者从零开始掌握数据科学，为未来的发展打下坚实的基础📚。不妨
 一试，相信你会被它的魅力所吸引！💫</p>
@@ -193,7 +208,12 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 <p>本书适合有志成为数据科学工作者以及想了解数据科学的读者阅读。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ztsRwv8f-OURWCmUTYBBNQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/m/public/s28491488.jpg" alt="R数据科学入门"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1ztsRwv8f-OURWCmUTYBBNQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.doubanio.com/view/subject/m/public/s28491488.jpg"
+                      alt="R数据科学入门" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -258,7 +278,12 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
 <p>本书适合有志于成为数据科学工作者以及想了解数据科学的读者阅读。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1GnfmQ777HAo1evwSypAzhw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img9.doubanio.com/view/subject/m/public/s33781414.jpg" alt="数据科学入门"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1GnfmQ777HAo1evwSypAzhw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img9.doubanio.com/view/subject/m/public/s33781414.jpg"
+                      alt="数据科学入门" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -269,114 +294,6 @@ YouTube专用插件，可以设置暗色模式；视频分辨率以次可以不�
       </categories>
       <tags>
         <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Guidance</title>
-    <url>/2024/10/24/Guidance/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Guidance</title>
-</head>
-<body>
-
-<h1>AllLink-official</h1>
-<h2>Hello everyone, welcome to our website!</h2>
-
-<p>We Focus on making everyone chat online without hindrance all over the world and study free.
-You can learn topics as following.</p>
-
-<ol>
-<li>Free VPN Softwares/Proxy Tools (mainly free softwares)</li>
-<li>Useful learning websites</li>
-<li>Study sources (PDF)</li>
-<li>AI/Machine Learning</li>
-<li>Computer Science (CS)</li>
-<li>Data Science (DS)</li>
-<li>Biology/Bioscience/Life Science</li>
-<li>Chemistry</li>
-<li>Physics</li>
-<li>Mathematics</li>
-</ol>
-
-<blockquote>
-<p>Note:  allowed to be used for study; not allowed to be commercial</p>
-</blockquote>
-<h2>Follow us</h2>
-
-<ul>
-<li><a href="https://www.github.com/AllLink-official">Github</a></li>
-<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
-<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
-<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
-<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
-<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
-<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
-<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
-<li><a href="https://www.threads.com/">Threads</a></li>
-<li><a href="https://www.x.com/">X/Twitter</a></li>
-<li><a href="https://www.facebook.com/">Facebook</a></li>
-<li><a href="https://www.vk.com/">VK</a></li>
-<li><a href="https://www.instagram/">Instagram</a></li>
-<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
-<li><a href="https://www.tumblr.com/">Tumblr</a></li>
-<li><a href="https://www.tiktok.com/">Tiktok</a></li>
-<li><a href="https://www.kwai.com/">Kwai</a></li>
-<li><a href="https://www.likee.com/">Likee</a></li>
-<li><a href="https://www.snapchat.com/">Snapchat</a></li>
-<li><a href="https://www.whee.com/">Whee</a></li>
-<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-</ul>
-
-<h2>Contact us</h2>
-
-<ul>
-<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
-<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
-<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
-<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
-<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
-<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
-<li><a href="https://www.webex.com/">Webex</a></li>
-<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
-<li><a href="https://www.message.com/">Messager</a></li>
-<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
-<li><a href="https://www.groupme.com/">Group Me</a></li>
-<li><a href="https://www.discord.com/invite/">Discord</a></li>
-<li><a href="https://join.slack.com/t/">Slack</a></li>
-<li><a href="https://line.me/">LINE</a></li>
-</ul>
-
-<h2>QR</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>QQ</th>
-      <th>WeChat</th>
-      <th>WeCom</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/qq.png" alt="QQ"></td> 
-      <td><img lazyload src="/images/loading.svg" data-src="../img/wechat.png" alt="WeChat"></td>
-      <td><img lazyload src="/images/loading.svg" data-src="../img/wecom.png" alt="WeCom"></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>Guidance</category>
-      </categories>
-      <tags>
-        <tag>Guidance</tag>
       </tags>
   </entry>
   <entry>
@@ -619,13 +536,13 @@ You can learn topics as following.</p>
 博客平台，也是为了保护部分资源。由于我们国人有着白嫖的思想，与外国人思想有所差异，付费观看的人数屈指可数，加上部分人的预算有限，
 所以我们整理了国外慕课平台和其他学习站点，为什么没有整理国内慕课平台，请自行寻找观看后，理由便知。</p>
 
-<p>首先,最大的两个资源网站是 <a class="link" href="https://www.google.com/">Google搜索 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和 <a class="link" href="https://www.youtube.com/">Youtube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ，其中对于油管中某些言论&#x2F;不当言论经过几次检索就会自动被推送机制排除，请注意你的目的是为了学习，不要受到外部因素的影响。<br>接下来是五大慕课平台，认真寻找，虽然是收费的，但是有旁听选项，可以获取课件和观看视频。</p>
+<p>首先,最大的两个资源网站是 <a class="link"   href="https://www.google.com/" >Google搜索 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和 <a class="link"   href="https://www.youtube.com/" >Youtube <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ，其中对于油管中某些言论&#x2F;不当言论经过几次检索就会自动被推送机制排除，请注意你的目的是为了学习，不要受到外部因素的影响。<br>接下来是五大慕课平台，认真寻找，虽然是收费的，但是有旁听选项，可以获取课件和观看视频。</p>
 <ol>
-<li><a class="link" href="https://www.coursera.org/">Coursera <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://home.edx.org/">edX <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.udemy.com/">Udemy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.khanacademy.org/">Khan Academy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://wwww.brilliant.org/">Brilliant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.coursera.org/" >Coursera <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://home.edx.org/" >edX <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.udemy.com/" >Udemy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.khanacademy.org/" >Khan Academy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://wwww.brilliant.org/" >Brilliant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>
@@ -636,72 +553,6 @@ You can learn topics as following.</p>
       </categories>
       <tags>
         <tag>Online Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高等数学 同济第八版</title>
-    <url>/2024/12/07/PDFAMTJ8/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>高等数学 同济第八版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<h2>📚 介绍：《高等数学 同济大学第八版》 🌟</h2>
-
-<p>大家好！📣 今天我要向大家介绍一本在数学界享有盛誉的教材——《高等数学 同济大学第八版》。这本书由同济大学数学系编写，多年来一直是国内外众多大学采
-用的标准教材。它不仅涵盖了高等数学的基础知识，还深入探讨了许多高级的数学概念和应用。无论你是刚开始学习高等数学，还是希望进一步提升数学水平，这本书都
-将是你的最佳伙伴。 🧠✨</p>
-
-<h2>为什么选择《高等数学 同济大学第八版》？🤔</h2>
-<ul>
-<li>内容全面：本书系统地讲解了高等数学的基本概念和方法，包括函数、极限、导数、积分、微分方程等。这些内容不仅在理论上详尽，而且在实践中具有很高的应
-用价值。 📖🔍</li>
-<li>讲解清晰：编者们以其丰富的教学经验，使得书中的每一个概念都被讲解得清晰易懂。书中的例题和习题经过精心设计，有助于学生更好地理解和掌握所学知识。
-🧩📊</li>
-<li>结构合理：本书的章节安排合理，内容循序渐进，由浅入深，使学生能够逐步深入理解高等数学的各个方面。每章末尾的习题和答案详解，可以帮助学生巩固知识，
-提升解题能力。 📝🔢</li>
-</ul>
-
-<h2>第八版的亮点 🚀</h2>
-<ol>
-<li>更新的内容：第八版在保留前几版精华的基础上，增加了最新的研究成果和应用实例，使读者能够紧跟时代步伐。 📈🔬</li>
-<li>改进的图表和插图：本版增加了许多新的图表和插图，特别适合视觉学习者。通过图形化的展示，复杂的数学概念变得更加直观和易于理解。 </li>
-<li>互动学习工具：本书还配有多种互动学习工具和网络资源，包括视频讲解和在线测试，帮助学生更全面地理解和掌握高等数学的精髓。 📚💡</li>
-</ol>
-
-<h2>读者群体 🌍</h2>
-
-<p>《高等数学 同济大学第八版》适合所有对高等数学感兴趣的学生。无论你是刚开始学习，还是希望巩固已有知识，这本书都能成为你不可或缺的学习伙伴。 📘🌟</p>
-
-<h2>结语 💭</h2>
-
-<p>《高等数学 同济大学第八版》不仅是一本教材，更是你通向数学世界的一扇大门。通过这本书，你不仅能掌握高等数学的核心知识，还能培养解决实际问题的能力。
-无论是为了考试准备，还是为了扩展知识，这本书都是你的理想选择。 🧮🚀📚</p>
-
-<p>祝大家学习愉快！📖😊</p>
-
-<p>如果你有任何问题或需要更多信息，请随时告诉我！📚🔍✨</p>
-
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://gw.alicdn.com/imgextra/i2/2208377286554/O1CN01Pkw50Y1yHmgIqGLS9_!!2-item_pic.png_.webp" alt="高等数学"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>mathematics</tag>
       </tags>
   </entry>
   <entry>
@@ -760,7 +611,12 @@ college student looking to excel in this subject. So, what are you waiting for? 
 today! 🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81DszDGjnXL._AC_UF1000,1000_QL80_.jpg" alt="principles of biochemistry"></p>
+<p>You can get PDF via <a class="link"   href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ae%2FLehninger-Principles-Biochemistry-Saplingplus-Six-Month%2Fdp%2F1319125883&psig=AOvVaw0J65rN7E9r7DmYOMXIqcXC&ust=1733495754473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmt4ntkIoDFQAAAAAdAAAAABAE" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/81DszDGjnXL._AC_UF1000,1000_QL80_.jpg"
+                      alt="principles of biochemistry" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -771,6 +627,77 @@ today! 🧬🚀📚</p>
       </categories>
       <tags>
         <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高等数学 同济第八版</title>
+    <url>/2024/12/07/PDFAMTJ8/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>高等数学 同济第八版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<h2>📚 介绍：《高等数学 同济大学第八版》 🌟</h2>
+
+<p>大家好！📣 今天我要向大家介绍一本在数学界享有盛誉的教材——《高等数学 同济大学第八版》。这本书由同济大学数学系编写，多年来一直是国内外众多大学采
+用的标准教材。它不仅涵盖了高等数学的基础知识，还深入探讨了许多高级的数学概念和应用。无论你是刚开始学习高等数学，还是希望进一步提升数学水平，这本书都
+将是你的最佳伙伴。 🧠✨</p>
+
+<h2>为什么选择《高等数学 同济大学第八版》？🤔</h2>
+<ul>
+<li>内容全面：本书系统地讲解了高等数学的基本概念和方法，包括函数、极限、导数、积分、微分方程等。这些内容不仅在理论上详尽，而且在实践中具有很高的应
+用价值。 📖🔍</li>
+<li>讲解清晰：编者们以其丰富的教学经验，使得书中的每一个概念都被讲解得清晰易懂。书中的例题和习题经过精心设计，有助于学生更好地理解和掌握所学知识。
+🧩📊</li>
+<li>结构合理：本书的章节安排合理，内容循序渐进，由浅入深，使学生能够逐步深入理解高等数学的各个方面。每章末尾的习题和答案详解，可以帮助学生巩固知识，
+提升解题能力。 📝🔢</li>
+</ul>
+
+<h2>第八版的亮点 🚀</h2>
+<ol>
+<li>更新的内容：第八版在保留前几版精华的基础上，增加了最新的研究成果和应用实例，使读者能够紧跟时代步伐。 📈🔬</li>
+<li>改进的图表和插图：本版增加了许多新的图表和插图，特别适合视觉学习者。通过图形化的展示，复杂的数学概念变得更加直观和易于理解。 </li>
+<li>互动学习工具：本书还配有多种互动学习工具和网络资源，包括视频讲解和在线测试，帮助学生更全面地理解和掌握高等数学的精髓。 📚💡</li>
+</ol>
+
+<h2>读者群体 🌍</h2>
+
+<p>《高等数学 同济大学第八版》适合所有对高等数学感兴趣的学生。无论你是刚开始学习，还是希望巩固已有知识，这本书都能成为你不可或缺的学习伙伴。 📘🌟</p>
+
+<h2>结语 💭</h2>
+
+<p>《高等数学 同济大学第八版》不仅是一本教材，更是你通向数学世界的一扇大门。通过这本书，你不仅能掌握高等数学的核心知识，还能培养解决实际问题的能力。
+无论是为了考试准备，还是为了扩展知识，这本书都是你的理想选择。 🧮🚀📚</p>
+
+<p>祝大家学习愉快！📖😊</p>
+
+<p>如果你有任何问题或需要更多信息，请随时告诉我！📚🔍✨</p>
+
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1a9giVDUoxQwJ1wzywQiI6g" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gw.alicdn.com/imgextra/i2/2208377286554/O1CN01Pkw50Y1yHmgIqGLS9_!!2-item_pic.png_.webp"
+                      alt="高等数学" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>mathematics</tag>
       </tags>
   </entry>
   <entry>
@@ -788,8 +715,9 @@ today! 🧬🚀📚</p>
 
 <h2>📚 New Book Alert! 📚</h2>
 
-<p>🔍 Dive into the fascinating world of microbiomes with the latest comprehensive guide, <strong bioinformatic and statistical analysis of microbiome data< strong>! 🌿🔬 Whether you're a seasoned researcher or a curious beginner, this 
-book promises to be your go-to resource for understanding and analyzing microbiome data effectively.</strong></p>
+<p>🔍 Dive into the fascinating world of microbiomes with the latest comprehensive guide, <strong Bioinformatic and 
+Statistical Analysis of Microbiome Data</strong>! 🌿🔬 Whether you're a seasoned researcher or a curious beginner, this 
+book promises to be your go-to resource for understanding and analyzing microbiome data effectively.</p>
 
 <h2>🌟 What’s Inside?</h2>
 <ol>
@@ -831,7 +759,12 @@ resource that promises to take your research to the next level. 📖✨</p>
 <p>Grab your copy today and embark on a journey through the intricate world of microbiomes! 🌐🔗</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1euHgLBqqzmtm43rcH37a4w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://books.google.co.kr/books/publisher/content?id=3BW_EAAAQBAJ&pg=PR3&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2dg1swAIJmzLBwT_1sanP0r-mXGA&w=1280" alt="Bioinformatic and Statistical Analysis of Microbiome Data"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1euHgLBqqzmtm43rcH37a4w" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://books.google.co.kr/books/publisher/content?id=3BW_EAAAQBAJ&pg=PR3&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2dg1swAIJmzLBwT_1sanP0r-mXGA&w=1280"
+                      alt="Bioinformatic and Statistical Analysis of Microbiome Data" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -844,6 +777,101 @@ resource that promises to take your research to the next level. 📖✨</p>
         <tag>Bioscience</tag>
         <tag>Computer Science</tag>
         <tag>Mathematics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>illumina全seq示意图</title>
+    <url>/2024/12/10/PDFBioMoleReac/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>illumina全seq示意图</title>
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>学习生命科学的自然懂，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1LtmYAqHZfIE2XteBMJY23A" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/PDFBioMoleReac/example1.png"
+                      alt="All seq" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>遗传学 戴灼华第三版</title>
+    <url>/2024/12/14/PDFDZHG3/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>遗传学 戴灼华第三版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
+和谐资源。</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1Ww5A_UVXpBj0WdjwIWNbUg" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71dubZfyBwL._AC_UF1000,1000_QL80_.jpg"
+                      alt="遗传学 第三版" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -901,10 +929,15 @@ tool for improving data quality and ensuring accurate results💫. Pick up your 
 skills to the next level! 🌟</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1EP7fYpeNuOuDq4eerTr34Q">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71rsWMoUKjL.jpg" alt="Data Cleaning Techniques Using SAS"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1EP7fYpeNuOuDq4eerTr34Q" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71rsWMoUKjL.jpg"
+                      alt="Data Cleaning Techniques Using SAS" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
-</ul></body>  
+</body>  
 
 </html>]]></content>
       <categories>
@@ -915,34 +948,27 @@ skills to the next level! 🌟</p>
       </tags>
   </entry>
   <entry>
-    <title>illumina全seq示意图</title>
-    <url>/2024/12/10/PDFBioMoleReac/</url>
+    <title>细胞生物学精要 第三版</title>
+    <url>/2024/12/14/PDFECBzh3/</url>
     <content><![CDATA[<!DOCTYPE html>
-<html>
+
+<html en="zh">
 <head>
 
-<title>illumina全seq示意图</title>
+<title>细胞生物学精要 第三版</title>
+
 </head>
 <body>
 
 <p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
 
-<p>学习生命科学的自然懂，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1LtmYAqHZfIE2XteBMJY23A">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/PDFBioMoleReac/example1.png" alt="All seq"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/17dkChUo_Ew4vCrqp6w8S1Q" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img3.doubanio.com/view/subject/l/public/s1811462.jpg"
+                      alt="细胞生物学精要" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -1012,7 +1038,12 @@ approach, and comprehensive coverage, this book is perfect for both beginners an
 Grab your copy today and start unlocking the potential hidden in your data! 🌐📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81sYy1D9n7L._SL1360_.jpg" alt="Data Mining"></p>
+<p>You can get PDF via <a class="link"   href="https://github.com/LeeFely/dm-ebook/blob/master/Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd).pdf" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/81sYy1D9n7L._SL1360_.jpg"
+                      alt="Data Mining" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1023,50 +1054,6 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
       </categories>
       <tags>
         <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>遗传学 戴灼华第三版</title>
-    <url>/2024/12/14/PDFDZHG3/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>遗传学 戴灼华第三版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
-和谐资源。</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1Ww5A_UVXpBj0WdjwIWNbUg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71dubZfyBwL._AC_UF1000,1000_QL80_.jpg" alt="遗传学 第三版"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -1099,7 +1086,7 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDFs via <a class="link" href="https://www.123684.com/s/Rt0rVv-0N2xh">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>xxqB</code></p>
+<p>You can get PDFs via <a class="link"   href="https://www.123684.com/s/Rt0rVv-0N2xh" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>xxqB</code></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -1173,7 +1160,12 @@ Grab your copy today and start unlocking the potential hidden in your data! 🌐
 版全面改写了后半部分，且书中所有示例代码都从Python2换成了Python3。本书适合对编程知之甚少但想要使用计算方法解决问题的读者。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/10Os8h62qjelLatm1b4unmQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://file.ituring.com.cn/LargeCover/1801f1225f01b2147c42" alt="Python编程导论"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/10Os8h62qjelLatm1b4unmQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://file.ituring.com.cn/LargeCover/1801f1225f01b2147c42"
+                      alt="Python编程导论" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -1244,7 +1236,12 @@ waiting for? Embark on your journey into the fascinating world of cell biology w
 🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/19DF_dhfujUfFR74C7XyD1w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81hjf-h4-zL.jpg" alt="Karp’s Cell and Molecular Biology Concepts and Experiments 9e"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/19DF_dhfujUfFR74C7XyD1w" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/81hjf-h4-zL.jpg"
+                      alt="Karp’s Cell and Molecular Biology Concepts and Experiments 9e" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1313,7 +1310,12 @@ analytics and knowledge representation. Its comprehensive coverage, practical ex
 essential resource for enhancing your understanding and skills in this rapidly evolving domain. 🌟</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1_C01Rv6azPqlFUraaFtcwQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-53199-7" alt="Knowledge Graphs and Big Data Processing"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1_C01Rv6azPqlFUraaFtcwQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-53199-7"
+                      alt="Knowledge Graphs and Big Data Processing" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1326,63 +1328,6 @@ essential resource for enhancing your understanding and skills in this rapidly e
         <tag>Data Science</tag>
         <tag>Knowledge Graphs</tag>
         <tag>Deep Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>基因XII 中文版</title>
-    <url>/2024/12/12/PDFLGXIIzh/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>基因XII 中文版</title>
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<h2>📚 推介：Lewin的《基因学》第十二版 🧬</h2>
-
-<p>嘿，生物科学和医学专业的学生们！📣 如果你们准备深入探索遗传学的迷人世界，有一本书是必读的：刘易斯的《基因》第十二版。这本教科书以其全面的覆盖范
-围和对遗传学领域的权威见解而闻名，使其成为你学习不可或缺的资源。🌟</p>
-
-<h2>为什么选择刘易斯的《基因》第十二版？🤔</h2>
-<ul>
-<li>全面的内容：这一版提供了遗传学原理的详尽探索，从基础概念到高级主题。无论你是刚开始学习还是深造，刘易斯的《基因》第十二版都能满足你的需求。🧬📖</li>
-<li>专家作者团队：由一群顶尖的遗传学家撰写，这本书确保你从最好的专家那里学习。作者们将他们丰富的知识和研究经验带入每一章节，为你提供可靠和最新的信
-息。🧠✨</li>
-<li>吸引人的学习工具：书中包含了各种工具来增强你的学习体验。从详细的图表和插图到章节末的问题和案例研究，你会发现大量资源帮助你掌握复杂的遗传概念。📝🔬</li>
-</ul>
-
-<h2>第十二版有什么新内容？🚀</h2>
-<ul>
-<li>最新的研究：紧跟遗传学的最新发展。第十二版整合了最新的研究成果，确保你学习的是最新的信息。🔍🔬</li>
-<li>增强的视觉元素：通过改进的插图和图形，视觉学习者将更容易理解复杂的遗传过程和机制。🎨📊</li>
-<li>互动特性：这一版旨在更具互动性，新增的功能鼓励主动学习和帮助你更深入地与材料联系。📚💡</li>
-</ul>
-
-<h2>谁应该阅读这本书？👨‍🎓👩‍🎓</h2>
-
-<p>刘易斯的《基因》第十二版非常适合生物科学学生、医学学生以及对遗传学有浓厚兴趣的任何人。无论你是在准备考试、进行研究还是仅仅想要扩展你的知识，这本
-书都是一个必不可少的伴侣。🌐📘</p>
-
-<h2>最后的想法💭</h2>
-
-<p>刘易斯的《基因》第十二版不仅仅是一本教科书——它是你掌握遗传学复杂性的大门。凭借其全面的内容、专家指导和吸引人的特性，它是任何生物科学或医学学生
-宝贵的资源。那么，为什么还要等待呢？开始你的遗传之旅，用刘易斯的《基因》第十二版揭开生命的秘密吧！🧬🚀📚</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1naJjQdz440Z2jJ_IjqEXDQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/710WaBdpUvL._SL1280_.jpg" alt="Lewin's GENES XII"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -1426,7 +1371,7 @@ research findings, ensuring you're learning the most current information availab
 intricate genetic processes and mechanisms. 🎨📊</li>
 <li>Interactive Features: This edition is designed to be more interactive, with new features that encourage active 
 learning and help you connect with the material on a deeper level. 📚💡
-</li></ul>
+</ul>
 
 <h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
 
@@ -1442,7 +1387,12 @@ bioscientific or medical student. So, why wait? Embark on your genetic journey a
 Lewin's GENES XII! 🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg" alt="Lewin's GENES XII 12th Edition"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1ye5w4MAI9cQnWFGzGRTLkg" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71a-eRdohlL.jpg"
+                      alt="Lewin's GENES XII 12th Edition" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1509,9 +1459,76 @@ principles of life. 🤓</li>
 comments below. 👇</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1R4_MXuqkI0_SJAcN-pCGRg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img9.doubanio.com/view/subject/m/public/s6133964.jpg" alt="Lewin-Genes X"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1R4_MXuqkI0_SJAcN-pCGRg" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img9.doubanio.com/view/subject/m/public/s6133964.jpg"
+                      alt="Lewin-Genes X" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基因XII 中文版</title>
+    <url>/2024/12/12/PDFLGXIIzh/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>基因XII 中文版</title>
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<h2>📚 推介：Lewin的《基因学》第十二版 🧬</h2>
+
+<p>嘿，生物科学和医学专业的学生们！📣 如果你们准备深入探索遗传学的迷人世界，有一本书是必读的：刘易斯的《基因》第十二版。这本教科书以其全面的覆盖范
+围和对遗传学领域的权威见解而闻名，使其成为你学习不可或缺的资源。🌟</p>
+
+<h2>为什么选择刘易斯的《基因》第十二版？🤔</h2>
+<ul>
+<li>全面的内容：这一版提供了遗传学原理的详尽探索，从基础概念到高级主题。无论你是刚开始学习还是深造，刘易斯的《基因》第十二版都能满足你的需求。🧬📖</li>
+<li>专家作者团队：由一群顶尖的遗传学家撰写，这本书确保你从最好的专家那里学习。作者们将他们丰富的知识和研究经验带入每一章节，为你提供可靠和最新的信
+息。🧠✨</li>
+<li>吸引人的学习工具：书中包含了各种工具来增强你的学习体验。从详细的图表和插图到章节末的问题和案例研究，你会发现大量资源帮助你掌握复杂的遗传概念。📝🔬</li>
+</ul>
+
+<h2>第十二版有什么新内容？🚀</h2>
+<ul>
+<li>最新的研究：紧跟遗传学的最新发展。第十二版整合了最新的研究成果，确保你学习的是最新的信息。🔍🔬</li>
+<li>增强的视觉元素：通过改进的插图和图形，视觉学习者将更容易理解复杂的遗传过程和机制。🎨📊</li>
+<li>互动特性：这一版旨在更具互动性，新增的功能鼓励主动学习和帮助你更深入地与材料联系。📚💡</li>
+</ul>
+
+<h2>谁应该阅读这本书？👨‍🎓👩‍🎓</h2>
+
+<p>刘易斯的《基因》第十二版非常适合生物科学学生、医学学生以及对遗传学有浓厚兴趣的任何人。无论你是在准备考试、进行研究还是仅仅想要扩展你的知识，这本
+书都是一个必不可少的伴侣。🌐📘</p>
+
+<h2>最后的想法💭</h2>
+
+<p>刘易斯的《基因》第十二版不仅仅是一本教科书——它是你掌握遗传学复杂性的大门。凭借其全面的内容、专家指导和吸引人的特性，它是任何生物科学或医学学生
+宝贵的资源。那么，为什么还要等待呢？开始你的遗传之旅，用刘易斯的《基因》第十二版揭开生命的秘密吧！🧬🚀📚</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1naJjQdz440Z2jJ_IjqEXDQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/710WaBdpUvL._SL1280_.jpg"
+                      alt="Lewin's GENES XII" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -1541,7 +1558,9 @@ comments below. 👇</p>
 
 <p>各位科学爱好者们好！👋 你们准备好探索基因、DNA以及生命基本构件的复杂世界了吗？🤔 我非常激动地向大家介绍分子生物学教育的基石之一：《莱温基因X》！🤩</p>
 
-<h2>《莱温基因X》是什么？</h2>《莱温基因X》是一本内容全面的教科书，深入探讨了迷人的分子遗传学领域。🤓 它是学生和研究人员的重要参考资源，提供了关于基因结构、功能和调控的深入知识。🧐<p></p>
+<h2>《莱温基因X》是什么？</h2
+
+<p>《莱温基因X》是一本内容全面的教科书，深入探讨了迷人的分子遗传学领域。🤓 它是学生和研究人员的重要参考资源，提供了关于基因结构、功能和调控的深入知识。🧐</p>
 
 <h2>它为什么如此重要？</h2>
 
@@ -1555,19 +1574,25 @@ comments below. 👇</p>
 <li>前沿技术： 了解分子生物学研究的最新进展。🧪</li>
 </ul>
 
-<h2>哪些人应该阅读它？
+<h2>哪些人应该阅读它？</h2.
+<ul>
 <li>学生： 无论你是本科生还是研究生，这本书都将是你理解复杂遗传学的指南。🎓</li>
 <li>研究人员： 通过该领域最新的研究和发现保持领先地位。🧑‍🔬</li>
 <li>任何对遗传学感兴趣的人： 即使你不是科学家，这本书也可以帮助你理解生命的基本原理。🤓</li>
-
+</ul>
 
 <p>让我们一起解开生命的奥秘！🗝️ 在下面的评论中分享你对《莱温基因X》的看法和问题。👇</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1p5EFhIQziml90KOsxYQTRQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img9.doubanio.com/view/subject/m/public/s6133964.jpg" alt="基因X"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1p5EFhIQziml90KOsxYQTRQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img9.doubanio.com/view/subject/m/public/s6133964.jpg"
+                      alt="基因X" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
-</h2></body>  
+</body>  
 
 </html>]]></content>
       <categories>
@@ -1623,7 +1648,12 @@ perfect resource to expand your knowledge and ignite your passion for science. �
 unlock the secrets of life! 🔓</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/15dO3zFNJjhEtdfp2bRFisQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71apbLSSADL.jpg" alt="Lehninger Principles of biochemistry"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/15dO3zFNJjhEtdfp2bRFisQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71apbLSSADL.jpg"
+                      alt="Lehninger Principles of biochemistry" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1680,7 +1710,12 @@ ideal resource to expand your knowledge and ignite your passion for science. �
 unlock the secrets of life! 🔓</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1zCAAGz41AUD6K2QJHc-cDw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/51r2nwnMwKL._AC_UF1000,1000_QL80_.jpg" alt="Lehninger Principles of biochemistry"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1zCAAGz41AUD6K2QJHc-cDw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/51r2nwnMwKL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Lehninger Principles of biochemistry" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1734,7 +1769,7 @@ benefit from seeing complex processes depicted clearly and accurately. 🎨📊<
 the material and deepen your understanding of biochemistry. 📚💡</li>
 </ul>
 
-Who Should Read This Book? 👨‍🎓👩‍🎓
+</h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
 <p>Lehninger Principles of Biochemistry is an ideal resource for bioscientific students, medical students, and anyone 
 with a strong interest in understanding the biochemical processes that underlie life. Whether you're preparing for exams, 
 conducting research, or simply expanding your knowledge, this book is a must-have. 🌐📘</p>
@@ -1746,7 +1781,12 @@ for any bioscientific or medical student. So, dive into the world of biochemistr
 this essential resource! 🧬🚀📚</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1M_X3IfhmNhTF5mkdYGhyzQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/91wDPf8H8aL.jpg" alt="Lehninger Principles of biochemistry"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1M_X3IfhmNhTF5mkdYGhyzQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/91wDPf8H8aL.jpg"
+                      alt="Lehninger Principles of biochemistry" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1759,47 +1799,6 @@ this essential resource! 🧬🚀📚</p>
       <tags>
         <tag>Bioscience</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>遗传学 刘祖洞第三版</title>
-    <url>/2024/12/14/PDFLZDG3/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>生物化学原理 第二版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
-和谐资源。</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1b83SJoKssyWb1Q8Exagp5w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZcs9dkQI1XEdECZ177WQFBRCY5ul6IEJUw&s" alt="遗传学"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
   </entry>
   <entry>
     <title>Lehninger生物化学原理 中文第三版</title>
@@ -1829,7 +1828,12 @@ this essential resource! 🧬🚀📚</p>
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/17dkChUo_Ew4vCrqp6w8S1Q">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img3.doubanio.com/view/subject/l/public/s1811462.jpg" alt="Lehninger生物化学原理"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/17dkChUo_Ew4vCrqp6w8S1Q" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img3.doubanio.com/view/subject/l/public/s1811462.jpg"
+                      alt="Lehninger生物化学原理" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -1906,7 +1910,212 @@ of life itself. It's a must-have for anyone passionate about biology and eager t
 us. So, grab your copy, dive in, and unlock the secrets of the cell! 🔑</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1_8lkqBek3bINjJwFta_wDA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71b68iXRmmL._AC_UF1000,1000_QL80_.jpg" alt="Molecular Biology of the Cell"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1_8lkqBek3bINjJwFta_wDA" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71b68iXRmmL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Molecular Biology of the Cell" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>遗传学 刘祖洞第三版</title>
+    <url>/2024/12/14/PDFLZDG3/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>生物化学原理 第二版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
+和谐资源。</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1b83SJoKssyWb1Q8Exagp5w" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZcs9dkQI1XEdECZ177WQFBRCY5ul6IEJUw&s"
+                      alt="遗传学" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Molecular Biology of the Cell 7e By Bruce Alberts, Rebecca Heald, Alexander Johnson</title>
+    <url>/2024/12/03/PDFMBotC7/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+
+<title>Molecular Biology of the Cell 7e By Bruce Alberts, Rebecca Heald, Alexander Johnson</title>
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<h2>📚 Spotlight on: Molecular Biology of the Cell, 7th Edition! 🧬</h2>
+
+<p>Hello, college students! 📣 If you're ready to unravel the mysteries of cell biology, then look no further than 
+Molecular Biology of the Cell, 7th Edition by Bruce Alberts, Rebecca Heald, and Alexander Johnson. This book is an 
+indispensable resource for anyone venturing into the intricate world of cellular structures and functions. 🌟</p>
+
+<h2>Why This Book? 🤔</h2>
+<ol>
+<li>In-Depth Content: The 7th edition is brimming with thorough and meticulously updated content. It covers everything 
+from the fundamentals to the most cutting-edge discoveries in cell biology. Whether you’re a newbie or a seasoned 
+student, this book has something for everyone. 🧬📖</li>
+<li>Expert Authorship: Written by leading scientists in the field, this book ensures you’re learning from the best. The 
+authors’ deep insights and vast experience bring clarity to even the most complex concepts. 🧠✨</li>
+<li>Engaging and Informative: It’s not just a textbook; it’s an experience. The book’s engaging style, combined with 
+detailed illustrations and real-life applications, makes learning both enjoyable and impactful. 📝🔬</li>
+</ol>
+
+<h2>What’s New in the 7th Edition? 🚀</h2>
+
+<p>Updated Research: Stay current with the latest advances in cell biology. The 7th edition includes the newest findings 
+and breakthroughs, ensuring you're always at the forefront of knowledge. 🔍🔬</p>
+
+<p>Enhanced Visuals: With upgraded illustrations and graphics, visual learners will find it easier to grasp complex 
+processes and structures. 🎨📊</p>
+
+<p>Interactive Learning Features: This edition is designed to be interactive, with various features to help you actively 
+engage with the material and deepen your understanding. 📚💡</p>
+
+<h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
+
+<p>This book is perfect for all college students, whether you’re majoring in biology, biochemistry, or a related field. 
+It’s also a great resource for anyone taking introductory courses in cell biology or looking to deepen their 
+understanding of cellular mechanisms. 🌐📘</p>
+
+<h2>Final Thoughts 💭</h2>
+
+<p>Molecular Biology of the Cell, 7th Edition, is more than just a book—it’s your gateway to mastering the complexities 
+of cell biology. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable tool for any 
+college student. So, why wait? Dive into the captivating world of cell biology and discover the wonders within! 🧬🚀📚</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1a3UM-6pWr2mL7xWqdB4GTA" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/61U3wDYXxNL._SL1200_.jpg"
+                      alt="Molecular Biology of the Cell 7e" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Metzler D. Biochemistry -The chemical reactions of living cells</title>
+    <url>/2024/12/14/PDFMDB2003/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="en">
+<head>
+
+<title>Metzler D. Biochemistry -The chemical reactions of living cells</title>
+
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>📢 Calling all Bio-enthusiasts! Get ready to dive deep into the fascinating world of biochemistry with the ultimate 
+guide: "Metzler D. Biochemistry - The Chemical Reactions of Living Cells"! 🧬🔬</p>
+
+<p>This isn't just another textbook; it's a comprehensive exploration of the molecular mechanisms that drive life itself. 
+Whether you're a seasoned biochemist, a budding biology student, or simply curious about the intricate processes within 
+us, this book offers something for everyone.</p>
+
+<h2>What makes "Metzler D. Biochemistry" stand out? Let's break it down:</h2>
+<ul>
+<li>Comprehensive Coverage: From the fundamental building blocks of life – carbohydrates, lipids, proteins, and nucleic 
+acids – to complex metabolic pathways like glycolysis and the citric acid cycle, this book leaves no stone unturned. It 
+delves into enzyme kinetics, bioenergetics, and the regulation of metabolic processes with meticulous detail. Think of 
+it as your all-in-one biochemistry bible! 📖</li>
+<li>Clear and Engaging Writing Style: Biochemistry can be a complex subject, but Metzler masterfully explains intricate 
+concepts in a clear, concise, and engaging manner. The text is complemented by numerous diagrams, illustrations, and 
+tables that help visualize abstract ideas and make learning more accessible. No more dry, dense paragraphs! 🥳</li>
+<li>Emphasis on Chemical Reactions: As the title suggests, this book places a strong emphasis on the chemical reactions 
+that underlie biological processes. It explores the mechanisms of enzymatic catalysis, the thermodynamics of biochemical 
+reactions, and the role of coenzymes and metal ions in biological systems. This focus provides a deeper understanding of 
+how things work at the molecular level. ⚛️</li>
+<li>Relevance to Real-World Applications: Biochemistry isn't just an academic subject; it has profound implications for 
+medicine, agriculture, and biotechnology. "Metzler D. Biochemistry" connects theoretical concepts to real-world 
+applications, highlighting the importance of biochemistry in understanding diseases, developing new drugs, and improving 
+agricultural practices. This makes the learning experience more relevant and engaging. 🌍</li>
+<li>Updated Content: This book stays up-to-date with the latest advancements in the field of biochemistry. It 
+incorporates recent research findings and new discoveries, ensuring that readers are exposed to the most current 
+knowledge. This is crucial in a rapidly evolving field like biochemistry. 🚀</li>
+</ul>
+
+<h2>Imagine unlocking the secrets of:</h2>
+<ul>
+<li>How our bodies extract energy from food. ⚡️</li>
+<li>How genetic information is stored, replicated, and expressed. 🧬</li>
+<li>How enzymes catalyze thousands of biochemical reactions with incredible specificity. ⚙️</li>
+<li>How metabolic pathways are regulated to maintain homeostasis. ⚖️</li>
+</ul>
+
+<p>"Metzler D. Biochemistry - The Chemical Reactions of Living Cells" is more than just a textbook; it's a journey into 
+the heart of life itself. It's an invaluable resource for anyone seeking a deeper understanding of the molecular basis 
+of life.</p>
+
+<p>So, whether you're preparing for an exam, conducting research, or simply curious about the wonders of biochemistry, 
+grab a copy of this essential guide and embark on an exciting exploration of the chemical reactions that make life 
+possible! 📚➡️🔬</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1oWIEFUqMXdpSffMGZ7ZNHg" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/91xbpCtMVuL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Biochemistry·" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -1972,7 +2181,12 @@ us. So, grab your copy, dive in, and unlock the secrets of the cell! 🔑</p>
 
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1OVJRVEIS1ALE-mBwGrtlAA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/51vt2sL4qkL._AC_UF1000,1000_QL80_.jpg" alt="Latex入门"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1OVJRVEIS1ALE-mBwGrtlAA" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/51vt2sL4qkL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Latex入门" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -1984,73 +2198,6 @@ us. So, grab your copy, dive in, and unlock the secrets of the cell! 🔑</p>
       <tags>
         <tag>Computer Science</tag>
         <tag>Writing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Molecular Biology of the Cell 7e By Bruce Alberts, Rebecca Heald, Alexander Johnson</title>
-    <url>/2024/12/03/PDFMBotC7/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Molecular Biology of the Cell 7e By Bruce Alberts, Rebecca Heald, Alexander Johnson</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h2>📚 Spotlight on: Molecular Biology of the Cell, 7th Edition! 🧬</h2>
-
-<p>Hello, college students! 📣 If you're ready to unravel the mysteries of cell biology, then look no further than 
-Molecular Biology of the Cell, 7th Edition by Bruce Alberts, Rebecca Heald, and Alexander Johnson. This book is an 
-indispensable resource for anyone venturing into the intricate world of cellular structures and functions. 🌟</p>
-
-<h2>Why This Book? 🤔</h2>
-<ol>
-<li>In-Depth Content: The 7th edition is brimming with thorough and meticulously updated content. It covers everything 
-from the fundamentals to the most cutting-edge discoveries in cell biology. Whether you’re a newbie or a seasoned 
-student, this book has something for everyone. 🧬📖</li>
-<li>Expert Authorship: Written by leading scientists in the field, this book ensures you’re learning from the best. The 
-authors’ deep insights and vast experience bring clarity to even the most complex concepts. 🧠✨</li>
-<li>Engaging and Informative: It’s not just a textbook; it’s an experience. The book’s engaging style, combined with 
-detailed illustrations and real-life applications, makes learning both enjoyable and impactful. 📝🔬</li>
-</ol>
-
-<h2>What’s New in the 7th Edition? 🚀</h2>
-
-<p>Updated Research: Stay current with the latest advances in cell biology. The 7th edition includes the newest findings 
-and breakthroughs, ensuring you're always at the forefront of knowledge. 🔍🔬</p>
-
-<p>Enhanced Visuals: With upgraded illustrations and graphics, visual learners will find it easier to grasp complex 
-processes and structures. 🎨📊</p>
-
-<p>Interactive Learning Features: This edition is designed to be interactive, with various features to help you actively 
-engage with the material and deepen your understanding. 📚💡</p>
-
-<h2>Who Should Read This Book? 👨‍🎓👩‍🎓</h2>
-
-<p>This book is perfect for all college students, whether you’re majoring in biology, biochemistry, or a related field. 
-It’s also a great resource for anyone taking introductory courses in cell biology or looking to deepen their 
-understanding of cellular mechanisms. 🌐📘</p>
-
-<h2>Final Thoughts 💭</h2>
-
-<p>Molecular Biology of the Cell, 7th Edition, is more than just a book—it’s your gateway to mastering the complexities 
-of cell biology. With its comprehensive content, expert guidance, and engaging features, it’s an invaluable tool for any 
-college student. So, why wait? Dive into the captivating world of cell biology and discover the wonders within! 🧬🚀📚</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1a3UM-6pWr2mL7xWqdB4GTA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61U3wDYXxNL._SL1200_.jpg" alt="Molecular Biology of the Cell 7e"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -2119,7 +2266,12 @@ beginners and experienced professionals. So, why wait? Dive into the world of ma
 potential of your data today! 🌟📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61d2dEqXcvL._AC_UF1000,1000_QL80_.jpg" alt="Machine Learning in action"></p>
+<p>You can get PDF via <a class="link"   href="https://github.com/LeeFely/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/61d2dEqXcvL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Machine Learning in action" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -2130,50 +2282,6 @@ potential of your data today! 🌟📘</p>
       </categories>
       <tags>
         <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>纽约州立水牛城大学-生物信息课件</title>
-    <url>/2024/12/11/PDFNYUBBioinfo/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>纽约州立水牛城大学-生物信息课件</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>老课件了，这课件上传到123盘，方便国内用户下载</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDFs via <a class="link" href="https://www.123684.com/s/Rt0rVv-SN2xh">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>qMAw</code></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-        <tag>Computer Science</tag>
       </tags>
   </entry>
   <entry>
@@ -2219,7 +2327,12 @@ potential of your data today! 🌟📘</p>
 <p>让我们一起探索这本经典之作，通过它的指导，在机器学习的道路上不断前进！ 📖✨</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1Weqf1AID1xUwD_CJGHFJ0g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61xGbO8aU-L._AC_UF1000,1000_QL80_.jpg" alt="精通机器学习：基于R"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1Weqf1AID1xUwD_CJGHFJ0g" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/61xGbO8aU-L._AC_UF1000,1000_QL80_.jpg"
+                      alt="精通机器学习：基于R" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -2232,6 +2345,50 @@ potential of your data today! 🌟📘</p>
         <tag>Data Science</tag>
         <tag>Computer Science</tag>
         <tag>Machine Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>纽约州立水牛城大学-生物信息课件</title>
+    <url>/2024/12/11/PDFNYUBBioinfo/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>纽约州立水牛城大学-生物信息课件</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>老课件了，这课件上传到123盘，方便国内用户下载</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDFs via <a class="link"   href="https://www.123684.com/s/Rt0rVv-SN2xh" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>qMAw</code></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+        <tag>Computer Science</tag>
       </tags>
   </entry>
   <entry>
@@ -2286,7 +2443,12 @@ potential of your data today! 🌟📘</p>
 
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1lkO7A4hRewuyQ8ZmkuvDVw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="机器学习实战"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1lkO7A4hRewuyQ8ZmkuvDVw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg"
+                      alt="机器学习实战" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -2362,7 +2524,12 @@ experienced professionals. So, why wait? Dive into the world of machine learning
 data today! 🌐📘</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437797728l/25545994.jpg" alt="Python Machine Learning"></p>
+<p>You can get PDF via <a class="link"   href="https://github.com/LeeFely/dm-ebook/blob/master/Python.Machine.Learning.2015.9.pdf" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437797728l/25545994.jpg"
+                      alt="Python Machine Learning" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -2411,7 +2578,12 @@ data today! 🌐📘</p>
 表性的竞赛任务。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1IHnnT-r2DyQNtmOYQ8uLuw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61gvQKr0N1L._UF1000,1000_QL80_.jpg" alt="机器学习及实践"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1IHnnT-r2DyQNtmOYQ8uLuw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/61gvQKr0N1L._UF1000,1000_QL80_.jpg"
+                      alt="机器学习及实践" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -2426,56 +2598,70 @@ data today! 🌐📘</p>
       </tags>
   </entry>
   <entry>
-    <title>R in action, 1st</title>
-    <url>/2024/12/07/PDFRIAen1/</url>
+    <title>R in action, 3rd</title>
+    <url>/2024/12/07/PDFRIAen3/</url>
     <content><![CDATA[<!DOCTYPE html>
 
 <html en="en">
 <head>
 
-<title>R in action, 1st</title>
+<title>R in action, 3rd</title>
 
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<p>Ready to dive into the world of R programming? 📘 “R in Action, 1st Edition” is your ultimate guide to mastering the 
-powerful, open-source language R, used for statistical computing and graphics. It's like having a mentor who knows all 
-the tricks and tips of R, holding your hand through the entire process. Whether you're a beginner or looking to refine 
-your skills, this book has something for everyone. 🌟</p>
+<h2>📚✨ Discover the Ultimate Guide to R Programming with 'R in Action, 3rd Edition'! ✨📚</h2>
 
-<p>The book, authored by Robert I. Kabacoff, is designed to be both an introduction and a comprehensive reference guide. It 
-starts with the basics of R, giving you the foundational knowledge needed to write your first lines of code. The text 
-then expands into more complex topics, all presented in a clear and engaging manner. 📈</p>
+<p>Are you ready to dive into the world of data science and statistical computing? Look no further! 🌟 The latest 
+release of the highly acclaimed book, "R in Action, 3rd Edition" by Robert I. Kabacoff, is here to guide you through the 
+power and versatility of R programming! 🚀</p>
 
-<p>One of the standout features of “R in Action” is its practical approach. Each chapter includes real-world examples and 
-exercises that help you apply what you’ve learned immediately. This hands-on method ensures that you not only understand 
-the theory behind R but can also implement it in practical scenarios. Let's look at a simple example to give you a taste 
-of what to expect:</p>
+<p>With the exponential growth of data and the need for powerful tools to analyze it, R has emerged as one of the 
+leading languages for data analysis, visualization, and beyond. 🖥️📊 Whether you're a seasoned data scientist or just 
+starting out, this book is your comprehensive companion on your R journey.</p>
 
-<p><code class="text-sm font-ligatures-none"># Example: Creating a basic plot in R</code></p>
-<p><code class="text-sm font-ligatures-none"># Load the necessary library<br>library(ggplot2)<br></code></p>
-<p><code class="text-sm font-ligatures-none"># Create a sample data frame<br>data &lt;- data.frame(<br>x = c(1, 2, 3, 4, 5),<br>y = c(3, 7, 5, 8, 9)<br>)<br></code></p>
-<p><code class="text-sm font-ligatures-none"># Create a plot using ggplot2<br>ggplot(data, aes(x = x, y = y)) +<br>geom_point() +<br>ggtitle("Simple Scatter Plot") +<br>xlab("X-Axis") +<br>ylab("Y-Axis")<br></code></p>
-<p>In this example, you see how to use the ggplot2 library to create a simple scatter plot. 📊 The book explains each 
-step in detail, so you understand not just how to write the code, but why it works the way it does.</p>
+<h2>What's Inside?</h2>
 
-<p>“R in Action” also covers data manipulation, statistical models, and graphing. The book walks you through using 
-packages such as dplyr and ggplot2, which are essential tools in the R ecosystem. 📊</p>
+<ol>
+<li>Comprehensive Coverage: From the basics of R programming to advanced topics, this book has it all! 💡 You'll learn 
+how to manipulate data, create stunning visualizations, and perform complex statistical analyses.</li>
+<li>Practical Examples: The book is packed with practical examples and real-world scenarios that help you understand how 
+to apply R in various contexts. 🛠️ Get hands-on experience with data wrangling, visualization, and modeling techniques.</li>
+<li>Hands-On Exercises: Reinforce your learning with hands-on exercises at the end of each chapter. 💪 Practice makes 
+perfect, and these exercises will solidify your understanding of key concepts.</li>
+<li>Up-to-Date Content: Stay current with the latest developments in R programming. 📈 The third edition includes new 
+packages and functions that reflect the latest advancements in the R community.</li>
+<li>Expert Insights: Benefit from the author's extensive experience and expertise in R programming. 🧠 Gain valuable 
+insights and tips that you won't find in other resources.</li>
+</ol>
 
-<p>Whether you're into data science, statistics, or just love playing with data, “R in Action” is a must-have resource. 
-🛠️ It equips you with the skills to analyze data effectively and create stunning visualizations. Plus, with its clear 
-explanations and practical examples, learning R becomes an enjoyable journey.</p>
+<h2>Why 'R in Action, 3rd Edition'?</h2>
 
-<p>Grab your copy today and unlock the power of R! 🚀</p>
+<ul>
+<li>User-Friendly: Written in a clear and engaging style, this book makes learning R accessible and enjoyable. 🎉 No 
+jargon or overly technical language, just practical, easy-to-understand guidance.</li>
+<li>Versatile: Whether you're into data science, machine learning, or statistical analysis, this book covers a wide 
+range of applications for R. 🌐</li>
+<li>Community Support: Join a vibrant community of R enthusiasts and professionals. 🌍 Share your experiences, seek 
+advice, and collaborate on projects.</li>
+</ul>
 
-<p>For more information, check out the publisher's page and see how this book can transform your data analysis skills. 📚</p>
+<p>Get Your Copy Today!</p>
+<p>Don't miss out on this essential resource for mastering R programming. 📖💡 Grab your copy of "R in Action, 3rd 
+Edition" and embark on a journey to unlock the full potential of your data! Available now at major bookstores and online 
+retailers. 🛒📦</p>
 
-<p>Happy coding! 💻✨</p>
+<p>Happy coding! 🤓💻</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1iOsR-RMKpfldDUPhKqWwLw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://images.manning.com/360/480/resize/book/8/4c7a692-40d8-4ac3-ae39-6defa8ffede5/kabacoff.png" alt="R in action·"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1xipk3YXUhYpwRJDXYupKag" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/61TtWuZWFbL._AC_UF1000,1000_QL80_.jpg"
+                      alt="R in action·" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -2574,7 +2760,12 @@ navigate the ever-evolving field of data science and make data-driven decisions 
 further assistance, feel free to ask. 📘📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/14hkZ99Fv3Kccm26G9PmHkw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/14hkZ99Fv3Kccm26G9PmHkw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU"
+                      alt="R in action" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -2589,65 +2780,61 @@ further assistance, feel free to ask. 📘📊</p>
       </tags>
   </entry>
   <entry>
-    <title>R in action, 3rd</title>
-    <url>/2024/12/07/PDFRIAen3/</url>
+    <title>R in action, 1st</title>
+    <url>/2024/12/07/PDFRIAen1/</url>
     <content><![CDATA[<!DOCTYPE html>
 
 <html en="en">
 <head>
 
-<title>R in action, 3rd</title>
+<title>R in action, 1st</title>
 
 </head>
 <body>
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h2>📚✨ Discover the Ultimate Guide to R Programming with 'R in Action, 3rd Edition'! ✨📚</h2>
+<p>Ready to dive into the world of R programming? 📘 “R in Action, 1st Edition” is your ultimate guide to mastering the 
+powerful, open-source language R, used for statistical computing and graphics. It's like having a mentor who knows all 
+the tricks and tips of R, holding your hand through the entire process. Whether you're a beginner or looking to refine 
+your skills, this book has something for everyone. 🌟</p>
 
-<p>Are you ready to dive into the world of data science and statistical computing? Look no further! 🌟 The latest 
-release of the highly acclaimed book, "R in Action, 3rd Edition" by Robert I. Kabacoff, is here to guide you through the 
-power and versatility of R programming! 🚀</p>
+<p>The book, authored by Robert I. Kabacoff, is designed to be both an introduction and a comprehensive reference guide. It 
+starts with the basics of R, giving you the foundational knowledge needed to write your first lines of code. The text 
+then expands into more complex topics, all presented in a clear and engaging manner. 📈</p>
 
-<p>With the exponential growth of data and the need for powerful tools to analyze it, R has emerged as one of the 
-leading languages for data analysis, visualization, and beyond. 🖥️📊 Whether you're a seasoned data scientist or just 
-starting out, this book is your comprehensive companion on your R journey.</p>
+<p>One of the standout features of “R in Action” is its practical approach. Each chapter includes real-world examples and 
+exercises that help you apply what you’ve learned immediately. This hands-on method ensures that you not only understand 
+the theory behind R but can also implement it in practical scenarios. Let's look at a simple example to give you a taste 
+of what to expect:</p>
 
-<h2>What's Inside?</h2>
+<p><code class="text-sm font-ligatures-none"># Example: Creating a basic plot in R</code></p>
+<p><code class="text-sm font-ligatures-none"># Load the necessary library<br>library(ggplot2)<br></code></p>
+<p><code class="text-sm font-ligatures-none"># Create a sample data frame<br>data &lt;- data.frame(<br>x = c(1, 2, 3, 4, 5),<br>y = c(3, 7, 5, 8, 9)<br>)<br></code></p>
+<p><code class="text-sm font-ligatures-none"># Create a plot using ggplot2<br>ggplot(data, aes(x = x, y = y)) +<br>geom_point() +<br>ggtitle("Simple Scatter Plot") +<br>xlab("X-Axis") +<br>ylab("Y-Axis")<br></code></p>
+<p>In this example, you see how to use the ggplot2 library to create a simple scatter plot. 📊 The book explains each 
+step in detail, so you understand not just how to write the code, but why it works the way it does.</p>
 
-<ol>
-<li>Comprehensive Coverage: From the basics of R programming to advanced topics, this book has it all! 💡 You'll learn 
-how to manipulate data, create stunning visualizations, and perform complex statistical analyses.</li>
-<li>Practical Examples: The book is packed with practical examples and real-world scenarios that help you understand how 
-to apply R in various contexts. 🛠️ Get hands-on experience with data wrangling, visualization, and modeling techniques.</li>
-<li>Hands-On Exercises: Reinforce your learning with hands-on exercises at the end of each chapter. 💪 Practice makes 
-perfect, and these exercises will solidify your understanding of key concepts.</li>
-<li>Up-to-Date Content: Stay current with the latest developments in R programming. 📈 The third edition includes new 
-packages and functions that reflect the latest advancements in the R community.</li>
-<li>Expert Insights: Benefit from the author's extensive experience and expertise in R programming. 🧠 Gain valuable 
-insights and tips that you won't find in other resources.</li>
-</ol>
+<p>“R in Action” also covers data manipulation, statistical models, and graphing. The book walks you through using 
+packages such as dplyr and ggplot2, which are essential tools in the R ecosystem. 📊</p>
 
-<h2>Why 'R in Action, 3rd Edition'?</h2>
+<p>Whether you're into data science, statistics, or just love playing with data, “R in Action” is a must-have resource. 
+🛠️ It equips you with the skills to analyze data effectively and create stunning visualizations. Plus, with its clear 
+explanations and practical examples, learning R becomes an enjoyable journey.</p>
 
-<ul>
-<li>User-Friendly: Written in a clear and engaging style, this book makes learning R accessible and enjoyable. 🎉 No 
-jargon or overly technical language, just practical, easy-to-understand guidance.</li>
-<li>Versatile: Whether you're into data science, machine learning, or statistical analysis, this book covers a wide 
-range of applications for R. 🌐</li>
-<li>Community Support: Join a vibrant community of R enthusiasts and professionals. 🌍 Share your experiences, seek 
-advice, and collaborate on projects.</li>
-</ul>
+<p>Grab your copy today and unlock the power of R! 🚀</p>
 
-<p>Get Your Copy Today!</p>
-<p>Don't miss out on this essential resource for mastering R programming. 📖💡 Grab your copy of "R in Action, 3rd 
-Edition" and embark on a journey to unlock the full potential of your data! Available now at major bookstores and online 
-retailers. 🛒📦</p>
+<p>For more information, check out the publisher's page and see how this book can transform your data analysis skills. 📚</p>
 
-<p>Happy coding! 🤓💻</p>
+<p>Happy coding! 💻✨</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1xipk3YXUhYpwRJDXYupKag">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61TtWuZWFbL._AC_UF1000,1000_QL80_.jpg" alt="R in action·"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1iOsR-RMKpfldDUPhKqWwLw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://images.manning.com/360/480/resize/book/8/4c7a692-40d8-4ac3-ae39-6defa8ffede5/kabacoff.png"
+                      alt="R in action·" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -2701,67 +2888,12 @@ retailers. 🛒📦</p>
 
 <p>祝你有一个愉快编码的路途！💻✨</p>
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/15rTzDNapxMZmMdifSDyELg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s24576400.jpg" alt="R语言实战"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R语言实战 第三版</title>
-    <url>/2024/12/07/PDFRIAzh3/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>R语言实战 第三版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<h2>📚✨ 探索《R语言实战》第三版的无限魅力！ ✨📚</h2>
-
-<p>你准备好进入数据科学和统计计算的世界了吗？🌟 最新出版的备受赞誉的书籍《R语言实战》第三版，作者Robert I. Kabacoff，将引领你深入了解R语言的
-强大功能和多样性！🚀</p>
-
-<p>随着数据的指数级增长以及对强大工具的需求，R已经成为数据分析、可视化等领域的主要语言之一。🖥️📊 无论你是经验丰富的数据科学家还是刚刚起步，这本书
-将是你R语言之旅的全程伴侣。</p>
-
-<h2>书中内容</h2>
-
-<ul>
-<li>全面覆盖: 从R编程的基础知识到高级主题，这本书涵盖了一切！💡 你将学习如何操作数据，创建引人入胜的可视化图表，执行复杂的统计分析。</li>
-<li>实际案例: 本书充满了实际案例和现实情境，帮助你理解如何在各种场景下应用R。🛠️ 获得数据整理、可视化和建模技术的实践经验。</li>
-<li>动手练习: 每章结尾都有动手练习，巩固你的学习。💪 练习出真知，这些练习将加深你对关键概念的理解。</li>
-<li>最新内容: 紧跟R编程的最新发展。📈 第三版包含了反映R社区最新进展的新软件包和函数。</li>
-<li>专家见解: 受益于作者在R编程方面的丰富经验和专业知识。🧠 获得其他资源中找不到的宝贵见解和建议。</li>
-</ul>
-
-<h2>为什么选择《R语言实战》第三版？</h2>
-
-<ol>
-<li>用户友好: 书写风格清晰生动，使学习R变得简单有趣。🎉 无术语或过于技术化的语言，只有实用、易于理解的指导。</li>
-<li>多用途: 无论你从事数据科学、机器学习还是统计分析，这本书涵盖了R的广泛应用。🌐</li>
-<li>社区支持: 加入一个充满活力的R爱好者和专业人士的社区。🌍 分享你的经验，寻求建议，并在项目上合作。</li>
-</ol>
-
-<p>立即获取你的副本！</p>
-<p>不要错过这个掌握R编程的必备资源。📖💡 获取你的《R语言实战》第三版，踏上解锁数据全部潜力的旅程！现在各大书店和在线零售商均有售。🛒📦</p>
-
-<p>祝你有一个快乐的编程时光！🤓💻</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/18JC9RXpubyaUGT74LKgH-w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img1.doubanio.com/view/subject/l/public/s34543790.jpg" alt="R语言实战"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/15rTzDNapxMZmMdifSDyELg" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.doubanio.com/view/subject/l/public/s24576400.jpg"
+                      alt="R语言实战" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -2841,7 +2973,12 @@ retailers. 🛒📦</p>
 <p>我希望这个对《R实战：第二版》的介绍对你有帮助！如果你有其他问题或需要进一步帮助，请随时提问。 📘📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1ledLhh-J6eMnxendaxD8sQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg" alt="R语言实战"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1ledLhh-J6eMnxendaxD8sQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/411h8GmEnHL._UF894,1000_QL80_.jpg"
+                      alt="R语言实战" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -2852,6 +2989,147 @@ retailers. 🛒📦</p>
       </categories>
       <tags>
         <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R语言实战 第三版</title>
+    <url>/2024/12/07/PDFRIAzh3/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>R语言实战 第三版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<h2>📚✨ 探索《R语言实战》第三版的无限魅力！ ✨📚</h2>
+
+<p>你准备好进入数据科学和统计计算的世界了吗？🌟 最新出版的备受赞誉的书籍《R语言实战》第三版，作者Robert I. Kabacoff，将引领你深入了解R语言的
+强大功能和多样性！🚀</p>
+
+<p>随着数据的指数级增长以及对强大工具的需求，R已经成为数据分析、可视化等领域的主要语言之一。🖥️📊 无论你是经验丰富的数据科学家还是刚刚起步，这本书
+将是你R语言之旅的全程伴侣。</p>
+
+<h2>书中内容</h2>
+
+<ul>
+<li>全面覆盖: 从R编程的基础知识到高级主题，这本书涵盖了一切！💡 你将学习如何操作数据，创建引人入胜的可视化图表，执行复杂的统计分析。</li>
+<li>实际案例: 本书充满了实际案例和现实情境，帮助你理解如何在各种场景下应用R。🛠️ 获得数据整理、可视化和建模技术的实践经验。</li>
+<li>动手练习: 每章结尾都有动手练习，巩固你的学习。💪 练习出真知，这些练习将加深你对关键概念的理解。</li>
+<li>最新内容: 紧跟R编程的最新发展。📈 第三版包含了反映R社区最新进展的新软件包和函数。</li>
+<li>专家见解: 受益于作者在R编程方面的丰富经验和专业知识。🧠 获得其他资源中找不到的宝贵见解和建议。</li>
+</ul>
+
+<h2>为什么选择《R语言实战》第三版？</h2>
+
+<ol>
+<li>用户友好: 书写风格清晰生动，使学习R变得简单有趣。🎉 无术语或过于技术化的语言，只有实用、易于理解的指导。</li>
+<li>多用途: 无论你从事数据科学、机器学习还是统计分析，这本书涵盖了R的广泛应用。🌐</li>
+<li>社区支持: 加入一个充满活力的R爱好者和专业人士的社区。🌍 分享你的经验，寻求建议，并在项目上合作。</li>
+</ol>
+
+<p>立即获取你的副本！</p>
+<p>不要错过这个掌握R编程的必备资源。📖💡 获取你的《R语言实战》第三版，踏上解锁数据全部潜力的旅程！现在各大书店和在线零售商均有售。🛒📦</p>
+
+<p>祝你有一个快乐的编程时光！🤓💻</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/18JC9RXpubyaUGT74LKgH-w" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.doubanio.com/view/subject/l/public/s34543790.jpg"
+                      alt="R语言实战" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Elements of Statistical Learning, Second Edition</title>
+    <url>/2024/12/10/PDFTEoSL2/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+
+<title>The Elements of Statistical Learning - Data Mining, Inference, and Prediction Second Edition</title>
+
+</head>
+<body>
+
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
+
+<p>📘 <strong> Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition</strong> is a 
+highly acclaimed book authored by Trevor Hastie, Robert Tibshirani, and Jerome Friedman, published by Springer as part 
+of the Springer Series in Statistics. This book delves into the core concepts and methodologies of data mining, 
+inference, and prediction, offering readers a comprehensive understanding of statistical learning techniques.</p>
+
+<h2>Key Features:</h2>
+<ol>
+<li>Extensive Coverage: This book encompasses a wide range of topics from supervised learning to unsupervised learning, 
+including neural networks, support vector machines, classification trees, and boosting methods. It provides a thorough 
+exploration of these techniques.</li>
+<li>Rich Examples: The second edition includes over 200 pages of color illustrations and numerous examples, aiding 
+readers in grasping and applying these methods effectively.</li>
+<li>Updated Content: This edition introduces new topics such as graphical models, random forests, ensemble methods, 
+least angle regression and path algorithms, non-negative matrix factorization, and spectral clustering.</li>
+<li>Practical Application: The book bridges theory and practice, combining rich theoretical content with practical case 
+studies to help readers apply what they've learned in real-world scenarios.</li>
+</ol>
+
+<h2>Reading Experience:</h2>
+
+<p>The authors, Trevor Hastie, Robert Tibshirani, and Jerome Friedman, use clear, accessible language and numerous 
+examples and charts to make complex concepts more comprehensible. Each chapter concludes with summaries and exercises, 
+allowing readers to consolidate their knowledge. Notably, every key concept is supported by detailed explanations and 
+practical examples, enabling readers to apply theoretical knowledge to practical situations.</p>
+
+<h2>Suitable Audience:</h2>
+<ul>
+<li>Data Scientists and Analysts: Professionals who need to ensure data quality and conduct data analysis will find this 
+book immensely valuable.</li>
+<li>Statistical Researchers: Researchers will benefit from the latest statistical learning methods and techniques 
+detailed in this book.</li>
+<li>Students and Educators: Students and teachers can use this book as a textbook to enhance students' statistical 
+learning abilities.</li>
+</ul>
+
+<p>In conclusion, The Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition is a 
+classic that provides a thorough introduction to the core skills of data science through detailed explanations and rich 
+examples. Whether you're a beginner or an experienced professional, this book will be an invaluable assistant on your 
+journey in the field of data science 📚. Get your copy now and embark on your data science adventure! 💫</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1kd4EMw5xfsBDPOHvI55tqg" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-53199-7"
+                      alt="Knowledge Graphs and Big Data Processing" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+        <tag>Mathematics</tag>
+        <tag>Machine Learning</tag>
       </tags>
   </entry>
   <entry>
@@ -2940,7 +3218,12 @@ navigate the ever-evolving field of data science and make data-driven decisions 
 further assistance, feel free to ask. 📘📊</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU" alt="R in action"></p>
+<p>You can get PDF via <a class="link"   href="https://github.com/LeeFely/dm-ebook/blob/master/Manning.R.in.Action.2nd.Edition.Data.Analysis.and.Graphics.with.R.1617291382.pdf" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBeajPftCYVEDHCcJTp8KRGTgEtyV5XxbtuMRPJx8gwEEsKp7xUluN3pdwbRC_nuYIto&usqp=CAU"
+                      alt="R in action" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
@@ -2996,7 +3279,12 @@ further assistance, feel free to ask. 📘📊</p>
 
 <p>祝大家学习愉快！📖😊</p>
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/11GAOg7r8_VyZ2pBWtEnYkw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/6198T6i4oRL._AC_UF1000,1000_QL80_.jpg" alt="托马斯微积分"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/11GAOg7r8_VyZ2pBWtEnYkw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/6198T6i4oRL._AC_UF1000,1000_QL80_.jpg"
+                      alt="托马斯微积分" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3007,77 +3295,6 @@ further assistance, feel free to ask. 📘📊</p>
       </categories>
       <tags>
         <tag>mathematics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The Elements of Statistical Learning, Second Edition</title>
-    <url>/2024/12/10/PDFTEoSL2/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html>
-<head>
-
-<title>The Elements of Statistical Learning - Data Mining, Inference, and Prediction Second Edition</title>
-
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<p>📘 <strong> Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition</strong> is a 
-highly acclaimed book authored by Trevor Hastie, Robert Tibshirani, and Jerome Friedman, published by Springer as part 
-of the Springer Series in Statistics. This book delves into the core concepts and methodologies of data mining, 
-inference, and prediction, offering readers a comprehensive understanding of statistical learning techniques.</p>
-
-<h2>Key Features:</h2>
-<ol>
-<li>Extensive Coverage: This book encompasses a wide range of topics from supervised learning to unsupervised learning, 
-including neural networks, support vector machines, classification trees, and boosting methods. It provides a thorough 
-exploration of these techniques.</li>
-<li>Rich Examples: The second edition includes over 200 pages of color illustrations and numerous examples, aiding 
-readers in grasping and applying these methods effectively.</li>
-<li>Updated Content: This edition introduces new topics such as graphical models, random forests, ensemble methods, 
-least angle regression and path algorithms, non-negative matrix factorization, and spectral clustering.</li>
-<li>Practical Application: The book bridges theory and practice, combining rich theoretical content with practical case 
-studies to help readers apply what they've learned in real-world scenarios.</li>
-</ol>
-
-<h2>Reading Experience:</h2>
-
-<p>The authors, Trevor Hastie, Robert Tibshirani, and Jerome Friedman, use clear, accessible language and numerous 
-examples and charts to make complex concepts more comprehensible. Each chapter concludes with summaries and exercises, 
-allowing readers to consolidate their knowledge. Notably, every key concept is supported by detailed explanations and 
-practical examples, enabling readers to apply theoretical knowledge to practical situations.</p>
-
-<h2>Suitable Audience:</h2>
-<ul>
-<li>Data Scientists and Analysts: Professionals who need to ensure data quality and conduct data analysis will find this 
-book immensely valuable.</li>
-<li>Statistical Researchers: Researchers will benefit from the latest statistical learning methods and techniques 
-detailed in this book.</li>
-<li>Students and Educators: Students and teachers can use this book as a textbook to enhance students' statistical 
-learning abilities.</li>
-</ul>
-
-<p>In conclusion, The Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition is a 
-classic that provides a thorough introduction to the core skills of data science through detailed explanations and rich 
-examples. Whether you're a beginner or an experienced professional, this book will be an invaluable assistant on your 
-journey in the field of data science 📚. Get your copy now and embark on your data science adventure! 💫</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1kd4EMw5xfsBDPOHvI55tqg">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-53199-7" alt="Knowledge Graphs and Big Data Processing"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Data Science</tag>
-        <tag>Mathematics</tag>
-        <tag>Machine Learning</tag>
       </tags>
   </entry>
   <entry>
@@ -3133,7 +3350,12 @@ journey in the field of data science 📚. Get your copy now and embark on your 
 序员的简明Python参考书。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1BFtS3Lt4NXNuPb91KGeMhQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71MD2UoCjOL._AC_UF1000,1000_QL80_.jpg" alt="Python快速入门"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1BFtS3Lt4NXNuPb91KGeMhQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71MD2UoCjOL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Python快速入门" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3176,7 +3398,7 @@ journey in the field of data science 📚. Get your copy now and embark on your 
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDFs via <a class="link" href="https://www.123684.com/s/Rt0rVv-lN2xh">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>JlSV</code></p>
+<p>You can get PDFs via <a class="link"   href="https://www.123684.com/s/Rt0rVv-lN2xh" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>JlSV</code></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3220,7 +3442,7 @@ journey in the field of data science 📚. Get your copy now and embark on your 
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDFs via <a class="link" href="https://www.123684.com/s/Rt0rVv-uN2xh">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>88AI</code></p>
+<p>You can get PDFs via <a class="link"   href="https://www.123684.com/s/Rt0rVv-uN2xh" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, 提取码：<code>88AI</code></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3232,6 +3454,124 @@ journey in the field of data science 📚. Get your copy now and embark on your 
       <tags>
         <tag>Bioscience</tag>
         <tag>Computer Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Weaver分子生物学 第五版</title>
+    <url>/2024/12/13/PDFWeaverMBezh5/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>Weaver分子生物学 第五版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>📢 各位有志于生物学的同学们、经验丰富的科研人员以及充满好奇的朋友们！🧬 准备好通过最新版的经典之作——Robert F. Weaver的《分子生物学》（第五
+版）深入探索迷人的分子世界吧！📚</p>
+
+<p>这不仅仅是一本教科书；它是一场全面而引人入胜的生命基石探索之旅。🌟 Weaver的写作风格以其清晰易懂而闻名，使复杂的概念变得容易理解，甚至令人兴奋。
+无论你是刚开始分子生物学之旅的学生，还是希望复习的专业人士，这本书都能满足你的需求。</p>
+
+<h2>是什么让第五版如此特别？🤔 让我们来分解一下：</h2>
+<ul>
+<li>更新的内容： 本版经过全面修订和更新，以反映该领域的最新进展。你将找到关于基因组学、蛋白质组学、CRISPR-Cas9基因编辑、RNA干扰等前沿信息！🔬 
+这就像坐在前排观看分子生物学领域的最新发现。🚀</li>
+
+<li>增强的视觉效果： 复杂的流程可能难以形象化，但Weaver通过令人惊叹的全彩色插图、图表和显微照片使其变得容易。🖼️ 这些视觉效果使分子世界栩栩如生，
+更容易掌握复杂的机制和通路。可以把它想象成一个分子艺术画廊！🎨</li>
+
+<li>清晰的解释： Weaver的优势在于他能够以清晰简洁的方式解释复杂的课题。他将复杂的概念分解成易于理解的部分，使所有层次的读者都能理解。不再迷失在术
+语中！🗣️</li>
+
+<li>关注实验证据： 本书强调分子生物学的实验基础，展示了关键发现是如何通过巧妙的实验实现的。这有助于读者理解科学过程，并欣赏研究人员的聪明才智。🧪 
+这就像走进实验室，亲眼目睹实验过程！🥽</li>
+
+<li>实际应用： 分子生物学不仅仅是一门抽象的科学；它对医学、农业和生物技术具有深远的影响。本版强调了分子生物学的实际应用，展示了它如何影响我们的生活。
+🌍 从开发新的疾病疗法到创造转基因作物，分子生物学正在塑造我们的未来。🌱</li>
+
+<li>新增和扩展的内容： 你会发现以下领域的扩展内容：</li>
+<ul>
+<li>CRISPR-Cas9基因编辑： 一项革命性的技术，正在改变基因研究，并为遗传疾病提供潜在的治疗方法。✂️</li>
+<li>非编码RNA： 这些分子在基因调控和细胞过程中起着至关重要的作用。🎼</li>
+<li>单细胞基因组学： 研究单个细胞的基因组，以了解细胞异质性和疾病发展。🦠</li>
+<li>表观遗传学： 研究不涉及基础DNA序列改变的可遗传的基因表达变化。🧬➡️⚙️</li>
+</ul>
+</ul>
+
+<p>Robert F. Weaver的《分子生物学》（第五版）不仅仅是一本教科书；对于任何有兴趣了解生命分子基础的人来说，它都是一本宝贵的资源。无论你是学生、研
+究人员，还是仅仅是科学爱好者，本书都将为你提供对这个充满活力的领域的全面而引人入胜的介绍。所以，拿起你的书，开始一段激动人心的分子探险吧！📖✨</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1K1cPQbJxaHAGr5xctzBC7g" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/91SMRUyVZBL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Weaver分子生物学" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分子生物学 第二版 杨荣武</title>
+    <url>/2024/12/12/PDFYRWMB2/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>分子生物学 第二版 杨荣武</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
+和谐资源。</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1R7kfxa0vdxXjNnam1rWb7w" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://abook.hep.com.cn/ICourseFiles/MaterialsLibCovers/group1/M00/00/81/wKhLSFQW2ZGAGVX9AABt-XiUj_M429.jpg"
+                      alt="生物化学原理" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
       </tags>
   </entry>
   <entry>
@@ -3294,117 +3634,14 @@ simply a science enthusiast, this book will provide you with a comprehensive and
 field. So, grab your copy and embark on an exciting molecular adventure! 📖✨</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1PUF_9Uwdf4A_GbccShgORA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/61nsgMRFEmL._AC_UF1000,1000_QL80_.jpg" alt="Molecular Biology"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1PUF_9Uwdf4A_GbccShgORA" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/61nsgMRFEmL._AC_UF1000,1000_QL80_.jpg"
+                      alt="Molecular Biology" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Weaver分子生物学 第五版</title>
-    <url>/2024/12/13/PDFWeaverMBezh5/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>Weaver分子生物学 第五版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>📢 各位有志于生物学的同学们、经验丰富的科研人员以及充满好奇的朋友们！🧬 准备好通过最新版的经典之作——Robert F. Weaver的《分子生物学》（第五
-版）深入探索迷人的分子世界吧！📚</p>
-
-<p>这不仅仅是一本教科书；它是一场全面而引人入胜的生命基石探索之旅。🌟 Weaver的写作风格以其清晰易懂而闻名，使复杂的概念变得容易理解，甚至令人兴奋。
-无论你是刚开始分子生物学之旅的学生，还是希望复习的专业人士，这本书都能满足你的需求。</p>
-
-<h2>是什么让第五版如此特别？🤔 让我们来分解一下：</h2>
-<ul>
-<li>更新的内容： 本版经过全面修订和更新，以反映该领域的最新进展。你将找到关于基因组学、蛋白质组学、CRISPR-Cas9基因编辑、RNA干扰等前沿信息！🔬 
-这就像坐在前排观看分子生物学领域的最新发现。🚀</li>
-
-<li>增强的视觉效果： 复杂的流程可能难以形象化，但Weaver通过令人惊叹的全彩色插图、图表和显微照片使其变得容易。🖼️ 这些视觉效果使分子世界栩栩如生，
-更容易掌握复杂的机制和通路。可以把它想象成一个分子艺术画廊！🎨</li>
-
-<li>清晰的解释： Weaver的优势在于他能够以清晰简洁的方式解释复杂的课题。他将复杂的概念分解成易于理解的部分，使所有层次的读者都能理解。不再迷失在术
-语中！🗣️</li>
-
-<li>关注实验证据： 本书强调分子生物学的实验基础，展示了关键发现是如何通过巧妙的实验实现的。这有助于读者理解科学过程，并欣赏研究人员的聪明才智。🧪 
-这就像走进实验室，亲眼目睹实验过程！🥽</li>
-
-<li>实际应用： 分子生物学不仅仅是一门抽象的科学；它对医学、农业和生物技术具有深远的影响。本版强调了分子生物学的实际应用，展示了它如何影响我们的生活。
-🌍 从开发新的疾病疗法到创造转基因作物，分子生物学正在塑造我们的未来。🌱</li>
-
-<li>新增和扩展的内容： 你会发现以下领域的扩展内容：</li>
-<ul>
-<li>CRISPR-Cas9基因编辑： 一项革命性的技术，正在改变基因研究，并为遗传疾病提供潜在的治疗方法。✂️</li>
-<li>非编码RNA： 这些分子在基因调控和细胞过程中起着至关重要的作用。🎼</li>
-<li>单细胞基因组学： 研究单个细胞的基因组，以了解细胞异质性和疾病发展。🦠</li>
-<li>表观遗传学： 研究不涉及基础DNA序列改变的可遗传的基因表达变化。🧬➡️⚙️</li>
-</ul>
-</ul>
-
-<p>Robert F. Weaver的《分子生物学》（第五版）不仅仅是一本教科书；对于任何有兴趣了解生命分子基础的人来说，它都是一本宝贵的资源。无论你是学生、研
-究人员，还是仅仅是科学爱好者，本书都将为你提供对这个充满活力的领域的全面而引人入胜的介绍。所以，拿起你的书，开始一段激动人心的分子探险吧！📖✨</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1K1cPQbJxaHAGr5xctzBC7g">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/91SMRUyVZBL._AC_UF1000,1000_QL80_.jpg" alt="Weaver分子生物学"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>分子生物学 第二版 杨荣武</title>
-    <url>/2024/12/12/PDFYRWMB2/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>分子生物学 第二版 杨荣武</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
-和谐资源。</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1R7kfxa0vdxXjNnam1rWb7w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://abook.hep.com.cn/ICourseFiles/MaterialsLibCovers/group1/M00/00/81/wKhLSFQW2ZGAGVX9AABt-XiUj_M429.jpg" alt="生物化学原理"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
 
 </html>]]></content>
@@ -3446,51 +3683,12 @@ field. So, grab your copy and embark on an exciting molecular adventure! 📖✨
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1Hyy8VKVgHqivCrjhaM12-A">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://abook.hep.com.cn/ICourseFiles/MaterialsLibCovers/group1/M00/00/81/wKhLSFQW2ZGAGVX9AABt-XiUj_M429.jpg" alt="生物化学原理"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>生物化学原理 第三版</title>
-    <url>/2024/12/12/PDFYRWPBC3/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>生物化学原理 第三版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
-和谐资源。</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1k6DWj490qn0-QSFjCw95EQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img.alicdn.com/i3/391838199/O1CN01nKdrvj2ARC05szjZo_!!391838199.jpg" alt="生物化学原理"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1Hyy8VKVgHqivCrjhaM12-A" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://abook.hep.com.cn/ICourseFiles/MaterialsLibCovers/group1/M00/00/81/wKhLSFQW2ZGAGVX9AABt-XiUj_M429.jpg"
+                      alt="生物化学原理" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3534,51 +3732,12 @@ field. So, grab your copy and embark on an exciting molecular adventure! 📖✨
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1_rAXyRx0OtyKQqZh-QY39A">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/71qL-0Clg2L._AC_UF1000,1000_QL80_.jpg" alt="细胞生物学 郑国锠"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>现代分子生物学 第四版</title>
-    <url>/2024/12/13/PDFZYXMMB4/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>现代分子生物学 第四版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>下载前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。不和谐和封杀的资源存123盘，方便下载，只需要浏览器登录即可不限
-速下载，比阿里云盘快，而阿里云盘必须用app才能下载</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1Kq44DrTbn14urfekJwIgjw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://img9.doubanio.com/view/subject/l/public/s26097675.jpg" alt="现代分子生物学 第四版"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1_rAXyRx0OtyKQqZh-QY39A" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/71qL-0Clg2L._AC_UF1000,1000_QL80_.jpg"
+                      alt="细胞生物学 郑国锠" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3622,7 +3781,110 @@ field. So, grab your copy and embark on an exciting molecular adventure! 📖✨
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1Jv8xbdgNe1Cme_fHQ2E3MQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2rJ5SjK8yiRfubpR-inknCMzLSLtUZLv0Q&s" alt="现代分子生物学 第三版"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1Jv8xbdgNe1Cme_fHQ2E3MQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2rJ5SjK8yiRfubpR-inknCMzLSLtUZLv0Q&s"
+                      alt="现代分子生物学 第三版" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生物化学原理 第三版</title>
+    <url>/2024/12/12/PDFYRWPBC3/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>生物化学原理 第三版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>学习生命科学的自然自然知道杨荣武老师的这本书的质量，不必多言，自己下载看看，前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会
+和谐资源。</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1k6DWj490qn0-QSFjCw95EQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.alicdn.com/i3/391838199/O1CN01nKdrvj2ARC05szjZo_!!391838199.jpg"
+                      alt="生物化学原理" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>现代分子生物学 第四版</title>
+    <url>/2024/12/13/PDFZYXMMB4/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>现代分子生物学 第四版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>下载前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。不和谐和封杀的资源存123盘，方便下载，只需要浏览器登录即可不限
+速下载，比阿里云盘快，而阿里云盘必须用app才能下载</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1Kq44DrTbn14urfekJwIgjw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img9.doubanio.com/view/subject/l/public/s26097675.jpg"
+                      alt="现代分子生物学 第四版" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3666,95 +3928,12 @@ field. So, grab your copy and embark on an exciting molecular adventure! 📖✨
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1mSJLdYkHcbUoh2_SFySjYQ">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://m.media-amazon.com/images/I/81RQflTLFaL._SY466_.jpg" alt="生物化学"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>现代分子生物学 第五版</title>
-    <url>/2024/12/13/PDFZYXMMB5/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>现代分子生物学 第五版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>下载前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。不和谐和封杀的资源存123盘，方便下载，只需要浏览器登录即可不限
-速下载，比阿里云盘快，而阿里云盘必须用app才能下载</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1i58yggzMBWxDSdh8Zalo-w">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseMLk9LYyRPtXHsv9MIdeDf4seaAcmg4ltA&s" alt="现代分子生物学 第五版"></p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>  
-
-</html>]]></content>
-      <categories>
-        <category>PDF</category>
-      </categories>
-      <tags>
-        <tag>Bioscience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>细胞生物学 第五版</title>
-    <url>/2024/12/13/PDFZZHCB5/</url>
-    <content><![CDATA[<!DOCTYPE html>
-
-<html en="zh">
-<head>
-
-<title>细胞生物学 第五版</title>
-
-</head>
-<body>
-
-<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-
-<p>下载前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。不和谐和封杀的资源存123盘，方便下载，只需要浏览器登录即可不限
-速下载，比阿里云盘快，而阿里云盘必须用app才能下载</p>
-
-<p>关注公众号 Biodata of r获取最新资源资讯。</p>
-
-<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
-
-<p>所有资源均来自网络收集，切勿相信水印。</p>
-
-<p>所有资源不允许商业用途</p>
-
-<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
-
-<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
-
-<blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1HPN7P3afihI3dbsh8ouxKA">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lmsFf1mVyddxZpDEwwfeQ_aUnAtz3l8gCg&s" alt="R语言实战"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1mSJLdYkHcbUoh2_SFySjYQ" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://m.media-amazon.com/images/I/81RQflTLFaL._SY466_.jpg"
+                      alt="生物化学" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3798,7 +3977,110 @@ field. So, grab your copy and embark on an exciting molecular adventure! 📖✨
 <p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
 
 <blockquote>
-<p>You can get PDF via <a class="link" href="https://terabox.com/s/1vq_9EaWC21IgYC5GqtKoFw">Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img border="0" lazyload src="/images/loading.svg" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTfpYNKEryVnQrgE0Xl1QNDBunB2jUZtmXdQ&s" alt="细胞生物学 第四版"></p>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1vq_9EaWC21IgYC5GqtKoFw" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTfpYNKEryVnQrgE0Xl1QNDBunB2jUZtmXdQ&s"
+                      alt="细胞生物学 第四版" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>现代分子生物学 第五版</title>
+    <url>/2024/12/13/PDFZYXMMB5/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>现代分子生物学 第五版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>下载前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。不和谐和封杀的资源存123盘，方便下载，只需要浏览器登录即可不限
+速下载，比阿里云盘快，而阿里云盘必须用app才能下载</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1i58yggzMBWxDSdh8Zalo-w" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseMLk9LYyRPtXHsv9MIdeDf4seaAcmg4ltA&s"
+                      alt="现代分子生物学 第五版" 
+                ></p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>  
+
+</html>]]></content>
+      <categories>
+        <category>PDF</category>
+      </categories>
+      <tags>
+        <tag>Bioscience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>细胞生物学 第五版</title>
+    <url>/2024/12/13/PDFZZHCB5/</url>
+    <content><![CDATA[<!DOCTYPE html>
+
+<html en="zh">
+<head>
+
+<title>细胞生物学 第五版</title>
+
+</head>
+<body>
+
+<p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
+
+<p>下载前提是你能访问terabox网盘，不存百度，阿里，夸克，只是因为这个不会和谐资源。不和谐和封杀的资源存123盘，方便下载，只需要浏览器登录即可不限
+速下载，比阿里云盘快，而阿里云盘必须用app才能下载</p>
+
+<p>关注公众号 Biodata of r获取最新资源资讯。</p>
+
+<p>所有PDF资源均在图片上方Link中跳转至网盘，注意甄别超链接。</p>
+
+<p>所有资源均来自网络收集，切勿相信水印。</p>
+
+<p>所有资源不允许商业用途</p>
+
+<p>本站点及公众号不会索要你的任何信息，谨防上当受骗。</p>
+
+<p>本站点有面向世界各国的资源，请根据当地的法律法规规范使用，本站点不承担任何法律责任。</p>
+
+<blockquote>
+<p>You can get PDF via <a class="link"   href="https://terabox.com/s/1HPN7P3afihI3dbsh8ouxKA" >Link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lmsFf1mVyddxZpDEwwfeQ_aUnAtz3l8gCg&s"
+                      alt="R语言实战" 
+                ></p>
 </blockquote>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>  
@@ -3824,7 +4106,7 @@ field. So, grab your copy and embark on an exciting molecular adventure! 📖✨
 
 <p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link" href="https://www.apkmirror.com/">APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://apkcombo.com/">APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link" href="https://google-play.en.uptodown.com/">Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
+<p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：<br><a class="link"   href="https://www.techspot.com/downloads/6105-google-play-store.html" >TechSpot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://apkshki.cn.com/app/google-play-store" >APKSHKI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://google-play.fileplanet.com/apk" >FilePlanet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://mobile.softpedia.com/apk/google-play-store/" >Softpedia <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台非华为Harmony Next系统手机也可安装使用：<br><a class="link"   href="https://f-droid.org/en/packages/com.aurora.store/" >Aurora Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://uptodown-android.cn.uptodown.com/android" >uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://www.amazon.com/gp/mas/get/amazonapp" >Amazon App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：<br><a class="link"   href="https://www.apkmirror.com/" >APKmirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://apkcombo.com/" >APKCombo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://google-play.en.uptodown.com/" >Uptodown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。<br>MicroG所需要的安装包<a class="link"   href="https://microg.org/download.html" >项目主页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家&#x2F;地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
 </body>
 
@@ -3858,31 +4140,31 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
 <h2>Android</h2>
 
 <ol>
-<li>V2RayNG <a class="link" href="https://github.com/2dust/v2rayNG/releases">https://github.com/2dust/v2rayNG/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2RayNG <a class="link"   href="https://github.com/2dust/v2rayNG/releases" >https://github.com/2dust/v2rayNG/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li>Clash for Android (F-droid)</li>
-<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases">https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Hiddify <a class="link"   href="https://github.com/hiddify/hiddify-app/releases" >https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li>sing-box (Google Play Store)</li>
 <li>Nekobox (Google Play Store)</li>
 <li>ClashMeta for Android (F-droid)</li>
-<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases">https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Surfboard <a class="link" href="https://github.com/getsurfboard/surfboard/releases">https://github.com/getsurfboard/surfboard/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>FlClash <a class="link"   href="https://github.com/chen08209/FlClash/releases" >https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Surfboard <a class="link"   href="https://github.com/getsurfboard/surfboard/releases" >https://github.com/getsurfboard/surfboard/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li>HiddifyNG (Google Play Store)</li>
-<li>Karing <a class="link" href="https://github.com/KaringX/karing/releases">https://github.com/KaringX/karing/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Shadowsocks-android <a class="link" href="https://github.com/shadowsocks/shadowsocks-android/releases">https://github.com/shadowsocks/shadowsocks-android/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Karing <a class="link"   href="https://github.com/KaringX/karing/releases" >https://github.com/KaringX/karing/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Shadowsocks-android <a class="link"   href="https://github.com/shadowsocks/shadowsocks-android/releases" >https://github.com/shadowsocks/shadowsocks-android/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li>Trojan (Google Play Store)</li>
-<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases">https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>clash-rev <a class="link" href="https://github.com/MerlinKodo/clash-rev/releases">https://github.com/MerlinKodo/clash-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>mihomo <a class="link" href="https://github.com/MetaCubeX/mihomo/releases">https://github.com/MetaCubeX/mihomo/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases">https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases">https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>shadowsocksr-v2ray-trojan-android <a class="link" href="https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases">https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>ShadowShare <a class="link" href="https://github.com/Pawdroid/ShadowShare/releases">https://github.com/Pawdroid/ShadowShare/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Shadowrocketx- <a class="link" href="https://github.com/crosserR/Shadowrocketx-/releases">https://github.com/crosserR/Shadowrocketx-/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>XX-Net <a class="link"   href="https://github.com/XX-net/XX-Net/releases" >https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>clash-rev <a class="link"   href="https://github.com/MerlinKodo/clash-rev/releases" >https://github.com/MerlinKodo/clash-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>mihomo <a class="link"   href="https://github.com/MetaCubeX/mihomo/releases" >https://github.com/MetaCubeX/mihomo/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2ray-core <a class="link"   href="https://github.com/v2fly/v2ray-core/releases" >https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Xray-core <a class="link"   href="https://github.com/XTLS/Xray-core/releases" >https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>shadowsocksr-v2ray-trojan-android <a class="link"   href="https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases" >https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ShadowShare <a class="link"   href="https://github.com/Pawdroid/ShadowShare/releases" >https://github.com/Pawdroid/ShadowShare/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Shadowrocketx- <a class="link"   href="https://github.com/crosserR/Shadowrocketx-/releases" >https://github.com/crosserR/Shadowrocketx-/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <h2>iOS/iPadOS/MacOS</h2>
 
 <ol>
-<li>ClashX <a class="link" href="https://github.com/alvincrisuy/clashX/releases">https://github.com/alvincrisuy/clashX/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ClashX <a class="link"   href="https://github.com/alvincrisuy/clashX/releases" >https://github.com/alvincrisuy/clashX/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li>karing (App Store)</li>
 <li>sing-box (App Store)</li>
 <li>Hiddify (App Store)</li>
@@ -3890,130 +4172,93 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
 <li>Surge (App Store)</li>
 <li>Loon (App Store)</li>
 <li>Shadowrocket (App Store)</li>
-<li>Clash Verge Rev <a class="link" href="https://github.com/clash-verge-rev/clash-verge-rev/releases">https://github.com/clash-verge-rev/clash-verge-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases">https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Nyanpasu <a class="link" href="https://github.com/libnyanpasu/clash-nyanpasu/releases">https://github.com/libnyanpasu/clash-nyanpasu/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases">https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Verge <a class="link" href="https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8">https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases">https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases">https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases">https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2RayU <a class="link" href="https://github.com/yanue/V2rayU">https://github.com/yanue/V2rayU <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Qv2ray <a class="link" href="https://github.com/Qv2ray/Qv2ray/releases">https://github.com/Qv2ray/Qv2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>ShadowsocksX-NG <a class="link" href="https://github.com/shadowsocks/ShadowsocksX-NG/releases">https://github.com/shadowsocks/ShadowsocksX-NG/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Trojan <a class="link" href="https://github.com/trojan-gfw/trojan/releases">https://github.com/trojan-gfw/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Verge Rev <a class="link"   href="https://github.com/clash-verge-rev/clash-verge-rev/releases" >https://github.com/clash-verge-rev/clash-verge-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>FlClash <a class="link"   href="https://github.com/chen08209/FlClash/releases" >https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Nyanpasu <a class="link"   href="https://github.com/libnyanpasu/clash-nyanpasu/releases" >https://github.com/libnyanpasu/clash-nyanpasu/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Hiddify <a class="link"   href="https://github.com/hiddify/hiddify-app/releases" >https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Verge <a class="link"   href="https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8" >https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>XX-Net <a class="link"   href="https://github.com/XX-net/XX-Net/releases" >https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2ray-core <a class="link"   href="https://github.com/v2fly/v2ray-core/releases" >https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Xray-core <a class="link"   href="https://github.com/XTLS/Xray-core/releases" >https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2RayU <a class="link"   href="https://github.com/yanue/V2rayU" >https://github.com/yanue/V2rayU <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Qv2ray <a class="link"   href="https://github.com/Qv2ray/Qv2ray/releases" >https://github.com/Qv2ray/Qv2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ShadowsocksX-NG <a class="link"   href="https://github.com/shadowsocks/ShadowsocksX-NG/releases" >https://github.com/shadowsocks/ShadowsocksX-NG/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Trojan <a class="link"   href="https://github.com/trojan-gfw/trojan/releases" >https://github.com/trojan-gfw/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <h2>Windows</h2>
 
 <ol>
-<li>V2RayN <a class="link" href="https://github.com/2dust/v2rayN/releases">https://github.com/2dust/v2rayN/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>ClashN <a class="link" href="https://github.com/2dust/clashN/releases">https://github.com/2dust/clashN/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash for Windows <a class="link" href="https://github.com/clashdownload/Clash_for_Windows/releases">https://github.com/clashdownload/Clash_for_Windows/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Verge <a class="link" href="https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8">https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Verge Rev <a class="link" href="https://github.com/clash-verge-rev/clash-verge-rev/releases">https://github.com/clash-verge-rev/clash-verge-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Meta for Windows Mini <a class="link" href="https://github.com/kogekiplay/ClashMetaForWindows_Mini/tags">https://github.com/kogekiplay/ClashMetaForWindows_Mini/tags <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clashr-Auto Desktop <a class="link" href="https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases">https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases">https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>ClashPro <a class="link" href="https://github.com/xyzbubu/ClashPro">https://github.com/xyzbubu/ClashPro <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>sing-box <a class="link" href="https://github.com/SagerNet/sing-box/releases">https://github.com/SagerNet/sing-box/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases">https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Karing <a class="link" href="https://github.com/KaringX/karing/releases">https://github.com/KaringX/karing/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Nyanpasu <a class="link" href="https://github.com/libnyanpasu/clash-nyanpasu/releases">https://github.com/libnyanpasu/clash-nyanpasu/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2RayA <a class="link" href="https://github.com/v2rayA/v2rayA/releases">https://github.com/v2rayA/v2rayA/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases">https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>clash-rev <a class="link" href="https://github.com/MerlinKodo/clash-rev/releases">https://github.com/MerlinKodo/clash-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>mihomo <a class="link" href="https://github.com/MetaCubeX/mihomo/releases">https://github.com/MetaCubeX/mihomo/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases">https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases">https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Shadowsocks-windows <a class="link" href="https://github.com/shadowsocks/shadowsocks-windows/releases">https://github.com/shadowsocks/shadowsocks-windows/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Qv2ray <a class="link" href="https://github.com/Qv2ray/Qv2ray/releases">https://github.com/Qv2ray/Qv2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>xray <a class="link" href="https://github.com/chaitin/xray/releases">https://github.com/chaitin/xray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>WinXray <a class="link" href="https://github.com/TheMRLL/WinXray/releases">https://github.com/TheMRLL/WinXray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Trojan <a class="link" href="https://github.com/trojan-gfw/trojan/releases">https://github.com/trojan-gfw/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>trojan-go <a class="link" href="https://github.com/p4gefau1t/trojan-go/releases">https://github.com/p4gefau1t/trojan-go/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2RayN <a class="link"   href="https://github.com/2dust/v2rayN/releases" >https://github.com/2dust/v2rayN/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ClashN <a class="link"   href="https://github.com/2dust/clashN/releases" >https://github.com/2dust/clashN/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash for Windows <a class="link"   href="https://github.com/clashdownload/Clash_for_Windows/releases" >https://github.com/clashdownload/Clash_for_Windows/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Verge <a class="link"   href="https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8" >https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Verge Rev <a class="link"   href="https://github.com/clash-verge-rev/clash-verge-rev/releases" >https://github.com/clash-verge-rev/clash-verge-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Meta for Windows Mini <a class="link"   href="https://github.com/kogekiplay/ClashMetaForWindows_Mini/tags" >https://github.com/kogekiplay/ClashMetaForWindows_Mini/tags <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clashr-Auto Desktop <a class="link"   href="https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases" >https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Hiddify <a class="link"   href="https://github.com/hiddify/hiddify-app/releases" >https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ClashPro <a class="link"   href="https://github.com/xyzbubu/ClashPro" >https://github.com/xyzbubu/ClashPro <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>sing-box <a class="link"   href="https://github.com/SagerNet/sing-box/releases" >https://github.com/SagerNet/sing-box/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>FlClash <a class="link"   href="https://github.com/chen08209/FlClash/releases" >https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Karing <a class="link"   href="https://github.com/KaringX/karing/releases" >https://github.com/KaringX/karing/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Nyanpasu <a class="link"   href="https://github.com/libnyanpasu/clash-nyanpasu/releases" >https://github.com/libnyanpasu/clash-nyanpasu/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2RayA <a class="link"   href="https://github.com/v2rayA/v2rayA/releases" >https://github.com/v2rayA/v2rayA/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>XX-Net <a class="link"   href="https://github.com/XX-net/XX-Net/releases" >https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>clash-rev <a class="link"   href="https://github.com/MerlinKodo/clash-rev/releases" >https://github.com/MerlinKodo/clash-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>mihomo <a class="link"   href="https://github.com/MetaCubeX/mihomo/releases" >https://github.com/MetaCubeX/mihomo/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2ray-core <a class="link"   href="https://github.com/v2fly/v2ray-core/releases" >https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Xray-core <a class="link"   href="https://github.com/XTLS/Xray-core/releases" >https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Shadowsocks-windows <a class="link"   href="https://github.com/shadowsocks/shadowsocks-windows/releases" >https://github.com/shadowsocks/shadowsocks-windows/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Qv2ray <a class="link"   href="https://github.com/Qv2ray/Qv2ray/releases" >https://github.com/Qv2ray/Qv2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>xray <a class="link"   href="https://github.com/chaitin/xray/releases" >https://github.com/chaitin/xray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>WinXray <a class="link"   href="https://github.com/TheMRLL/WinXray/releases" >https://github.com/TheMRLL/WinXray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Trojan <a class="link"   href="https://github.com/trojan-gfw/trojan/releases" >https://github.com/trojan-gfw/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>trojan-go <a class="link"   href="https://github.com/p4gefau1t/trojan-go/releases" >https://github.com/p4gefau1t/trojan-go/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <h2>Linux</h2>
 
 <ol>
-<li>V2RayN <a class="link" href="https://github.com/2dust/v2rayN/releases">https://github.com/2dust/v2rayN/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2RayN <a class="link"   href="https://github.com/2dust/v2rayN/releases" >https://github.com/2dust/v2rayN/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li>Clash for windows (official deletes the repo, but you can get it via Google Search)</li>
-<li>sing-box <a class="link" href="https://github.com/SagerNet/sing-box/releases">https://github.com/SagerNet/sing-box/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Verge Rev <a class="link" href="https://github.com/clash-verge-rev/clash-verge-rev/releases">https://github.com/clash-verge-rev/clash-verge-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases">https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clashr-Auto Desktop <a class="link" href="https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases">https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Nyanpasu <a class="link" href="https://github.com/libnyanpasu/clash-nyanpasu/releases">https://github.com/libnyanpasu/clash-nyanpasu/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases">https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Clash Verge <a class="link" href="https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8">https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2RayA <a class="link" href="https://github.com/v2rayA/v2rayA/releases">https://github.com/v2rayA/v2rayA/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases">https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>ProxySU <a class="link" href="https://github.com/proxysu/ProxySU/releases">https://github.com/proxysu/ProxySU/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>clash-rev <a class="link" href="https://github.com/MerlinKodo/clash-rev/releases">https://github.com/MerlinKodo/clash-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>mihomo <a class="link" href="https://github.com/MetaCubeX/mihomo/releases">https://github.com/MetaCubeX/mihomo/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases">https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases">https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>v2ray <a class="link" href="https://github.com/233boy/v2ray/releases">https://github.com/233boy/v2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Qv2ray <a class="link" href="https://github.com/Qv2ray/Qv2ray/releases">https://github.com/Qv2ray/Qv2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>xray <a class="link" href="https://github.com/chaitin/xray/releases">https://github.com/chaitin/xray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>v2rayL <a class="link" href="https://github.com/jiangxufeng/v2rayL/releases">https://github.com/jiangxufeng/v2rayL/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Trojan <a class="link" href="https://github.com/trojan-gfw/trojan/releases">https://github.com/trojan-gfw/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Trojan-new <a class="link" href="https://github.com/Jrohy/trojan/releases">https://github.com/Jrohy/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>trojan-go <a class="link" href="https://github.com/p4gefau1t/trojan-go/releases">https://github.com/p4gefau1t/trojan-go/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>sing-box <a class="link"   href="https://github.com/SagerNet/sing-box/releases" >https://github.com/SagerNet/sing-box/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Verge Rev <a class="link"   href="https://github.com/clash-verge-rev/clash-verge-rev/releases" >https://github.com/clash-verge-rev/clash-verge-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>FlClash <a class="link"   href="https://github.com/chen08209/FlClash/releases" >https://github.com/chen08209/FlClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clashr-Auto Desktop <a class="link"   href="https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases" >https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Nyanpasu <a class="link"   href="https://github.com/libnyanpasu/clash-nyanpasu/releases" >https://github.com/libnyanpasu/clash-nyanpasu/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Hiddify <a class="link"   href="https://github.com/hiddify/hiddify-app/releases" >https://github.com/hiddify/hiddify-app/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Clash Verge <a class="link"   href="https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8" >https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2RayA <a class="link"   href="https://github.com/v2rayA/v2rayA/releases" >https://github.com/v2rayA/v2rayA/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>XX-Net <a class="link"   href="https://github.com/XX-net/XX-Net/releases" >https://github.com/XX-net/XX-Net/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>ProxySU <a class="link"   href="https://github.com/proxysu/ProxySU/releases" >https://github.com/proxysu/ProxySU/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>clash-rev <a class="link"   href="https://github.com/MerlinKodo/clash-rev/releases" >https://github.com/MerlinKodo/clash-rev/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>mihomo <a class="link"   href="https://github.com/MetaCubeX/mihomo/releases" >https://github.com/MetaCubeX/mihomo/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>V2ray-core <a class="link"   href="https://github.com/v2fly/v2ray-core/releases" >https://github.com/v2fly/v2ray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Xray-core <a class="link"   href="https://github.com/XTLS/Xray-core/releases" >https://github.com/XTLS/Xray-core/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>v2ray <a class="link"   href="https://github.com/233boy/v2ray/releases" >https://github.com/233boy/v2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Qv2ray <a class="link"   href="https://github.com/Qv2ray/Qv2ray/releases" >https://github.com/Qv2ray/Qv2ray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>xray <a class="link"   href="https://github.com/chaitin/xray/releases" >https://github.com/chaitin/xray/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>v2rayL <a class="link"   href="https://github.com/jiangxufeng/v2rayL/releases" >https://github.com/jiangxufeng/v2rayL/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Trojan <a class="link"   href="https://github.com/trojan-gfw/trojan/releases" >https://github.com/trojan-gfw/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Trojan-new <a class="link"   href="https://github.com/Jrohy/trojan/releases" >https://github.com/Jrohy/trojan/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>trojan-go <a class="link"   href="https://github.com/p4gefau1t/trojan-go/releases" >https://github.com/p4gefau1t/trojan-go/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <h2>OpenWrt/iStoreOS</h2>
 
 <ol>
-<li>openClash <a class="link" href="https://github.com/vernesong/OpenClash/releases">https://github.com/vernesong/OpenClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>passwall <a class="link" href="https://github.com/xiaorouji/openwrt-passwall/releases">https://github.com/xiaorouji/openwrt-passwall/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>openClash <a class="link"   href="https://github.com/vernesong/OpenClash/releases" >https://github.com/vernesong/OpenClash/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>passwall <a class="link"   href="https://github.com/xiaorouji/openwrt-passwall/releases" >https://github.com/xiaorouji/openwrt-passwall/releases <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
 <h2>美区Apple ID</h2>
 <p>非常简单，首先注册你所在国家或地区的Apple账号，然后在账号信息中修改成美国地址即可，可以用美国地址生成器完成。</p>
 
 <h2>For Chinese</h2>
 
-<p>对于使用Android手机的用户，国产OS内置大量广告以及反诈骗APP，十分影响体验，因此可以刷入基于AOSP制作的类原生OS，没有广告且不臃肿，比较有名的<br>有 <a class="link" href="https://get.pixelexperience.org/">Pixel Experience <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , <a class="link" href="https://lineageos.org/">Lineage OS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , <a class="link" href="https://ares-os.org/">Ares OS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ,<br><a class="link" href="https://crdroid.net/">CrDroid <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 等等。鉴于国家政策，多数厂商关闭了BL解锁通道，目前仅有OnePlus用户可以轻松解锁BootLoader进行刷机操作，其<br>他品牌均有各种问题，需要说明的是三星解锁Bl很简单，但是不能root，有熔断机制。因此如果你有搞机需求，国产手机仅有oneplus还可以，国外品牌就很轻松了，<br>Google Pixel，Samsung，Sony，Moto均没有限制，其中Google的ROM最多。</p>
+<p>对于使用Android手机的用户，国产OS内置大量广告以及反诈骗APP，十分影响体验，因此可以刷入基于AOSP制作的类原生OS，没有广告且不臃肿，比较有名的<br>有 <a class="link"   href="https://get.pixelexperience.org/" >Pixel Experience <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , <a class="link"   href="https://lineageos.org/" >Lineage OS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , <a class="link"   href="https://ares-os.org/" >Ares OS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ,<br><a class="link"   href="https://crdroid.net/" >CrDroid <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 等等。鉴于国家政策，多数厂商关闭了BL解锁通道，目前仅有OnePlus用户可以轻松解锁BootLoader进行刷机操作，其<br>他品牌均有各种问题，需要说明的是三星解锁Bl很简单，但是不能root，有熔断机制。因此如果你有搞机需求，国产手机仅有oneplus还可以，国外品牌就很轻松了，<br>Google Pixel，Samsung，Sony，Moto均没有限制，其中Google的ROM最多。</p>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me&#x2F;赞助我</a></p>
 </body>
 
 </html>]]></content>
       <categories>
         <category>APP</category>
-      </categories>
-      <tags>
-        <tag>Proxy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Reconmmended Node Shop</title>
-    <url>/2024/11/02/Recommended-NodeShop/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-
-<title>Reconmmended Node Shop</title>
-</head>
-<body>
-
-<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
-
-<h1 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h1><p>可选择的机场很多，但也不乏有几元&#x2F;月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
-<h1 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h1><ol>
-<li><a class="link" href="https://juziyun996.xyz/auth/register?code=HmUU">桔子云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.nicecloud.ink/register?aff=uIZATVIk">NiceCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://www.ikuajings.com/auth/register?code=isH2">跨境Cloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://jikeq87.xyz/auth/register?code=T2o4">极客云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://portal.dc-site5.com/#/register?code=nTu25MIJ">DuangCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://shuttle.gt-all.com/aff.php?aff=10426">Gatern <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link" href="https://llg01.com/#/register?code=vbCJ3mLb">流量光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>  ### 此机场似乎有问题，慎重选择</li>
-</ol>
-<blockquote>
-<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
-</blockquote>
-<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
-</body>
-
-</html>]]></content>
-      <categories>
-        <category>Node Shop</category>
       </categories>
       <tags>
         <tag>Proxy</tag>
@@ -4036,7 +4281,12 @@ Linux) and provide you links. Because of open sources, they're very safe.</p>
 articles, videos, and web content are stored, easily accessible whenever you need them. That’s exactly what the 
 <font color="red"><b>Pocket</b></font> app offers!</p>
 
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/SaveAnyWebsite/pocket.png" alt="pocket">
+<img  border="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/SaveAnyWebsite/pocket.png"
+                      alt="pocket" 
+                >
 
 <p>Pocket is a fantastic tool that lets you save all sorts of content for later reading or viewing. Whether you come 
 across an insightful article during a busy workday, or a thought-provoking video that you just don’t have the time to 
@@ -4051,11 +4301,11 @@ on deep-sea exploration you saved last month. And for those who enjoy a good lis
 functionality turns articles into an audio experience.</p>
 <p>So, if you’re looking to streamline your reading and viewing habits and never miss out on great content again, 
 Pocket is the app for you. Download it today and start saving smarter! 📚✨</p>
-<p>Pocket是一款Android/iOS软件，当然也有<a class="link" href="https://getpocket.com/home">网页端 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。移动端请从
-<a class="link" href="https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&pli=1">Google Play Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>/
-<a class="link" href="https://apps.apple.com/us/app/pocket-stay-informed/id309601447">App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>下载。浏览器插件提供更便捷的保存网站操作，
-<a class="link" href="https://microsoftedge.microsoft.com/addons/detail/save-to-pocket/jicacccodjjgmghnmekophahpmddeemd">Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和
-<a class="link" href="https://chromewebstore.google.com/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en-US">Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>有
+<p>Pocket是一款Android/iOS软件，当然也有<a class="link"   href="https://getpocket.com/home" >网页端 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。移动端请从
+<a class="link"   href="https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&pli=1" >Google Play Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>/
+<a class="link"   href="https://apps.apple.com/us/app/pocket-stay-informed/id309601447" >App Store <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>下载。浏览器插件提供更便捷的保存网站操作，
+<a class="link"   href="https://microsoftedge.microsoft.com/addons/detail/save-to-pocket/jicacccodjjgmghnmekophahpmddeemd" >Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和
+<a class="link"   href="https://chromewebstore.google.com/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en-US" >Chrome <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>有
 对应的插件。</p>
 
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我&#x2F;Sponsor me</a></p>
@@ -4071,49 +4321,46 @@ Pocket is the app for you. Download it today and start saving smarter! 📚✨</
       </tags>
   </entry>
   <entry>
-    <title>Sponsor Me/赞助我</title>
-    <url>/2024/10/24/SponsorMe/</url>
+    <title>Reconmmended Node Shop</title>
+    <url>/2024/11/02/Recommended-NodeShop/</url>
     <content><![CDATA[<!DOCTYPE html>
 <html>
 <head>
 
-<title>Sponsor Me/赞助我</title>
+<title>Reconmmended Node Shop</title>
 </head>
 <body>
 
-<h2>Sponsor me/Buy me a coffee/Support me/赞助我
+<p>After reading this post, you should read <a href="https://alllink-official.github.io/2024/10/24/Guidance/">Guidance</a>.</p>
 
-<h3>For Chinese
-<h4>Wechat/微信
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/Buy me a coffee/WeChatPay.png" alt="WeChat">
-如果图片不显示，点击 <a href="https://gitee.com/lee-felix/sponsr/raw/master/WeChatPay.png/">链接直达</a>
+<h1 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h1><p>可选择的机场很多，但也不乏有几元&#x2F;月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
+<h1 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h1><ol>
+<li><a class="link"   href="https://juziyun996.xyz/auth/register?code=HmUU" >桔子云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.nicecloud.ink/register?aff=uIZATVIk" >NiceCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.ikuajings.com/auth/register?code=isH2" >跨境Cloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://jikeq87.xyz/auth/register?code=T2o4" >极客云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://portal.dc-site5.com/#/register?code=nTu25MIJ" >DuangCloud <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://shuttle.gt-all.com/aff.php?aff=10426" >Gatern <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<blockquote>
+<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
+</blockquote>
+<p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我</a></p>
+</body>
 
-<h4>AliPay/支付宝
-<img border="0" lazyload src="/images/loading.svg" data-src="/source/_posts/Buy me a coffee/AliPay.jpg" alt="AliPay">
-如果图片不显示，点击 <a href="https://gitee.com/lee-felix/sponsr/blob/master/AliPay.jpg">链接直达</a>
-
-<h3>For everyone
-
-<h4>PayPal</h4>
-Coming soon...
-<h4>Apple Pay</h4>
-Coming soon...
-<h4>Google Pay</h4>
-Invaid way now.
-<h4>Cash APP Pay</h4>
-Coming soon...</h3></h4></h4></h3></h2></body></html>]]></content>
+</html>]]></content>
       <categories>
-        <category>Guidance</category>
+        <category>Node Shop</category>
       </categories>
       <tags>
-        <tag>Sponsor</tag>
+        <tag>Proxy</tag>
       </tags>
   </entry>
   <entry>
     <title>利用follo订阅本博客</title>
     <url>/2024/12/01/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/</url>
     <content><![CDATA[<h1 id="利用follo订阅该频道"><a href="#利用follo订阅该频道" class="headerlink" title="利用follo订阅该频道"></a>利用follo订阅该频道</h1><p>阅读完这篇文章后，你应该浏览一下<a href="https://alllink-official.github.io/2024/10/24/Guidance/">指导</a>，了解我们博客的主要方面。</p>
-<h1 id="follow"><a href="#follow" class="headerlink" title="follow"></a>follow</h1><h2 id="🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲"><a href="#🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲" class="headerlink" title="🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲"></a>🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲</h2><p>您是否厌倦了在社交媒体上无休止地滚动来寻找真正对您有用的新闻？欢迎使用<a class="link" href="https://github.com/RSSNext/Follow">RSSNext&#x2F;Follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，这款应用将成为您内容消费世界的新朋友！🚀 这款软件可在GitHub上获取，它旨在改变您关注喜爱的博客、新闻网站以及任何带有RSS订阅源的内容的方式。让我为您详细介绍一下为什么RSSNext&#x2F;Follow会是改变游戏规则的工具！📰✨</p>
+<h1 id="follow"><a href="#follow" class="headerlink" title="follow"></a>follow</h1><h2 id="🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲"><a href="#🌟-发现RSSNext-Follow：革新您的新闻阅读方式！-📲" class="headerlink" title="🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲"></a>🌟 发现RSSNext&#x2F;Follow：革新您的新闻阅读方式！ 📲</h2><p>您是否厌倦了在社交媒体上无休止地滚动来寻找真正对您有用的新闻？欢迎使用<a class="link"   href="https://github.com/RSSNext/Follow" >RSSNext&#x2F;Follow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，这款应用将成为您内容消费世界的新朋友！🚀 这款软件可在GitHub上获取，它旨在改变您关注喜爱的博客、新闻网站以及任何带有RSS订阅源的内容的方式。让我为您详细介绍一下为什么RSSNext&#x2F;Follow会是改变游戏规则的工具！📰✨</p>
 <h2 id="什么是RSSNext-Follow？"><a href="#什么是RSSNext-Follow？" class="headerlink" title="什么是RSSNext&#x2F;Follow？"></a>什么是RSSNext&#x2F;Follow？</h2><p>RSSNext&#x2F;Follow是一款强大的开源RSS聚合工具。它允许您在一个地方收集、组织和阅读来自各种来源的内容。忘记那些无关的噪音，这款应用让您专注于真正感兴趣的内容。🎯</p>
 <h2 id="为什么选择RSSNext-Follow？"><a href="#为什么选择RSSNext-Follow？" class="headerlink" title="为什么选择RSSNext&#x2F;Follow？"></a>为什么选择RSSNext&#x2F;Follow？</h2><ul>
 <li>用户友好的界面：再也不必忍受笨重、过时的设计了。RSSNext&#x2F;Follow拥有简洁、直观的用户界面，方便导航。无论您是技术专家还是普通用户，都能轻松上手。🏠 </li>
@@ -4122,10 +4369,20 @@ Coming soon...</h3></h4></h4></h3></h2></body></html>]]></content>
 <li>离线阅读：随时随地阅读。RSSNext&#x2F;Follow允许您下载文章进行离线阅读，适合通勤、飞行或任何网络不稳定的地方。✈️ </li>
 <li>开源且免费：最好的东西往往是免费的，RSSNext&#x2F;Follow也不例外。加上作为开源软件，它不断得到充满热情的开发者社区的改进。💪</li>
 </ul>
-<h2 id="如何开始？"><a href="#如何开始？" class="headerlink" title="如何开始？"></a>如何开始？</h2><p>点击<a class="link" href="https://github.com/RSSNext/Follow/releases">GitHub仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>并下载你使用操作系统的安装包。安装过程简洁明了，还有丰富的文档帮助您快速上手。📚</p>
+<h2 id="如何开始？"><a href="#如何开始？" class="headerlink" title="如何开始？"></a>如何开始？</h2><p>点击<a class="link"   href="https://github.com/RSSNext/Follow/releases" >GitHub仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>并下载你使用操作系统的安装包。安装过程简洁明了，还有丰富的文档帮助您快速上手。📚</p>
 <h2 id="利用follow订阅本博客"><a href="#利用follow订阅本博客" class="headerlink" title="利用follow订阅本博客"></a>利用follow订阅本博客</h2><ol>
-<li>打开follo软件，输入链接<code>https://alllink-official.github.io/atom.xml</code><br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow1.png"></li>
-<li>关注，可以根据自己的需要给与备注<br><img lazyload src="/images/loading.svg" data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow2.png"></li>
+<li>打开follo软件，输入链接<code>https://alllink-official.github.io/atom.xml</code><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow1.png"
+                     
+                ></li>
+<li>关注，可以根据自己的需要给与备注<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/source/_posts/%E5%88%A9%E7%94%A8follo%E8%AE%A2%E9%98%85%E8%AF%A5%E9%A2%91%E9%81%93/follow2.png"
+                     
+                ></li>
 <li>关注后，文章即可出现在APP主页</li>
 </ol>
 ]]></content>
