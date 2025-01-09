@@ -133,6 +133,11 @@
     
     
     
+
+    <!--- hexo-content-blocks-->
+    {%- if config.content_blocks.enable %}
+    <style type="text/css">{{ content_blocks_css() }}</style>
+    {%- endif %}
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="atom.xml" title="AllLink-official" type="application/atom+xml">
 </head>
 
@@ -825,7 +830,7 @@
                     </span>
                     
                         <span>
-                            69.1k words in total
+                            69.2k words in total
                         </span>
                     
                 </p>
