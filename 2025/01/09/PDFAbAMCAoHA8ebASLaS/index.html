@@ -44,7 +44,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://alllink-official.github.io/images/redefine-og.webp">
 <meta property="article:published_time" content="2025-01-09T05:42:24.000Z">
-<meta property="article:modified_time" content="2025-01-09T11:57:16.772Z">
+<meta property="article:modified_time" content="2025-01-09T12:27:40.724Z">
 <meta property="article:author" content="OLink-official">
 <meta property="article:tag" content="Bioscience">
 <meta name="twitter:card" content="summary">
@@ -135,7 +135,56 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="atom.xml" title="AllLink-official" type="application/atom+xml">
+<!-- hexo injector head_end start --><style>/* 布局样式 */
+.hexo-tips-layout {
+    margin: 1.5rem 0;
+    padding: 1.2rem 1.5rem;
+    border-radius: 8px;
+    border: 1px solid;
+    border-left-width: 6px;
+    display: flex;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+.hexo-tips-layout:hover {
+    transform: translateX(5px);
+}
+
+.hexo-tips-layout .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    font-size: clamp(2em, 2vw, 3em);
+    min-width: 2rem;
+    transition: transform 0.3s ease;
+}
+
+.hexo-tips-layout:hover .icon {
+    transform: scale(1.1);
+}
+
+.hexo-tips-layout .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.hexo-tips-layout:hover .content {
+    transform: translateX(3px);
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 768px) {
+    .hexo-tips-layout {
+        padding: 1rem;
+    }
+}
+
+</style><!-- hexo injector head_end end --><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="atom.xml" title="AllLink-official" type="application/atom+xml">
 </head>
 
 
@@ -819,8 +868,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-09 19:57:16</span>
-            <span class="mobile">2025-01-09 19:57:16</span>
+            <span class="desktop">2025-01-09 20:27:40</span>
+            <span class="mobile">2025-01-09 20:27:40</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -858,7 +907,7 @@
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>723 Words</span>
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>724 Words</span>
         </span>
     
     
@@ -931,13 +980,39 @@ data-full-width-responsive="true"></ins></p>
                       alt="Abrahams’ And Mcminn’s Clinical Atlas of Human Anatomy" 
                 ></p>
 </blockquote>
-<div class="admonition warning"><p class="admonition-title">warning</p><p>Please do not trust the watermark in the PDF.</p>
-</div>
-
+<p>
+                    <style>
+                    /* 1. 手动暗色模式优先 */
+                    html.dark .hexo-tips-warning {
+                        background-color: #3d371f;
+                    }
+                    /* 2. 系统暗色模式其次 */
+                    @media (prefers-color-scheme: dark) {
+                        html:not(.light) .hexo-tips-warning {
+                            background-color: #3d371f;
+                        }
+                    }
+                    /* 3. 亮色模式最后 */
+                    html:not(.dark) .hexo-tips-warning,
+                    html.light .hexo-tips-warning {
+                        background-color: #fff8e6;
+                    }
+                </style>
+                    <div class="hexo-tips-layout hexo-tips-warning" style="
+                    border-color: #ffb100;
+                    color: inherit;
+                ">
+                        <div class="icon" style="color: #ffb100">⚠</div>
+                        <div class="content"></p>
+<p><strong>Please do not trust the watermark in the PDF.</strong></p>
+<p></div>
+                    </div>
+                </p>
 <p><a href="https://alllink-official.github.io/2024/10/24/SponsorMe/">Sponsor me</a></p>
 </body>  
 
 </html>
+
 		</div>
 
 		
@@ -951,7 +1026,7 @@ data-full-width-responsive="true"></ins></p>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-09 19:57:16
+                    :</strong> 2025-01-09 20:27:40
             </li>
         
         <li>
