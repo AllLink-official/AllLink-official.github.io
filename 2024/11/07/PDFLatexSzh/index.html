@@ -190,7 +190,147 @@
     }
 }
 
-</style><!-- hexo injector head_end end --><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="atom.xml" title="AllLink-official" type="application/atom+xml">
+/* 为每种类型的提示框添加主题样式 */
+[class^="tips-style-"] {
+    --tips-light-bg: #fff; /* 默认值 */
+    --tips-dark-bg: #333;  /* 默认值 */
+    --tips-border: #000;   /* 默认值 */
+}
+
+/* 主题样式规则 */
+[class^="hexo-tips-"] {
+    border-color: var(--tips-border);
+}
+
+[class^="hexo-tips-"] .icon {
+    color: var(--tips-border);
+}
+
+/* 1. 手动暗色模式优先 */
+html.dark [class^="hexo-tips-"] {
+    background-color: var(--tips-dark-bg);
+}
+
+/* 2. 系统暗色模式其次 */
+@media (prefers-color-scheme: dark) {
+    html:not(.light) [class^="hexo-tips-"] {
+        background-color: var(--tips-dark-bg);
+    }
+}
+
+/* 3. 亮色模式最后 */
+html:not(.dark) [class^="hexo-tips-"],
+html.light [class^="hexo-tips-"] {
+    background-color: var(--tips-light-bg);
+}
+            .tips-style-warning {
+                --tips-light-bg: #fff8e6;
+                --tips-dark-bg: #3d371f;
+                --tips-border: #ffb100;
+            }
+        
+            .tips-style-danger {
+                --tips-light-bg: #ffeded;
+                --tips-dark-bg: #3d2222;
+                --tips-border: #ff4545;
+            }
+        
+            .tips-style-tip {
+                --tips-light-bg: #e6f4ff;
+                --tips-dark-bg: #1f2f3d;
+                --tips-border: #409eff;
+            }
+        
+            .tips-style-mention {
+                --tips-light-bg: #f3e6ff;
+                --tips-dark-bg: #2f1f3d;
+                --tips-border: #b45fff;
+            }
+        
+            .tips-style-recommend {
+                --tips-light-bg: #e6ffe6;
+                --tips-dark-bg: #1f3d1f;
+                --tips-border: #67c23a;
+            }
+        
+            .tips-style-note {
+                --tips-light-bg: #f5f5f5;
+                --tips-dark-bg: #363636;
+                --tips-border: #9e9e9e;
+            }
+        
+            .tips-style-info {
+                --tips-light-bg: #e3f2fd;
+                --tips-dark-bg: #1f313d;
+                --tips-border: #03a9f4;
+            }
+        
+            .tips-style-success {
+                --tips-light-bg: #e8f5e9;
+                --tips-dark-bg: #1f3d24;
+                --tips-border: #4caf50;
+            }
+        
+            .tips-style-error {
+                --tips-light-bg: #ffebee;
+                --tips-dark-bg: #3d1f22;
+                --tips-border: #f44336;
+            }
+        
+            .tips-style-bug {
+                --tips-light-bg: #fce4ec;
+                --tips-dark-bg: #3d1f2a;
+                --tips-border: #e91e63;
+            }
+        
+            .tips-style-todo {
+                --tips-light-bg: #f3e5f5;
+                --tips-dark-bg: #2f1f3d;
+                --tips-border: #9c27b0;
+            }
+        
+            .tips-style-example {
+                --tips-light-bg: #fff3e0;
+                --tips-dark-bg: #3d311f;
+                --tips-border: #ff9800;
+            }
+        
+            .tips-style-quote {
+                --tips-light-bg: #eceff1;
+                --tips-dark-bg: #1f292d;
+                --tips-border: #607d8b;
+            }
+        
+            .tips-style-link {
+                --tips-light-bg: #e8eaf6;
+                --tips-dark-bg: #1f2137;
+                --tips-border: #3f51b5;
+            }
+        
+            .tips-style-code {
+                --tips-light-bg: #fafafa;
+                --tips-dark-bg: #363636;
+                --tips-border: #616161;
+            }
+        
+            .tips-style-update {
+                --tips-light-bg: #e0f2f1;
+                --tips-dark-bg: #1f3734;
+                --tips-border: #009688;
+            }
+        
+            .tips-style-star {
+                --tips-light-bg: #fffde7;
+                --tips-dark-bg: #3d3a1f;
+                --tips-border: #ffd700;
+            }
+        
+            .tips-style-time {
+                --tips-light-bg: #efebe9;
+                --tips-dark-bg: #332824;
+                --tips-border: #795548;
+            }
+        </style><!-- hexo injector head_end end --><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="atom.xml" title="AllLink-official" type="application/atom+xml">
 </head>
 
 
